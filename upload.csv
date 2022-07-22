@@ -1,0 +1,2232 @@
+Id,State_Name,District_Name,Crop_Year,Season,Crop,Area,Production,cat_crop
+1,Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Arecanut,1254,2000,Nuts
+2,Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Other Kharif pulses,2,1,Pulses
+3,Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Rice,102,321,Cereal
+4,Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Banana,176,641,Fruits
+5,Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Cashewnut,720,165,Nuts
+6,Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Coconut ,18168,65100000,Fruits
+7,Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Dry ginger,36,100,Species
+8,Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Sugarcane,1,2,Sugarcane
+9,Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Sweet potato,5,15,Vegetables
+10,Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Tapioca,40,169,Beans
+11,Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Arecanut,1254,2061,Nuts
+12,Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Other Kharif pulses,2,1,Pulses
+13,Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Rice,83,300,Cereal
+14,Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Cashewnut,719,192,Nuts
+15,Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Coconut ,18190,64430000,Fruits
+16,Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Dry ginger,46,100,Species
+17,Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Sugarcane,1,1,Sugarcane
+18,Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Sweet potato,11,33,Vegetables
+19,Andaman and Nicobar Islands,NICOBARS,2002,Kharif     ,Rice,189.2,510.84,Cereal
+20,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Arecanut,1258,2083,Nuts
+21,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Banana,213,1278,Fruits
+22,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Black pepper,63,13.5,Species
+23,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Cashewnut,719,208,Nuts
+24,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Coconut ,18240,67490000,Fruits
+25,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Dry chillies,413,28.8,Species
+26,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Dry ginger,47.3,133,Species
+27,Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Sugarcane,5,40,Sugarcane
+28,Andaman and Nicobar Islands,NICOBARS,2003,Kharif     ,Rice,52,90.17,Cereal
+29,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Arecanut,1261,1525,Nuts
+30,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Banana,266,1763,Fruits
+31,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Black pepper,75.5,15.86,Species
+32,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Cashewnut,717,208.5,Nuts
+33,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Coconut ,18284.74,68580000,Fruits
+34,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Dry chillies,60,102,Species
+35,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Dry ginger,102,326.4,Species
+36,Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,other oilseeds,4.2,0.3,Oilseeds
+37,Andaman and Nicobar Islands,NICOBARS,2004,Kharif     ,Rice,52.94,72.57,Cereal
+38,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Arecanut,1264.7,805.85,Nuts
+39,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Banana,66.42,404.12,Fruits
+40,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Black pepper,85,15.86,Species
+41,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Cashewnut,683.5,197.9,Nuts
+42,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Coconut ,18394.7,52380000,Fruits
+43,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Dry chillies,60,145.2,Species
+44,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Dry ginger,118,366,Species
+45,Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,other oilseeds,1,0.11,Oilseeds
+46,Andaman and Nicobar Islands,NICOBARS,2005,Kharif     ,Rice,2.09,12.06,Cereal
+47,Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Banana,22,582,Fruits
+48,Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Black pepper,41,0.1,Species
+49,Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Cashewnut,450,55.8,Nuts
+50,Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Coconut ,13876.57,52030000,Fruits
+51,Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Turmeric,10,70,Species
+52,Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Arecanut,896,477.6,Nuts
+53,Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Banana,198,976,Fruits
+54,Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Black pepper,22.16,0.68,Species
+55,Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Cashewnut,450,85.13,Nuts
+56,Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Coconut ,14358,59370000,Fruits
+57,Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Dry chillies,3,9,Species
+58,Andaman and Nicobar Islands,NICOBARS,2006,Whole Year ,Dry ginger,6,21,Species
+59,West Bengal,MEDINIPUR WEST,2004,Rabi       ,Rapeseed &Mustard,21672,16027,Oilseeds
+60,West Bengal,MEDINIPUR WEST,2004,Rabi       ,Urad,1185,1114,Pulses
+61,West Bengal,MEDINIPUR WEST,2004,Rabi       ,Wheat,11463,24123,Cereal
+62,West Bengal,MEDINIPUR WEST,2004,Summer     ,Moong(Green Gram),2033,673,Fruits
+63,West Bengal,MEDINIPUR WEST,2004,Summer     ,Rice,121743,370448,Cereal
+64,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Coconut ,1150,18433.4,Fruits
+65,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Dry chillies,5941,5804,Species
+66,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Groundnut,9945,15967,Nuts
+67,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Potato,56673,1268695,Vegetables
+68,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Sannhamp,418,2169,Fertile Plant
+69,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Sesamum,53774,45921,Oilseeds
+70,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Sugarcane,2230,122446,Sugarcane
+71,West Bengal,MEDINIPUR WEST,2004,Whole Year ,Turmeric,1448,1791,Species
+72,West Bengal,MEDINIPUR WEST,2004,Winter     ,Rice,480679,1259961,Cereal
+73,West Bengal,MEDINIPUR WEST,2005,Autumn     ,Rice,40622,89173,Cereal
+74,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Cotton(lint),31,32,fibres
+75,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Dry ginger,1621,2177,Species
+76,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Jute,5209,74916,fibres
+77,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Maize,1125,2033,Cereal
+78,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Mesta,3,31,fibres
+79,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Moong(Green Gram),150,76,Fruits
+80,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Niger seed,75,34,Oilseeds
+81,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Other Kharif pulses,370,345,Pulses
+82,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Sunflower,392,557,Oilseeds
+83,West Bengal,MEDINIPUR WEST,2005,Kharif     ,Urad,20,5,Pulses
+84,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Arhar/Tur,274,286,Pulses
+85,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Castor seed,45,37,Oilseeds
+86,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Gram,55,44,Beans
+87,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Horse-gram,855,457,Beans
+88,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Khesari,250,218,Vegetables
+89,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Linseed,9,2,Oilseeds
+90,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Masoor,213,125,Pulses
+91,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Moong(Green Gram),750,533,Fruits
+92,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Peas & beans (Pulses),26,33,Pulses
+93,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Rapeseed &Mustard,20249,16736,Oilseeds
+94,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Safflower,190,120,Oilseeds
+95,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Urad,1225,1091,Pulses
+96,West Bengal,MEDINIPUR WEST,2005,Rabi       ,Wheat,12071,21026,Cereal
+97,West Bengal,MEDINIPUR WEST,2005,Summer     ,Moong(Green Gram),2735,1107,Fruits
+98,West Bengal,MEDINIPUR WEST,2005,Summer     ,Rice,121906,361879,Cereal
+99,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Arecanut,124,131,Nuts
+100,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Coconut ,1170,19486,Fruits
+101,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Dry chillies,5845,5101,Species
+102,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Groundnut,11325,18152,Nuts
+103,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Potato,71334,1519588,Vegetables
+104,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Sannhamp,277,1496,Fertile Plant
+105,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Sesamum,52266,44002,Oilseeds
+106,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Sugarcane,1915,174978,Sugarcane
+107,West Bengal,MEDINIPUR WEST,2005,Whole Year ,Turmeric,1543,1807,Species
+108,West Bengal,MEDINIPUR WEST,2005,Winter     ,Rice,491499,1178578,Cereal
+109,West Bengal,MEDINIPUR WEST,2006,Autumn     ,Rice,41452,81267,Cereal
+110,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Bajra,79,31,Cereal
+111,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Cotton(lint),291,2328,fibres
+112,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Dry ginger,1835,2523,Species
+113,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Jute,5178,70826,fibres
+114,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Maize,799,1825,Cereal
+115,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Moong(Green Gram),96,55,Fruits
+116,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Niger seed,55,22,Oilseeds
+117,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Other Kharif pulses,355,302,Pulses
+118,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Sunflower,350,519,Oilseeds
+119,West Bengal,MEDINIPUR WEST,2006,Kharif     ,Urad,469,161,Pulses
+120,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Arhar/Tur,329,199,Pulses
+121,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Castor seed,58,49,Oilseeds
+122,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Gram,13,10,Beans
+123,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Horse-gram,900,473,Beans
+124,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Khesari,87,50,Vegetables
+125,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Masoor,246,145,Pulses
+126,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Moong(Green Gram),710,490,Fruits
+127,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Peas & beans (Pulses),7,4,Pulses
+128,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Rapeseed &Mustard,16981,13256,Oilseeds
+129,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Safflower,247,161,Oilseeds
+130,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Urad,1105,995,Pulses
+131,West Bengal,MEDINIPUR WEST,2006,Rabi       ,Wheat,7122,15259,Cereal
+132,West Bengal,MEDINIPUR WEST,2006,Summer     ,Moong(Green Gram),1630,545,Fruits
+133,West Bengal,MEDINIPUR WEST,2006,Summer     ,Rice,137915,436435,Cereal
+134,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Arecanut,135,157,Nuts
+135,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Coconut ,1180,18035100,Fruits
+136,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Dry chillies,5395,5510,Species
+137,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Groundnut,13815,22308,Nuts
+138,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Potato,79435,843729,Vegetables
+139,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Sannhamp,341,1876,Fertile Plant
+140,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Sesamum,64910,63130,Oilseeds
+141,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Sugarcane,2720,204954,Sugarcane
+142,West Bengal,MEDINIPUR WEST,2006,Whole Year ,Turmeric,1475,1789,Species
+143,West Bengal,MEDINIPUR WEST,2006,Winter     ,Rice,513019,1281080,Cereal
+144,West Bengal,MEDINIPUR WEST,2007,Autumn     ,Rice,41368,84059,Cereal
+145,West Bengal,MEDINIPUR WEST,2007,Autumn     ,Sesamum,257,216,Oilseeds
+146,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Cotton(lint),650,3250,fibres
+147,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Dry ginger,1835,2523,Species
+148,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Garlic,110,1210,Species
+149,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Groundnut,1368,1363,Nuts
+150,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Jute,4760,53120,fibres
+151,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Maize,82,77,Cereal
+152,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Moong(Green Gram),80,50,Fruits
+153,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Other Kharif pulses,395,336,Pulses
+154,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Sannhamp,260,1482,Fertile Plant
+155,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Sunflower,452,723,Oilseeds
+156,West Bengal,MEDINIPUR WEST,2007,Kharif     ,Urad,117,35,Pulses
+157,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Arhar/Tur,154,72,Pulses
+158,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Groundnut,4585,7336,Nuts
+159,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Horse-gram,845,448,Beans
+160,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Khesari,108,71,Vegetables
+161,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Maize,70,98,Cereal
+162,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Masoor,46,40,Pulses
+163,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Moong(Green Gram),935,655,Fruits
+164,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Peas & beans (Pulses),1,1,Pulses
+165,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Rapeseed &Mustard,16376,14811,Oilseeds
+166,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Safflower,438,280,Oilseeds
+167,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Urad,1105,983,Pulses
+168,West Bengal,MEDINIPUR WEST,2007,Rabi       ,Wheat,6539,16603,Cereal
+169,West Bengal,MEDINIPUR WEST,2007,Summer     ,Groundnut,14446,38282,Nuts
+170,West Bengal,MEDINIPUR WEST,2007,Summer     ,Maize,354,867,Cereal
+171,West Bengal,MEDINIPUR WEST,2007,Summer     ,Moong(Green Gram),1803,1646,Fruits
+172,West Bengal,MEDINIPUR WEST,2007,Summer     ,Rice,167509,558553,Cereal
+173,West Bengal,MEDINIPUR WEST,2007,Summer     ,Sesamum,69480,65298,Oilseeds
+174,West Bengal,MEDINIPUR WEST,2007,Whole Year ,Arecanut,135,170,Nuts
+175,West Bengal,MEDINIPUR WEST,2007,Whole Year ,Coconut ,1450,20036400,Fruits
+176,West Bengal,MEDINIPUR WEST,2007,Whole Year ,Dry chillies,5595,6216,Species
+177,West Bengal,MEDINIPUR WEST,2007,Whole Year ,Potato,70653,1874358,Vegetables
+178,West Bengal,MEDINIPUR WEST,2007,Whole Year ,Sugarcane,2206,243492,Sugarcane
+179,West Bengal,MEDINIPUR WEST,2007,Whole Year ,Turmeric,1475,1789,Species
+180,West Bengal,MEDINIPUR WEST,2007,Winter     ,Rice,441316,1156246,Cereal
+181,West Bengal,MEDINIPUR WEST,2007,Winter     ,Sesamum,45,29,Oilseeds
+182,West Bengal,MEDINIPUR WEST,2008,Autumn     ,Maize,50,73,Cereal
+183,West Bengal,MEDINIPUR WEST,2008,Autumn     ,Rice,42118,79878,Cereal
+184,West Bengal,MEDINIPUR WEST,2008,Autumn     ,Sesamum,265,183,Oilseeds
+185,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Castor seed,60,37,Oilseeds
+186,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Cotton(lint),298,1043,fibres
+187,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Dry ginger,1635,2523,Species
+188,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Groundnut,660,579,Nuts
+189,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Jute,5504,54488,fibres
+190,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Moong(Green Gram),20,12,Fruits
+191,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Niger seed,80,36,Oilseeds
+192,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Other Kharif pulses,355,312,Pulses
+193,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Sannhamp,226,1277,Fertile Plant
+194,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Sunflower,265,345,Oilseeds
+195,West Bengal,MEDINIPUR WEST,2008,Kharif     ,Urad,118,45,Pulses
+196,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Arhar/Tur,212,104,Pulses
+197,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Groundnut,6530,11754,Nuts
+198,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Horse-gram,645,335,Beans
+199,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Khesari,27,2,Vegetables
+200,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Linseed,24,2,Oilseeds
+201,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Maize,458,687,Cereal
+202,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Masoor,150,175,Pulses
+203,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Moong(Green Gram),843,573,Fruits
+204,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Other  Rabi pulses,70,29,Pulses
+205,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Rapeseed &Mustard,14818,11324,Oilseeds
+206,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Safflower,79,54,Oilseeds
+207,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Urad,970,825,Pulses
+208,West Bengal,MEDINIPUR WEST,2008,Rabi       ,Wheat,2363,4551,Cereal
+209,West Bengal,MEDINIPUR WEST,2008,Summer     ,Groundnut,10858,25125,Nuts
+210,West Bengal,MEDINIPUR WEST,2008,Summer     ,Maize,481,1419,Cereal
+211,West Bengal,MEDINIPUR WEST,2008,Summer     ,Moong(Green Gram),736,609,Fruits
+212,West Bengal,MEDINIPUR WEST,2008,Summer     ,Rice,173516,463393,Cereal
+213,West Bengal,MEDINIPUR WEST,2008,Summer     ,Sesamum,63169,29571,Oilseeds
+214,West Bengal,MEDINIPUR WEST,2008,Whole Year ,Arecanut,139,175,Nuts
+215,West Bengal,MEDINIPUR WEST,2008,Whole Year ,Coconut ,1455,20130,Fruits
+216,West Bengal,MEDINIPUR WEST,2008,Whole Year ,Dry chillies,5542,6016,Species
+217,West Bengal,MEDINIPUR WEST,2008,Whole Year ,Potato,63622,557342,Vegetables
+218,West Bengal,MEDINIPUR WEST,2008,Whole Year ,Sugarcane,2049,249736,Sugarcane
+219,West Bengal,MEDINIPUR WEST,2008,Whole Year ,Turmeric,1375,1799,Species
+220,West Bengal,MEDINIPUR WEST,2008,Winter     ,Rice,503293,1313474,Cereal
+221,West Bengal,MEDINIPUR WEST,2008,Winter     ,Sesamum,25,17,Oilseeds
+222,West Bengal,MEDINIPUR WEST,2009,Autumn     ,Groundnut,651,609,Nuts
+223,West Bengal,MEDINIPUR WEST,2009,Autumn     ,Maize,119,155,Cereal
+224,West Bengal,MEDINIPUR WEST,2009,Autumn     ,Rice,29271,61570,Cereal
+225,West Bengal,MEDINIPUR WEST,2009,Autumn     ,Sesamum,230,173,Oilseeds
+226,West Bengal,MEDINIPUR WEST,2009,Kharif     ,Castor seed,60,35,Oilseeds
+227,West Bengal,MEDINIPUR WEST,2009,Kharif     ,Jute,3716,42654,fibres
+228,West Bengal,MEDINIPUR WEST,2009,Kharif     ,Moong(Green Gram),650,393,Fruits
+229,West Bengal,MEDINIPUR WEST,2009,Kharif     ,Niger seed,75,34,Oilseeds
+230,West Bengal,MEDINIPUR WEST,2009,Kharif     ,Sannhamp,155,884,Fertile Plant
+231,West Bengal,MEDINIPUR WEST,2009,Kharif     ,Sunflower,79,51,Oilseeds
+232,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Arhar/Tur,225,48,Pulses
+233,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Gram,16,16,Beans
+234,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Horse-gram,797,419,Beans
+235,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Khesari,12,1,Vegetables
+236,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Maize,395,790,Cereal
+237,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Masoor,402,291,Pulses
+238,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Moong(Green Gram),829,573,Fruits
+239,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Peas & beans (Pulses),6,8,Pulses
+240,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Potato,62679,2448136,Vegetables
+241,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Rapeseed &Mustard,11769,10174,Oilseeds
+242,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Safflower,80,56,Oilseeds
+243,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Urad,1060,934,Pulses
+244,West Bengal,MEDINIPUR WEST,2009,Rabi       ,Wheat,6463,12477,Cereal
+245,West Bengal,MEDINIPUR WEST,2009,Summer     ,Groundnut,11642,26532,Nuts
+246,West Bengal,MEDINIPUR WEST,2009,Summer     ,Maize,660,1980,Cereal
+247,West Bengal,MEDINIPUR WEST,2009,Summer     ,Moong(Green Gram),960,631,Fruits
+248,West Bengal,MEDINIPUR WEST,2009,Summer     ,Rice,156372,499925,Cereal
+249,West Bengal,MEDINIPUR WEST,2009,Summer     ,Sesamum,59958,44246,Oilseeds
+250,West Bengal,MEDINIPUR WEST,2009,Whole Year ,Sugarcane,1617,134367,Sugarcane
+251,West Bengal,MEDINIPUR WEST,2009,Winter     ,Rice,488628,1195017,Cereal
+252,West Bengal,MEDINIPUR WEST,2009,Winter     ,Sesamum,90,68,Oilseeds
+253,West Bengal,MEDINIPUR WEST,2010,Autumn     ,Groundnut,461,392,Nuts
+254,West Bengal,MEDINIPUR WEST,2010,Autumn     ,Maize,56,98,Cereal
+255,West Bengal,MEDINIPUR WEST,2010,Autumn     ,Rice,39370,86742,Cereal
+256,West Bengal,MEDINIPUR WEST,2010,Autumn     ,Sesamum,135,95,Oilseeds
+257,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Castor seed,85,51,Oilseeds
+258,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Horse-gram,775,403,Beans
+259,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Jute,2737,41582,fibres
+260,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Moong(Green Gram),65,38,Fruits
+261,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Niger seed,85,44,Oilseeds
+262,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Other Kharif pulses,460,391,Pulses
+263,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Sannhamp,180,727,Fertile Plant
+264,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Sunflower,248,193,Oilseeds
+265,West Bengal,MEDINIPUR WEST,2010,Kharif     ,Urad,84,15,Pulses
+266,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Arhar/Tur,224,197,Pulses
+267,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Gram,5,6,Beans
+268,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Groundnut,3965,6859,Nuts
+269,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Khesari,54,70,Vegetables
+270,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Maize,435,914,Cereal
+271,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Masoor,544,374,Pulses
+272,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Moong(Green Gram),1165,746,Fruits
+273,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Other  Rabi pulses,70,28,Pulses
+274,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Potato,64683,2482395,Vegetables
+275,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Rapeseed &Mustard,12452,11675,Oilseeds
+276,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Safflower,285,205,Oilseeds
+277,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Urad,1100,935,Pulses
+278,West Bengal,MEDINIPUR WEST,2010,Rabi       ,Wheat,4740,11345,Cereal
+279,West Bengal,MEDINIPUR WEST,2010,Summer     ,Groundnut,7765,13977,Nuts
+280,West Bengal,MEDINIPUR WEST,2010,Summer     ,Maize,475,1401,Cereal
+281,West Bengal,MEDINIPUR WEST,2010,Summer     ,Moong(Green Gram),1077,892,Fruits
+282,West Bengal,MEDINIPUR WEST,2010,Summer     ,Rice,173888,629634,Cereal
+283,West Bengal,MEDINIPUR WEST,2010,Summer     ,Sesamum,60938,61102,Oilseeds
+284,West Bengal,MEDINIPUR WEST,2010,Whole Year ,Sugarcane,2354,89661,Sugarcane
+285,West Bengal,MEDINIPUR WEST,2010,Winter     ,Rice,403460,1002184,Cereal
+286,West Bengal,MEDINIPUR WEST,2010,Winter     ,Sesamum,205,152,Oilseeds
+287,West Bengal,MEDINIPUR WEST,2011,Autumn     ,Groundnut,310,279,Nuts
+288,West Bengal,MEDINIPUR WEST,2011,Autumn     ,Maize,18,28,Cereal
+289,West Bengal,MEDINIPUR WEST,2011,Autumn     ,Rice,35781,75673,Cereal
+290,West Bengal,MEDINIPUR WEST,2011,Autumn     ,Sesamum,145,104,Oilseeds
+291,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Castor seed,70,42,Oilseeds
+292,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Horse-gram,415,220,Beans
+293,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Jute,3463,37788,fibres
+294,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Moong(Green Gram),120,66,Fruits
+295,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Niger seed,65,32,Oilseeds
+296,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Other Kharif pulses,56,23,Pulses
+297,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Sannhamp,230,920,Fertile Plant
+298,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Sunflower,430,740,Oilseeds
+299,West Bengal,MEDINIPUR WEST,2011,Kharif     ,Urad,71,20,Pulses
+300,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Arhar/Tur,128,36,Pulses
+301,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Gram,1,1,Beans
+302,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Groundnut,1092,1835,Nuts
+303,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Khesari,98,124,Vegetables
+304,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Maize,435,957,Cereal
+305,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Masoor,318,326,Pulses
+306,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Moong(Green Gram),1133,736,Fruits
+307,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Other  Rabi pulses,135,57,Pulses
+308,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Potato,59960,1148623,Vegetables
+309,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Rapeseed &Mustard,15091,11737,Oilseeds
+310,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Safflower,272,231,Oilseeds
+311,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Urad,940,790,Pulses
+312,West Bengal,MEDINIPUR WEST,2011,Rabi       ,Wheat,4741,9373,Cereal
+313,West Bengal,MEDINIPUR WEST,2011,Summer     ,Groundnut,7663,10422,Nuts
+314,West Bengal,MEDINIPUR WEST,2011,Summer     ,Maize,539,1600,Cereal
+315,West Bengal,MEDINIPUR WEST,2011,Summer     ,Moong(Green Gram),880,706,Fruits
+316,West Bengal,MEDINIPUR WEST,2011,Summer     ,Rice,137185,452691,Cereal
+317,West Bengal,MEDINIPUR WEST,2011,Summer     ,Sesamum,60587,53459,Oilseeds
+318,West Bengal,MEDINIPUR WEST,2011,Whole Year ,Sugarcane,3208,524279,Sugarcane
+319,West Bengal,MEDINIPUR WEST,2011,Winter     ,Rice,482718,1245624,Cereal
+320,West Bengal,MEDINIPUR WEST,2011,Winter     ,Sesamum,70,49,Oilseeds
+321,West Bengal,MEDINIPUR WEST,2012,Autumn     ,Groundnut,474,427,Nuts
+322,West Bengal,MEDINIPUR WEST,2012,Autumn     ,Rice,37034,85775,Cereal
+323,West Bengal,MEDINIPUR WEST,2012,Autumn     ,Sesamum,170,124,Oilseeds
+324,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Castor seed,72,43,Oilseeds
+325,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Horse-gram,505,268,Beans
+326,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Jute,2703,42722,fibres
+327,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Mesta,366,4571,fibres
+328,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Moong(Green Gram),278,166,Fruits
+329,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Niger seed,75,37,Oilseeds
+330,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Other Kharif pulses,56,23,Pulses
+331,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Sannhamp,188,949,Fertile Plant
+332,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Sunflower,345,487,Oilseeds
+333,West Bengal,MEDINIPUR WEST,2012,Kharif     ,Urad,73,21,Pulses
+334,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Arhar/Tur,142,163,Pulses
+335,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Groundnut,4630,8566,Nuts
+336,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Khesari,113,172,Vegetables
+337,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Linseed,11,3,Oilseeds
+338,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Maize,581,1336,Cereal
+339,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Masoor,608,755,Pulses
+340,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Moong(Green Gram),1090,959,Fruits
+341,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Other  Rabi pulses,50,21,Pulses
+342,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Potato,58607,1463580,Vegetables
+343,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Rapeseed &Mustard,15750,13512,Oilseeds
+344,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Safflower,279,218,Oilseeds
+345,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Urad,940,790,Pulses
+346,West Bengal,MEDINIPUR WEST,2012,Rabi       ,Wheat,5877,11054,Cereal
+347,West Bengal,MEDINIPUR WEST,2012,Summer     ,Groundnut,8974,18973,Nuts
+348,West Bengal,MEDINIPUR WEST,2012,Summer     ,Maize,558,1660,Cereal
+349,West Bengal,MEDINIPUR WEST,2012,Summer     ,Moong(Green Gram),523,404,Fruits
+350,West Bengal,MEDINIPUR WEST,2012,Summer     ,Rice,167853,478464,Cereal
+351,West Bengal,MEDINIPUR WEST,2012,Summer     ,Sesamum,63039,53266,Oilseeds
+352,West Bengal,MEDINIPUR WEST,2012,Whole Year ,Sugarcane,3155,503642,Sugarcane
+353,West Bengal,MEDINIPUR WEST,2012,Winter     ,Rice,486172,1315911,Cereal
+354,West Bengal,MEDINIPUR WEST,2012,Winter     ,Sesamum,122,90,Oilseeds
+355,West Bengal,MEDINIPUR WEST,2013,Autumn     ,Groundnut,400,340,Nuts
+356,West Bengal,MEDINIPUR WEST,2013,Autumn     ,Rice,37862,87307,Cereal
+357,West Bengal,MEDINIPUR WEST,2013,Autumn     ,Sesamum,105,76,Oilseeds
+358,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Castor seed,76,45,Oilseeds
+359,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Horse-gram,617,323,Beans
+360,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Jute,4144,64657,fibres
+361,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Moong(Green Gram),60,27,Fruits
+362,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Niger seed,72,32,Oilseeds
+363,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Other Kharif pulses,540,421,Pulses
+364,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Sannhamp,199,971,Fertile Plant
+365,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Sunflower,341,473,Oilseeds
+366,West Bengal,MEDINIPUR WEST,2013,Kharif     ,Urad,9,2,Pulses
+367,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Arhar/Tur,164,257,Pulses
+368,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Gram,1,1,Beans
+369,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Groundnut,4050,7164,Nuts
+370,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Khesari,130,200,Vegetables
+371,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Linseed,14,4,Oilseeds
+372,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Maize,457,1097,Cereal
+373,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Masoor,955,1292,Pulses
+374,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Moong(Green Gram),1129,999,Fruits
+375,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Other  Rabi pulses,85,35,Pulses
+376,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Potato,61301,1224122,Vegetables
+377,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Rapeseed &Mustard,15801,15809,Oilseeds
+378,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Safflower,279,206,Oilseeds
+379,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Urad,455,378,Pulses
+380,West Bengal,MEDINIPUR WEST,2013,Rabi       ,Wheat,4607,10865,Cereal
+381,West Bengal,MEDINIPUR WEST,2013,Summer     ,Groundnut,9063,21583,Nuts
+382,West Bengal,MEDINIPUR WEST,2013,Summer     ,Maize,1414,5373,Cereal
+383,West Bengal,MEDINIPUR WEST,2013,Summer     ,Moong(Green Gram),664,567,Fruits
+384,West Bengal,MEDINIPUR WEST,2013,Summer     ,Rice,176270,601882,Cereal
+385,West Bengal,MEDINIPUR WEST,2013,Summer     ,Sesamum,73284,58334,Oilseeds
+386,West Bengal,MEDINIPUR WEST,2013,Whole Year ,Sugarcane,3210,708183,Sugarcane
+387,West Bengal,MEDINIPUR WEST,2013,Winter     ,Rice,502667,1053375,Cereal
+388,West Bengal,MEDINIPUR WEST,2013,Winter     ,Sesamum,166,98,Oilseeds
+389,West Bengal,MEDINIPUR WEST,2014,Autumn     ,Groundnut,395,349,Nuts
+390,West Bengal,MEDINIPUR WEST,2014,Autumn     ,Maize,19,38,Cereal
+391,West Bengal,MEDINIPUR WEST,2014,Autumn     ,Rice,33141,80300,Cereal
+392,West Bengal,MEDINIPUR WEST,2014,Autumn     ,Sesamum,124,90,Oilseeds
+393,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Castor seed,81,48,Oilseeds
+394,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Jute,3313,54042,fibres
+395,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Moong(Green Gram),90,56,Fruits
+396,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Niger seed,71,34,Oilseeds
+397,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Other Kharif pulses,545,429,Pulses
+398,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Sannhamp,206,948,Fertile Plant
+399,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Sunflower,372,567,Oilseeds
+400,West Bengal,MEDINIPUR WEST,2014,Kharif     ,Urad,65,18,Pulses
+401,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Arhar/Tur,164,265,Pulses
+402,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Gram,6,8,Beans
+403,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Groundnut,5281,9273,Nuts
+404,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Horse-gram,512,270,Beans
+405,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Khesari,58,114,Vegetables
+406,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Linseed,24,6,Oilseeds
+407,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Maize,457,1097,Cereal
+408,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Masoor,787,1429,Pulses
+409,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Moong(Green Gram),1117,898,Fruits
+410,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Other  Rabi pulses,135,57,Pulses
+411,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Peas & beans (Pulses),10,10,Pulses
+412,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Potato,63519,2413485,Vegetables
+413,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Rapeseed &Mustard,14667,10748,Oilseeds
+414,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Safflower,280,220,Oilseeds
+415,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Urad,778,653,Pulses
+416,West Bengal,MEDINIPUR WEST,2014,Rabi       ,Wheat,5769,12259,Cereal
+417,West Bengal,MEDINIPUR WEST,2014,Summer     ,Groundnut,8019,13680,Nuts
+418,West Bengal,MEDINIPUR WEST,2014,Summer     ,Maize,1037,2344,Cereal
+419,West Bengal,MEDINIPUR WEST,2014,Summer     ,Moong(Green Gram),995,650,Fruits
+420,West Bengal,MEDINIPUR WEST,2014,Summer     ,Rice,195960,580442,Cereal
+421,West Bengal,MEDINIPUR WEST,2014,Summer     ,Sesamum,74080,58514,Oilseeds
+422,West Bengal,MEDINIPUR WEST,2014,Whole Year ,Sugarcane,4390,789614,Sugarcane
+423,West Bengal,MEDINIPUR WEST,2014,Winter     ,Rice,496134,1348329,Cereal
+424,West Bengal,MEDINIPUR WEST,2014,Winter     ,Sesamum,119,79,Oilseeds
+425,West Bengal,MURSHIDABAD,1997,Autumn     ,Rice,43480,65000,Cereal
+426,West Bengal,MURSHIDABAD,1997,Kharif     ,Bajra,15,3,Cereal
+427,West Bengal,MURSHIDABAD,1997,Kharif     ,Jute,135401,1791640,fibres
+428,West Bengal,MURSHIDABAD,1997,Kharif     ,Moong(Green Gram),413,100,Fruits
+429,West Bengal,MURSHIDABAD,1997,Kharif     ,Other Kharif pulses,750,450,Pulses
+430,West Bengal,MURSHIDABAD,1997,Kharif     ,Urad,9961,6160,Pulses
+431,West Bengal,MURSHIDABAD,1997,Rabi       ,Gram,6889,6840,Beans
+432,West Bengal,MURSHIDABAD,1997,Rabi       ,Khesari,7549,8050,Vegetables
+433,West Bengal,MURSHIDABAD,1997,Rabi       ,Masoor,14560,12090,Pulses
+434,West Bengal,MURSHIDABAD,1997,Rabi       ,Moong(Green Gram),175,109,Fruits
+435,West Bengal,MURSHIDABAD,1997,Rabi       ,Oilseeds total,5544000,4485800,Oilseeds total
+436,West Bengal,MURSHIDABAD,1997,Rabi       ,Urad,410,413,Pulses
+437,West Bengal,MURSHIDABAD,1997,Rabi       ,Wheat,122714,281760,Cereal
+438,West Bengal,MURSHIDABAD,1997,Summer     ,Moong(Green Gram),280,7,Fruits
+439,West Bengal,MURSHIDABAD,1997,Summer     ,Rice,81817,291510,Cereal
+440,West Bengal,MURSHIDABAD,1997,Whole Year ,Arecanut,56,38,Nuts
+441,West Bengal,MURSHIDABAD,1997,Whole Year ,Arhar/Tur,332,320,Pulses
+442,West Bengal,MURSHIDABAD,1997,Whole Year ,Barley,1860,1980,Cereal
+443,West Bengal,MURSHIDABAD,1997,Whole Year ,Coconut ,4129,28386,Fruits
+444,West Bengal,MURSHIDABAD,1997,Whole Year ,Dry chillies,3285,4994,Species
+445,West Bengal,MURSHIDABAD,1997,Whole Year ,Groundnut,70,86,Nuts
+446,West Bengal,MURSHIDABAD,1997,Whole Year ,Jowar,585,263,Cereal
+447,West Bengal,MURSHIDABAD,1997,Whole Year ,Linseed,1669,500,Oilseeds
+448,West Bengal,MURSHIDABAD,1997,Whole Year ,Maize,343,650,Cereal
+449,West Bengal,MURSHIDABAD,1997,Whole Year ,Potato,6964,141500,Vegetables
+450,West Bengal,MURSHIDABAD,1997,Whole Year ,Pulses total,4307200,3632200,Pulses total
+451,West Bengal,MURSHIDABAD,1997,Whole Year ,Rapeseed &Mustard,49527,41810,Oilseeds
+452,West Bengal,MURSHIDABAD,1997,Whole Year ,Sesamum,4174,2462,Oilseeds
+453,West Bengal,MURSHIDABAD,1997,Whole Year ,Small millets,40,17,Cereal
+454,West Bengal,MURSHIDABAD,1997,Whole Year ,Sugarcane,7554,491270,Sugarcane
+455,West Bengal,MURSHIDABAD,1997,Whole Year ,Turmeric,1865,6460,Species
+456,West Bengal,MURSHIDABAD,1997,Winter     ,Rice,219994,540270,Cereal
+457,West Bengal,MURSHIDABAD,1998,Autumn     ,Rice,53196,91810,Cereal
+458,West Bengal,MURSHIDABAD,1998,Kharif     ,Arhar/Tur,234,190,Pulses
+459,West Bengal,MURSHIDABAD,1998,Kharif     ,Bajra,15,3,Cereal
+460,West Bengal,MURSHIDABAD,1998,Kharif     ,Dry ginger,174,159,Species
+461,West Bengal,MURSHIDABAD,1998,Kharif     ,Jowar,585,263,Cereal
+462,West Bengal,MURSHIDABAD,1998,Kharif     ,Jute,140407,1982810,fibres
+463,West Bengal,MURSHIDABAD,1998,Kharif     ,Maize,186,590,Cereal
+464,West Bengal,MURSHIDABAD,1998,Kharif     ,Mesta,347,3330,fibres
+465,West Bengal,MURSHIDABAD,1998,Kharif     ,Moong(Green Gram),23,3,Fruits
+466,West Bengal,MURSHIDABAD,1998,Kharif     ,Urad,7956,8110,Pulses
+467,West Bengal,MURSHIDABAD,1998,Rabi       ,Barley,1661,2340,Cereal
+468,West Bengal,MURSHIDABAD,1998,Rabi       ,Gram,7118,4380,Beans
+469,West Bengal,MURSHIDABAD,1998,Rabi       ,Khesari,7102,8790,Vegetables
+470,West Bengal,MURSHIDABAD,1998,Rabi       ,Linseed,1440,240,Oilseeds
+471,West Bengal,MURSHIDABAD,1998,Rabi       ,Masoor,16157,12690,Pulses
+472,West Bengal,MURSHIDABAD,1998,Rabi       ,Moong(Green Gram),107,80,Fruits
+473,West Bengal,MURSHIDABAD,1998,Rabi       ,Peas & beans (Pulses),1626,1190,Pulses
+474,West Bengal,MURSHIDABAD,1998,Rabi       ,Rapeseed &Mustard,53586,44490,Oilseeds
+475,West Bengal,MURSHIDABAD,1998,Rabi       ,Urad,390,404,Pulses
+476,West Bengal,MURSHIDABAD,1998,Rabi       ,Wheat,122450,279700,Cereal
+477,West Bengal,MURSHIDABAD,1998,Summer     ,Moong(Green Gram),264,80,Fruits
+478,West Bengal,MURSHIDABAD,1998,Summer     ,Rice,91131,367926,Cereal
+479,West Bengal,MURSHIDABAD,1998,Whole Year ,Arecanut,56,84,Nuts
+480,West Bengal,MURSHIDABAD,1998,Whole Year ,Coconut ,4230,24369,Fruits
+481,West Bengal,MURSHIDABAD,1998,Whole Year ,Dry chillies,3756,5025,Species
+482,West Bengal,MURSHIDABAD,1998,Whole Year ,Groundnut,632,1106,Nuts
+483,West Bengal,MURSHIDABAD,1998,Whole Year ,Potato,8590,169781,Vegetables
+484,West Bengal,MURSHIDABAD,1998,Whole Year ,Sesamum,4019,4379,Oilseeds
+485,West Bengal,MURSHIDABAD,1998,Whole Year ,Sugarcane,7900,517360,Sugarcane
+486,West Bengal,MURSHIDABAD,1998,Whole Year ,Turmeric,1920,4445,Species
+487,West Bengal,MURSHIDABAD,1998,Winter     ,Rice,218651,534310,Cereal
+488,West Bengal,MURSHIDABAD,1999,Autumn     ,Dry chillies,2209,2344,Species
+489,West Bengal,MURSHIDABAD,1999,Autumn     ,Rice,51465,83430,Cereal
+490,West Bengal,MURSHIDABAD,1999,Autumn     ,Sesamum,233,138,Oilseeds
+491,West Bengal,MURSHIDABAD,1999,Kharif     ,Arhar/Tur,606,735,Pulses
+492,West Bengal,MURSHIDABAD,1999,Kharif     ,Bajra,15,3,Cereal
+493,West Bengal,MURSHIDABAD,1999,Kharif     ,Dry ginger,236,253,Species
+494,West Bengal,MURSHIDABAD,1999,Kharif     ,Groundnut,48,55,Nuts
+495,West Bengal,MURSHIDABAD,1999,Kharif     ,Jowar,585,263,Cereal
+496,West Bengal,MURSHIDABAD,1999,Kharif     ,Jute,141641,1943340,fibres
+497,West Bengal,MURSHIDABAD,1999,Kharif     ,Maize,469,980,Cereal
+498,West Bengal,MURSHIDABAD,1999,Kharif     ,Mesta,351,3960,fibres
+499,West Bengal,MURSHIDABAD,1999,Kharif     ,Moong(Green Gram),23,3,Fruits
+500,West Bengal,MURSHIDABAD,1999,Kharif     ,Urad,9071,11652,Pulses
+501,West Bengal,MURSHIDABAD,1999,Rabi       ,Barley,1575,1363,Cereal
+502,West Bengal,MURSHIDABAD,1999,Rabi       ,Dry chillies,2242,3605,Species
+503,West Bengal,MURSHIDABAD,1999,Rabi       ,Gram,6697,6810,Beans
+504,West Bengal,MURSHIDABAD,1999,Rabi       ,Groundnut,55,134,Nuts
+505,West Bengal,MURSHIDABAD,1999,Rabi       ,Khesari,7287,6232,Vegetables
+506,West Bengal,MURSHIDABAD,1999,Rabi       ,Linseed,1048,562,Oilseeds
+507,West Bengal,MURSHIDABAD,1999,Rabi       ,Masoor,16765,9553,Pulses
+508,West Bengal,MURSHIDABAD,1999,Rabi       ,Moong(Green Gram),107,80,Fruits
+509,West Bengal,MURSHIDABAD,1999,Rabi       ,Peas & beans (Pulses),1513,1202,Pulses
+510,West Bengal,MURSHIDABAD,1999,Rabi       ,Rapeseed &Mustard,56124,47653,Oilseeds
+511,West Bengal,MURSHIDABAD,1999,Rabi       ,Small millets,40,17,Cereal
+512,West Bengal,MURSHIDABAD,1999,Rabi       ,Urad,390,404,Pulses
+513,West Bengal,MURSHIDABAD,1999,Rabi       ,Wheat,124477,293610,Cereal
+514,West Bengal,MURSHIDABAD,1999,Summer     ,Groundnut,157,289,Nuts
+515,West Bengal,MURSHIDABAD,1999,Summer     ,Moong(Green Gram),198,60,Fruits
+516,West Bengal,MURSHIDABAD,1999,Summer     ,Rice,100155,337320,Cereal
+517,West Bengal,MURSHIDABAD,1999,Summer     ,Sesamum,3935,2740,Oilseeds
+518,West Bengal,MURSHIDABAD,1999,Whole Year ,Arecanut,25,37,Nuts
+519,West Bengal,MURSHIDABAD,1999,Whole Year ,Coconut ,3963,35758.1,Fruits
+520,West Bengal,MURSHIDABAD,1999,Whole Year ,Sugarcane,6806,391898,Sugarcane
+521,West Bengal,MURSHIDABAD,1999,Whole Year ,Turmeric,1640,2672,Species
+522,West Bengal,MURSHIDABAD,1999,Winter     ,Potato,8674,178339,Vegetables
+523,West Bengal,MURSHIDABAD,1999,Winter     ,Rice,236455,450580,Cereal
+524,West Bengal,MURSHIDABAD,1999,Winter     ,Sesamum,38,19,Oilseeds
+525,West Bengal,MURSHIDABAD,2000,Autumn     ,Rice,48681,58760,Cereal
+526,West Bengal,MURSHIDABAD,2000,Kharif     ,Arhar/Tur,1266,840,Pulses
+527,West Bengal,MURSHIDABAD,2000,Kharif     ,Dry ginger,255,336,Species
+528,West Bengal,MURSHIDABAD,2000,Kharif     ,Groundnut,30,36,Nuts
+529,West Bengal,MURSHIDABAD,2000,Kharif     ,Jowar,630,300,Cereal
+530,West Bengal,MURSHIDABAD,2000,Kharif     ,Jute,140979,1901450,fibres
+531,West Bengal,MURSHIDABAD,2000,Kharif     ,Maize,431,1040,Cereal
+532,West Bengal,MURSHIDABAD,2000,Kharif     ,Mesta,1080,7750,fibres
+533,West Bengal,MURSHIDABAD,2000,Kharif     ,Moong(Green Gram),10,2,Fruits
+534,West Bengal,MURSHIDABAD,2000,Kharif     ,Urad,8226,7350,Pulses
+535,West Bengal,MURSHIDABAD,2000,Rabi       ,Barley,986,480,Cereal
+536,West Bengal,MURSHIDABAD,2000,Rabi       ,Gram,10455,10610,Beans
+537,West Bengal,MURSHIDABAD,2000,Rabi       ,Groundnut,40,72,Nuts
+538,West Bengal,MURSHIDABAD,2000,Rabi       ,Khesari,8966,9160,Vegetables
+539,West Bengal,MURSHIDABAD,2000,Rabi       ,Linseed,1081,450,Oilseeds
+540,West Bengal,MURSHIDABAD,2000,Rabi       ,Masoor,28296,26620,Pulses
+541,West Bengal,MURSHIDABAD,2000,Rabi       ,Moong(Green Gram),5,4,Fruits
+542,West Bengal,MURSHIDABAD,2000,Rabi       ,Peas & beans (Pulses),1735,1570,Pulses
+543,West Bengal,MURSHIDABAD,2000,Rabi       ,Rapeseed &Mustard,64987,67030,Oilseeds
+544,West Bengal,MURSHIDABAD,2000,Rabi       ,Urad,135,113,Pulses
+545,West Bengal,MURSHIDABAD,2000,Rabi       ,Wheat,135506,373460,Cereal
+546,West Bengal,MURSHIDABAD,2000,Summer     ,Groundnut,306,438,Nuts
+547,West Bengal,MURSHIDABAD,2000,Summer     ,Moong(Green Gram),187,96,Fruits
+548,West Bengal,MURSHIDABAD,2000,Summer     ,Rice,108478,382487,Cereal
+549,West Bengal,MURSHIDABAD,2000,Whole Year ,Arecanut,50,100,Nuts
+550,West Bengal,MURSHIDABAD,2000,Whole Year ,Coconut ,4008,35587,Fruits
+551,West Bengal,MURSHIDABAD,2000,Whole Year ,Dry chillies,4290,5718,Species
+552,West Bengal,MURSHIDABAD,2000,Whole Year ,Potato,8869,213689,Vegetables
+553,West Bengal,MURSHIDABAD,2000,Whole Year ,Sesamum,4675,4066,Oilseeds
+554,West Bengal,MURSHIDABAD,2000,Whole Year ,Sugarcane,6451,420610,Sugarcane
+555,West Bengal,MURSHIDABAD,2000,Whole Year ,Turmeric,2145,5109,Species
+556,West Bengal,MURSHIDABAD,2000,Winter     ,Rice,66958,106930,Cereal
+557,West Bengal,MURSHIDABAD,2001,Autumn     ,Rice,48521,97682,Cereal
+558,West Bengal,MURSHIDABAD,2001,Kharif     ,Arhar/Tur,1115,1634,Pulses
+559,West Bengal,MURSHIDABAD,2001,Kharif     ,Dry ginger,268,362,Species
+560,West Bengal,MURSHIDABAD,2001,Kharif     ,Groundnut,103,147,Nuts
+561,West Bengal,MURSHIDABAD,2001,Kharif     ,Jowar,700,336,Cereal
+562,West Bengal,MURSHIDABAD,2001,Kharif     ,Jute,142951,2009997,fibres
+563,West Bengal,MURSHIDABAD,2001,Kharif     ,Maize,51,118,Cereal
+564,West Bengal,MURSHIDABAD,2001,Kharif     ,Mesta,148,1561,fibres
+565,West Bengal,MURSHIDABAD,2001,Kharif     ,Moong(Green Gram),5,2,Fruits
+566,West Bengal,MURSHIDABAD,2001,Kharif     ,Small millets,45,44,Cereal
+567,West Bengal,MURSHIDABAD,2001,Kharif     ,Urad,2161,969,Pulses
+568,West Bengal,MURSHIDABAD,2001,Rabi       ,Barley,656,769,Cereal
+569,West Bengal,MURSHIDABAD,2001,Rabi       ,Gram,9904,7712,Beans
+570,West Bengal,MURSHIDABAD,2001,Rabi       ,Groundnut,70,105,Nuts
+571,West Bengal,MURSHIDABAD,2001,Rabi       ,Khesari,8332,6888,Vegetables
+572,West Bengal,MURSHIDABAD,2001,Rabi       ,Linseed,984,296,Oilseeds
+573,West Bengal,MURSHIDABAD,2001,Rabi       ,Masoor,27661,16049,Pulses
+574,West Bengal,MURSHIDABAD,2001,Rabi       ,Moong(Green Gram),15,9,Fruits
+575,West Bengal,MURSHIDABAD,2001,Rabi       ,Peas & beans (Pulses),1872,1135,Pulses
+576,West Bengal,MURSHIDABAD,2001,Rabi       ,Rapeseed &Mustard,63005,54329,Oilseeds
+577,West Bengal,MURSHIDABAD,2001,Rabi       ,Urad,285,291,Pulses
+578,West Bengal,MURSHIDABAD,2001,Rabi       ,Wheat,137732,318502,Cereal
+579,West Bengal,MURSHIDABAD,2001,Summer     ,Groundnut,574,653,Nuts
+580,West Bengal,MURSHIDABAD,2001,Summer     ,Moong(Green Gram),121,47,Fruits
+581,West Bengal,MURSHIDABAD,2001,Summer     ,Rice,112413,383715,Cereal
+582,West Bengal,MURSHIDABAD,2001,Whole Year ,Arecanut,53,106,Nuts
+583,West Bengal,MURSHIDABAD,2001,Whole Year ,Coconut ,4110,30631.8,Fruits
+584,West Bengal,MURSHIDABAD,2001,Whole Year ,Dry chillies,3976,5780,Species
+585,West Bengal,MURSHIDABAD,2001,Whole Year ,Potato,7614,174357,Vegetables
+586,West Bengal,MURSHIDABAD,2001,Whole Year ,Sesamum,4122,3097,Oilseeds
+587,West Bengal,MURSHIDABAD,2001,Whole Year ,Sugarcane,6360,481885,Sugarcane
+588,West Bengal,MURSHIDABAD,2001,Whole Year ,Turmeric,1460,4938,Species
+589,West Bengal,MURSHIDABAD,2001,Winter     ,Rice,234126,603952,Cereal
+590,West Bengal,MURSHIDABAD,2002,Autumn     ,Dry chillies,2709,3633,Species
+591,West Bengal,MURSHIDABAD,2002,Autumn     ,Rice,53336,104418,Cereal
+592,West Bengal,MURSHIDABAD,2002,Autumn     ,Sesamum,60,41,Oilseeds
+593,West Bengal,MURSHIDABAD,2002,Kharif     ,Arhar/Tur,1354,1436,Pulses
+594,West Bengal,MURSHIDABAD,2002,Kharif     ,Dry ginger,258,373,Species
+595,West Bengal,MURSHIDABAD,2002,Kharif     ,Groundnut,100,145,Nuts
+596,West Bengal,MURSHIDABAD,2002,Kharif     ,Jowar,1140,553,Cereal
+597,West Bengal,MURSHIDABAD,2002,Kharif     ,Jute,143852,1997089,fibres
+598,West Bengal,MURSHIDABAD,2002,Kharif     ,Maize,105,211,Cereal
+599,West Bengal,MURSHIDABAD,2002,Kharif     ,Mesta,105,903,fibres
+600,West Bengal,MURSHIDABAD,2002,Kharif     ,Small millets,46,30,Cereal
+601,West Bengal,MURSHIDABAD,2002,Kharif     ,Urad,2418,1425,Pulses
+602,West Bengal,MURSHIDABAD,2002,Rabi       ,Barley,708,629,Cereal
+603,West Bengal,MURSHIDABAD,2002,Rabi       ,Dry chillies,1885,2795,Species
+604,West Bengal,MURSHIDABAD,2002,Rabi       ,Gram,10024,5528,Beans
+605,West Bengal,MURSHIDABAD,2002,Rabi       ,Khesari,9041,4003,Vegetables
+606,West Bengal,MURSHIDABAD,2002,Rabi       ,Linseed,581,157,Oilseeds
+607,West Bengal,MURSHIDABAD,2002,Rabi       ,Masoor,28053,16823,Pulses
+608,West Bengal,MURSHIDABAD,2002,Rabi       ,Moong(Green Gram),20,14,Fruits
+609,West Bengal,MURSHIDABAD,2002,Rabi       ,Peas & beans (Pulses),1764,1046,Pulses
+610,West Bengal,MURSHIDABAD,2002,Rabi       ,Rapeseed &Mustard,62031,51270,Oilseeds
+611,West Bengal,MURSHIDABAD,2002,Rabi       ,Urad,200,180,Pulses
+612,West Bengal,MURSHIDABAD,2002,Rabi       ,Wheat,133961,290927,Cereal
+613,West Bengal,MURSHIDABAD,2002,Summer     ,Groundnut,171,218,Nuts
+614,West Bengal,MURSHIDABAD,2002,Summer     ,Rice,115142,360521,Cereal
+615,West Bengal,MURSHIDABAD,2002,Summer     ,Sesamum,4531,3762,Oilseeds
+616,West Bengal,MURSHIDABAD,2002,Whole Year ,Arecanut,70,124,Nuts
+617,West Bengal,MURSHIDABAD,2002,Whole Year ,Coconut ,4239,35594.9,Fruits
+618,West Bengal,MURSHIDABAD,2002,Whole Year ,Sugarcane,6453,436165,Sugarcane
+619,West Bengal,MURSHIDABAD,2002,Whole Year ,Turmeric,1498,4473,Species
+620,West Bengal,MURSHIDABAD,2002,Winter     ,Potato,8832,203207,Vegetables
+621,West Bengal,MURSHIDABAD,2002,Winter     ,Rice,238246,607864,Cereal
+622,West Bengal,MURSHIDABAD,2002,Winter     ,Sesamum,19,13,Oilseeds
+623,West Bengal,MURSHIDABAD,2003,Autumn     ,Rice,40170,84157,Cereal
+624,West Bengal,MURSHIDABAD,2003,Kharif     ,Arhar/Tur,442,457,Pulses
+625,West Bengal,MURSHIDABAD,2003,Kharif     ,Dry ginger,251,363,Species
+626,West Bengal,MURSHIDABAD,2003,Kharif     ,Groundnut,75,75,Nuts
+627,West Bengal,MURSHIDABAD,2003,Kharif     ,Jowar,1140,553,Cereal
+628,West Bengal,MURSHIDABAD,2003,Kharif     ,Jute,153960,2070497,fibres
+629,West Bengal,MURSHIDABAD,2003,Kharif     ,Maize,1973,6281,Cereal
+630,West Bengal,MURSHIDABAD,2003,Kharif     ,Mesta,94,794,fibres
+631,West Bengal,MURSHIDABAD,2003,Kharif     ,Moong(Green Gram),21,16,Fruits
+632,West Bengal,MURSHIDABAD,2003,Kharif     ,Other Kharif pulses,5,3,Pulses
+633,West Bengal,MURSHIDABAD,2003,Kharif     ,Sunflower,115,46,Oilseeds
+634,West Bengal,MURSHIDABAD,2003,Kharif     ,Urad,3713,2357,Pulses
+635,West Bengal,MURSHIDABAD,2003,Rabi       ,Barley,689,1137,Cereal
+636,West Bengal,MURSHIDABAD,2003,Rabi       ,Gram,12634,11505,Beans
+637,West Bengal,MURSHIDABAD,2003,Rabi       ,Groundnut,57,104,Nuts
+638,West Bengal,MURSHIDABAD,2003,Rabi       ,Khesari,13268,17223,Vegetables
+639,West Bengal,MURSHIDABAD,2003,Rabi       ,Linseed,616,331,Oilseeds
+640,West Bengal,MURSHIDABAD,2003,Rabi       ,Masoor,24609,19060,Pulses
+641,West Bengal,MURSHIDABAD,2003,Rabi       ,Moong(Green Gram),12,9,Fruits
+642,West Bengal,MURSHIDABAD,2003,Rabi       ,Peas & beans (Pulses),6904,8418,Pulses
+643,West Bengal,MURSHIDABAD,2003,Rabi       ,Rapeseed &Mustard,77506,81297,Oilseeds
+644,West Bengal,MURSHIDABAD,2003,Rabi       ,Urad,3336,2695,Pulses
+645,West Bengal,MURSHIDABAD,2003,Rabi       ,Wheat,134831,346801,Cereal
+646,West Bengal,MURSHIDABAD,2003,Summer     ,Groundnut,124,174,Nuts
+647,West Bengal,MURSHIDABAD,2003,Summer     ,Moong(Green Gram),96,30,Fruits
+648,West Bengal,MURSHIDABAD,2003,Summer     ,Rice,130991,431128,Cereal
+649,West Bengal,MURSHIDABAD,2003,Whole Year ,Arecanut,71,113,Nuts
+650,West Bengal,MURSHIDABAD,2003,Whole Year ,Coconut ,4225,30381.9,Fruits
+651,West Bengal,MURSHIDABAD,2003,Whole Year ,Dry chillies,4744,6546,Species
+652,West Bengal,MURSHIDABAD,2003,Whole Year ,Potato,7405,170658,Vegetables
+653,West Bengal,MURSHIDABAD,2003,Whole Year ,Sesamum,14154,14578,Oilseeds
+654,West Bengal,MURSHIDABAD,2003,Whole Year ,Sugarcane,5817,439185,Sugarcane
+655,West Bengal,MURSHIDABAD,2003,Whole Year ,Turmeric,1441,4801,Species
+656,West Bengal,MURSHIDABAD,2003,Winter     ,Rice,232299,598306,Cereal
+657,West Bengal,MURSHIDABAD,2004,Autumn     ,Rice,38130,85853,Cereal
+658,West Bengal,MURSHIDABAD,2004,Kharif     ,Dry ginger,209,339,Species
+659,West Bengal,MURSHIDABAD,2004,Kharif     ,Jowar,1375,594,Cereal
+660,West Bengal,MURSHIDABAD,2004,Kharif     ,Jute,131563,1963310,fibres
+661,West Bengal,MURSHIDABAD,2004,Kharif     ,Maize,2706,8807,Cereal
+662,West Bengal,MURSHIDABAD,2004,Kharif     ,Mesta,173,1725,fibres
+663,West Bengal,MURSHIDABAD,2004,Kharif     ,Moong(Green Gram),12,9,Fruits
+664,West Bengal,MURSHIDABAD,2004,Kharif     ,Sunflower,76,115,Oilseeds
+665,West Bengal,MURSHIDABAD,2004,Kharif     ,Urad,8220,5873,Pulses
+666,West Bengal,MURSHIDABAD,2004,Rabi       ,Arhar/Tur,157,174,Pulses
+667,West Bengal,MURSHIDABAD,2004,Rabi       ,Barley,586,510,Cereal
+668,West Bengal,MURSHIDABAD,2004,Rabi       ,Gram,11601,10172,Beans
+669,West Bengal,MURSHIDABAD,2004,Rabi       ,Horse-gram,50,3,Beans
+670,West Bengal,MURSHIDABAD,2004,Rabi       ,Khesari,12014,9751,Vegetables
+671,West Bengal,MURSHIDABAD,2004,Rabi       ,Linseed,466,178,Oilseeds
+672,West Bengal,MURSHIDABAD,2004,Rabi       ,Masoor,22407,12459,Pulses
+673,West Bengal,MURSHIDABAD,2004,Rabi       ,Moong(Green Gram),31,19,Fruits
+674,West Bengal,MURSHIDABAD,2004,Rabi       ,Peas & beans (Pulses),6160,2962,Pulses
+675,West Bengal,MURSHIDABAD,2004,Rabi       ,Rapeseed &Mustard,76078,64526,Oilseeds
+676,West Bengal,MURSHIDABAD,2004,Rabi       ,Urad,3090,2209,Pulses
+677,West Bengal,MURSHIDABAD,2004,Rabi       ,Wheat,130363,251791,Cereal
+678,West Bengal,MURSHIDABAD,2004,Summer     ,Moong(Green Gram),14,5,Fruits
+679,West Bengal,MURSHIDABAD,2004,Summer     ,Rice,140359,513370,Cereal
+680,West Bengal,MURSHIDABAD,2004,Whole Year ,Coconut ,4314,33217.8,Fruits
+681,West Bengal,MURSHIDABAD,2004,Whole Year ,Dry chillies,5210,7450,Species
+682,West Bengal,MURSHIDABAD,2004,Whole Year ,Groundnut,310,489,Nuts
+683,West Bengal,MURSHIDABAD,2004,Whole Year ,Potato,10332,245563,Vegetables
+684,West Bengal,MURSHIDABAD,2004,Whole Year ,Sesamum,14864,14022,Oilseeds
+685,West Bengal,MURSHIDABAD,2004,Whole Year ,Sugarcane,5286,368204,Sugarcane
+686,West Bengal,MURSHIDABAD,2004,Whole Year ,Turmeric,1778,5339,Species
+687,West Bengal,MURSHIDABAD,2004,Winter     ,Rice,232211,595193,Cereal
+688,West Bengal,MURSHIDABAD,2005,Autumn     ,Rice,36281,78733,Cereal
+689,West Bengal,MURSHIDABAD,2005,Kharif     ,Dry ginger,205,352,Species
+690,West Bengal,MURSHIDABAD,2005,Kharif     ,Jowar,1355,532,Cereal
+691,West Bengal,MURSHIDABAD,2005,Kharif     ,Jute,127604,1865617,fibres
+692,West Bengal,MURSHIDABAD,2005,Kharif     ,Maize,5353,23872,Cereal
+693,West Bengal,MURSHIDABAD,2005,Kharif     ,Mesta,536,8115,fibres
+694,West Bengal,MURSHIDABAD,2005,Kharif     ,Moong(Green Gram),12,10,Fruits
+695,West Bengal,MURSHIDABAD,2005,Kharif     ,Sunflower,113,178,Oilseeds
+696,West Bengal,MURSHIDABAD,2005,Kharif     ,Urad,8660,6347,Pulses
+697,West Bengal,MURSHIDABAD,2005,Rabi       ,Arhar/Tur,70,75,Pulses
+698,West Bengal,MURSHIDABAD,2005,Rabi       ,Barley,562,468,Cereal
+699,West Bengal,MURSHIDABAD,2005,Rabi       ,Gram,10822,10502,Beans
+700,West Bengal,MURSHIDABAD,2005,Rabi       ,Horse-gram,30,18,Beans
+701,West Bengal,MURSHIDABAD,2005,Rabi       ,Khesari,10331,7884,Vegetables
+702,West Bengal,MURSHIDABAD,2005,Rabi       ,Linseed,307,121,Oilseeds
+703,West Bengal,MURSHIDABAD,2005,Rabi       ,Masoor,20843,18512,Pulses
+704,West Bengal,MURSHIDABAD,2005,Rabi       ,Moong(Green Gram),45,45,Fruits
+705,West Bengal,MURSHIDABAD,2005,Rabi       ,Peas & beans (Pulses),3846,3175,Pulses
+706,West Bengal,MURSHIDABAD,2005,Rabi       ,Rapeseed &Mustard,77281,82342,Oilseeds
+707,West Bengal,MURSHIDABAD,2005,Rabi       ,Urad,455,528,Pulses
+708,West Bengal,MURSHIDABAD,2005,Rabi       ,Wheat,125540,273112,Cereal
+709,West Bengal,MURSHIDABAD,2005,Summer     ,Moong(Green Gram),26,8,Fruits
+710,West Bengal,MURSHIDABAD,2005,Summer     ,Rice,137686,473728,Cereal
+711,West Bengal,MURSHIDABAD,2005,Whole Year ,Arecanut,75,130,Nuts
+712,West Bengal,MURSHIDABAD,2005,Whole Year ,Coconut ,4327,52772,Fruits
+713,West Bengal,MURSHIDABAD,2005,Whole Year ,Dry chillies,4433,9101,Species
+714,West Bengal,MURSHIDABAD,2005,Whole Year ,Groundnut,277,418,Nuts
+715,West Bengal,MURSHIDABAD,2005,Whole Year ,Potato,10341,178617,Vegetables
+716,West Bengal,MURSHIDABAD,2005,Whole Year ,Sesamum,14808,14691,Oilseeds
+717,West Bengal,MURSHIDABAD,2005,Whole Year ,Sugarcane,6083,458657,Sugarcane
+718,West Bengal,MURSHIDABAD,2005,Whole Year ,Turmeric,1680,6504,Species
+719,West Bengal,MURSHIDABAD,2005,Winter     ,Rice,230296,637078,Cereal
+720,West Bengal,MURSHIDABAD,2006,Autumn     ,Rice,32583,62180,Cereal
+721,West Bengal,MURSHIDABAD,2006,Kharif     ,Dry ginger,214,387,Species
+722,West Bengal,MURSHIDABAD,2006,Kharif     ,Jowar,1345,588,Cereal
+723,West Bengal,MURSHIDABAD,2006,Kharif     ,Jute,134977,1972021,fibres
+724,West Bengal,MURSHIDABAD,2006,Kharif     ,Maize,7464,34448,Cereal
+725,West Bengal,MURSHIDABAD,2006,Kharif     ,Mesta,603,4100,fibres
+726,West Bengal,MURSHIDABAD,2006,Kharif     ,Other Kharif pulses,5,3,Pulses
+727,West Bengal,MURSHIDABAD,2006,Kharif     ,Sunflower,29,49,Oilseeds
+728,West Bengal,MURSHIDABAD,2006,Kharif     ,Urad,10329,6977,Pulses
+729,West Bengal,MURSHIDABAD,2006,Rabi       ,Arhar/Tur,319,131,Pulses
+730,West Bengal,MURSHIDABAD,2006,Rabi       ,Barley,898,387,Cereal
+731,West Bengal,MURSHIDABAD,2006,Rabi       ,Gram,8093,5527,Beans
+732,West Bengal,MURSHIDABAD,2006,Rabi       ,Khesari,8736,5743,Vegetables
+733,West Bengal,MURSHIDABAD,2006,Rabi       ,Linseed,101,25,Oilseeds
+734,West Bengal,MURSHIDABAD,2006,Rabi       ,Masoor,18873,14912,Pulses
+735,West Bengal,MURSHIDABAD,2006,Rabi       ,Peas & beans (Pulses),4112,1859,Pulses
+736,West Bengal,MURSHIDABAD,2006,Rabi       ,Rapeseed &Mustard,77448,71277,Oilseeds
+737,West Bengal,MURSHIDABAD,2006,Rabi       ,Urad,805,706,Pulses
+738,West Bengal,MURSHIDABAD,2006,Rabi       ,Wheat,125521,270324,Cereal
+739,West Bengal,MURSHIDABAD,2006,Summer     ,Moong(Green Gram),542,203,Fruits
+740,West Bengal,MURSHIDABAD,2006,Summer     ,Rice,137322,475669,Cereal
+741,West Bengal,MURSHIDABAD,2006,Whole Year ,Arecanut,81,142,Nuts
+742,West Bengal,MURSHIDABAD,2006,Whole Year ,Coconut ,4202,59361700,Fruits
+743,West Bengal,MURSHIDABAD,2006,Whole Year ,Dry chillies,4478,6756,Species
+744,West Bengal,MURSHIDABAD,2006,Whole Year ,Groundnut,282,438,Nuts
+745,West Bengal,MURSHIDABAD,2006,Whole Year ,Potato,10677,106745,Vegetables
+746,West Bengal,MURSHIDABAD,2006,Whole Year ,Sesamum,14491,14460,Oilseeds
+747,West Bengal,MURSHIDABAD,2006,Whole Year ,Sugarcane,5075,340895,Sugarcane
+748,West Bengal,MURSHIDABAD,2006,Whole Year ,Turmeric,1764,8097,Species
+749,West Bengal,MURSHIDABAD,2006,Winter     ,Rice,225168,492849,Cereal
+750,West Bengal,MURSHIDABAD,2007,Autumn     ,Rice,32662,65084,Cereal
+751,West Bengal,MURSHIDABAD,2007,Autumn     ,Sesamum,60,40,Oilseeds
+752,West Bengal,MURSHIDABAD,2007,Kharif     ,Dry ginger,240,570,Species
+753,West Bengal,MURSHIDABAD,2007,Kharif     ,Garlic,40,450,Species
+754,West Bengal,MURSHIDABAD,2007,Kharif     ,Groundnut,12,19,Nuts
+755,West Bengal,MURSHIDABAD,2007,Kharif     ,Jowar,1630,686,Cereal
+756,West Bengal,MURSHIDABAD,2007,Kharif     ,Jute,153244,1981933,fibres
+757,West Bengal,MURSHIDABAD,2007,Kharif     ,Maize,69,138,Cereal
+758,West Bengal,MURSHIDABAD,2007,Kharif     ,Mesta,176,1459,fibres
+759,West Bengal,MURSHIDABAD,2007,Kharif     ,Sunflower,88,100,Oilseeds
+760,West Bengal,MURSHIDABAD,2007,Kharif     ,Urad,8681,8536,Pulses
+761,West Bengal,MURSHIDABAD,2007,Rabi       ,Arhar/Tur,372,392,Pulses
+762,West Bengal,MURSHIDABAD,2007,Rabi       ,Barley,573,485,Cereal
+763,West Bengal,MURSHIDABAD,2007,Rabi       ,Gram,6330,5149,Beans
+764,West Bengal,MURSHIDABAD,2007,Rabi       ,Groundnut,1,2,Nuts
+765,West Bengal,MURSHIDABAD,2007,Rabi       ,Khesari,10929,8701,Vegetables
+766,West Bengal,MURSHIDABAD,2007,Rabi       ,Linseed,748,132,Oilseeds
+767,West Bengal,MURSHIDABAD,2007,Rabi       ,Maize,2238,10655,Cereal
+768,West Bengal,MURSHIDABAD,2007,Rabi       ,Masoor,19707,15465,Pulses
+769,West Bengal,MURSHIDABAD,2007,Rabi       ,Moong(Green Gram),21,31,Fruits
+770,West Bengal,MURSHIDABAD,2007,Rabi       ,Peas & beans (Pulses),3998,2161,Pulses
+771,West Bengal,MURSHIDABAD,2007,Rabi       ,Rapeseed &Mustard,79426,76599,Oilseeds
+772,West Bengal,MURSHIDABAD,2007,Rabi       ,Safflower,4,5,Oilseeds
+773,West Bengal,MURSHIDABAD,2007,Rabi       ,Urad,710,729,Pulses
+774,West Bengal,MURSHIDABAD,2007,Rabi       ,Wheat,122557,313427,Cereal
+775,West Bengal,MURSHIDABAD,2007,Summer     ,Groundnut,70,111,Nuts
+776,West Bengal,MURSHIDABAD,2007,Summer     ,Maize,1881,8686,Cereal
+777,West Bengal,MURSHIDABAD,2007,Summer     ,Moong(Green Gram),793,512,Fruits
+778,West Bengal,MURSHIDABAD,2007,Summer     ,Rice,141921,500939,Cereal
+779,West Bengal,MURSHIDABAD,2007,Summer     ,Sesamum,13242,13277,Oilseeds
+780,West Bengal,MURSHIDABAD,2007,Whole Year ,Arecanut,80,160,Nuts
+781,West Bengal,MURSHIDABAD,2007,Whole Year ,Coconut ,4610,59350000,Fruits
+782,West Bengal,MURSHIDABAD,2007,Whole Year ,Dry chillies,4540,7080,Species
+783,West Bengal,MURSHIDABAD,2007,Whole Year ,Potato,14667,269918,Vegetables
+784,West Bengal,MURSHIDABAD,2007,Whole Year ,Sugarcane,6128,621163,Sugarcane
+785,West Bengal,MURSHIDABAD,2007,Whole Year ,Turmeric,1780,8640,Species
+786,West Bengal,MURSHIDABAD,2007,Winter     ,Rice,223835,576385,Cereal
+787,West Bengal,MURSHIDABAD,2007,Winter     ,Sesamum,88,35,Oilseeds
+788,West Bengal,MURSHIDABAD,2008,Autumn     ,Maize,355,879,Cereal
+789,West Bengal,MURSHIDABAD,2008,Autumn     ,Rice,32285,73651,Cereal
+790,West Bengal,MURSHIDABAD,2008,Autumn     ,Sesamum,44,29,Oilseeds
+791,West Bengal,MURSHIDABAD,2008,Kharif     ,Dry ginger,270,510,Species
+792,West Bengal,MURSHIDABAD,2008,Kharif     ,Groundnut,10,17,Nuts
+793,West Bengal,MURSHIDABAD,2008,Kharif     ,Jowar,1100,459,Cereal
+794,West Bengal,MURSHIDABAD,2008,Kharif     ,Jute,147234,1785879,fibres
+795,West Bengal,MURSHIDABAD,2008,Kharif     ,Mesta,119,844,fibres
+796,West Bengal,MURSHIDABAD,2008,Kharif     ,Sunflower,26,28,Oilseeds
+797,West Bengal,MURSHIDABAD,2008,Kharif     ,Urad,7907,6847,Pulses
+798,West Bengal,MURSHIDABAD,2008,Rabi       ,Arhar/Tur,83,165,Pulses
+799,West Bengal,MURSHIDABAD,2008,Rabi       ,Barley,914,1031,Cereal
+800,West Bengal,MURSHIDABAD,2008,Rabi       ,Gram,3250,3611,Beans
+801,West Bengal,MURSHIDABAD,2008,Rabi       ,Groundnut,4,4,Nuts
+802,West Bengal,MURSHIDABAD,2008,Rabi       ,Horse-gram,40,18,Beans
+803,West Bengal,MURSHIDABAD,2008,Rabi       ,Khesari,8601,7136,Vegetables
+804,West Bengal,MURSHIDABAD,2008,Rabi       ,Linseed,196,14,Oilseeds
+805,West Bengal,MURSHIDABAD,2008,Rabi       ,Maize,2041,9991,Cereal
+806,West Bengal,MURSHIDABAD,2008,Rabi       ,Masoor,13844,8990,Pulses
+807,West Bengal,MURSHIDABAD,2008,Rabi       ,Moong(Green Gram),56,60,Fruits
+808,West Bengal,MURSHIDABAD,2008,Rabi       ,Peas & beans (Pulses),1703,1163,Pulses
+809,West Bengal,MURSHIDABAD,2008,Rabi       ,Rapeseed &Mustard,83585,65269,Oilseeds
+810,West Bengal,MURSHIDABAD,2008,Rabi       ,Safflower,2,2,Oilseeds
+811,West Bengal,MURSHIDABAD,2008,Rabi       ,Urad,830,740,Pulses
+812,West Bengal,MURSHIDABAD,2008,Rabi       ,Wheat,101825,258310,Cereal
+813,West Bengal,MURSHIDABAD,2008,Summer     ,Groundnut,85,133,Nuts
+814,West Bengal,MURSHIDABAD,2008,Summer     ,Maize,1579,6993,Cereal
+815,West Bengal,MURSHIDABAD,2008,Summer     ,Moong(Green Gram),664,290,Fruits
+816,West Bengal,MURSHIDABAD,2008,Summer     ,Rice,135706,417019,Cereal
+817,West Bengal,MURSHIDABAD,2008,Summer     ,Sesamum,17824,16474,Oilseeds
+818,West Bengal,MURSHIDABAD,2008,Whole Year ,Arecanut,82,160,Nuts
+819,West Bengal,MURSHIDABAD,2008,Whole Year ,Coconut ,4620,59500,Fruits
+820,West Bengal,MURSHIDABAD,2008,Whole Year ,Dry chillies,4140,6870,Species
+821,West Bengal,MURSHIDABAD,2008,Whole Year ,Potato,12203,119996,Vegetables
+822,West Bengal,MURSHIDABAD,2008,Whole Year ,Sugarcane,6965,549954,Sugarcane
+823,West Bengal,MURSHIDABAD,2008,Whole Year ,Turmeric,1850,8810,Species
+824,West Bengal,MURSHIDABAD,2008,Winter     ,Rice,231525,633077,Cereal
+825,West Bengal,MURSHIDABAD,2008,Winter     ,Sesamum,87,36,Oilseeds
+826,West Bengal,MURSHIDABAD,2009,Autumn     ,Groundnut,9,16,Nuts
+827,West Bengal,MURSHIDABAD,2009,Autumn     ,Maize,217,447,Cereal
+828,West Bengal,MURSHIDABAD,2009,Autumn     ,Rice,16629,35194,Cereal
+829,West Bengal,MURSHIDABAD,2009,Autumn     ,Sesamum,98,59,Oilseeds
+830,West Bengal,MURSHIDABAD,2009,Kharif     ,Jowar,1450,618,Cereal
+831,West Bengal,MURSHIDABAD,2009,Kharif     ,Jute,171999,2589591,fibres
+832,West Bengal,MURSHIDABAD,2009,Kharif     ,Mesta,226,2294,fibres
+833,West Bengal,MURSHIDABAD,2009,Kharif     ,Moong(Green Gram),92,48,Fruits
+834,West Bengal,MURSHIDABAD,2009,Kharif     ,Sunflower,70,49,Oilseeds
+835,West Bengal,MURSHIDABAD,2009,Kharif     ,Urad,6525,3857,Pulses
+836,West Bengal,MURSHIDABAD,2009,Rabi       ,Arhar/Tur,195,240,Pulses
+837,West Bengal,MURSHIDABAD,2009,Rabi       ,Barley,263,515,Cereal
+838,West Bengal,MURSHIDABAD,2009,Rabi       ,Gram,4368,4945,Beans
+839,West Bengal,MURSHIDABAD,2009,Rabi       ,Groundnut,3550,6390,Nuts
+840,West Bengal,MURSHIDABAD,2009,Rabi       ,Khesari,9589,9338,Vegetables
+841,West Bengal,MURSHIDABAD,2009,Rabi       ,Linseed,22,7,Oilseeds
+842,West Bengal,MURSHIDABAD,2009,Rabi       ,Maize,2056,10087,Cereal
+843,West Bengal,MURSHIDABAD,2009,Rabi       ,Masoor,14551,15556,Pulses
+844,West Bengal,MURSHIDABAD,2009,Rabi       ,Moong(Green Gram),40,57,Fruits
+845,West Bengal,MURSHIDABAD,2009,Rabi       ,Peas & beans (Pulses),1301,1952,Pulses
+846,West Bengal,MURSHIDABAD,2009,Rabi       ,Potato,11899,370671,Vegetables
+847,West Bengal,MURSHIDABAD,2009,Rabi       ,Rapeseed &Mustard,83151,111039,Oilseeds
+848,West Bengal,MURSHIDABAD,2009,Rabi       ,Urad,782,725,Pulses
+849,West Bengal,MURSHIDABAD,2009,Rabi       ,Wheat,100123,284634,Cereal
+850,West Bengal,MURSHIDABAD,2009,Summer     ,Groundnut,105,176,Nuts
+851,West Bengal,MURSHIDABAD,2009,Summer     ,Maize,1505,7531,Cereal
+852,West Bengal,MURSHIDABAD,2009,Summer     ,Moong(Green Gram),412,187,Fruits
+853,West Bengal,MURSHIDABAD,2009,Summer     ,Rice,131338,411311,Cereal
+854,West Bengal,MURSHIDABAD,2009,Summer     ,Sesamum,15575,16676,Oilseeds
+855,West Bengal,MURSHIDABAD,2009,Whole Year ,Sugarcane,5266,335123,Sugarcane
+856,West Bengal,MURSHIDABAD,2009,Winter     ,Rice,225164,593905,Cereal
+857,West Bengal,MURSHIDABAD,2009,Winter     ,Sesamum,273,153,Oilseeds
+858,West Bengal,MURSHIDABAD,2010,Autumn     ,Groundnut,11,19,Nuts
+859,West Bengal,MURSHIDABAD,2010,Autumn     ,Maize,140,354,Cereal
+860,West Bengal,MURSHIDABAD,2010,Autumn     ,Rice,11867,23358,Cereal
+861,West Bengal,MURSHIDABAD,2010,Autumn     ,Sesamum,62,31,Oilseeds
+862,West Bengal,MURSHIDABAD,2010,Kharif     ,Jute,157701,2343257,fibres
+863,West Bengal,MURSHIDABAD,2010,Kharif     ,Mesta,99,960,fibres
+864,West Bengal,MURSHIDABAD,2010,Kharif     ,Moong(Green Gram),104,55,Fruits
+865,West Bengal,MURSHIDABAD,2010,Kharif     ,Sunflower,75,83,Oilseeds
+866,West Bengal,MURSHIDABAD,2010,Kharif     ,Urad,14644,9346,Pulses
+867,West Bengal,MURSHIDABAD,2010,Rabi       ,Arhar/Tur,113,166,Pulses
+868,West Bengal,MURSHIDABAD,2010,Rabi       ,Barley,262,362,Cereal
+869,West Bengal,MURSHIDABAD,2010,Rabi       ,Gram,4399,4351,Beans
+870,West Bengal,MURSHIDABAD,2010,Rabi       ,Groundnut,39,58,Nuts
+871,West Bengal,MURSHIDABAD,2010,Rabi       ,Khesari,8467,8156,Vegetables
+872,West Bengal,MURSHIDABAD,2010,Rabi       ,Linseed,14,4,Oilseeds
+873,West Bengal,MURSHIDABAD,2010,Rabi       ,Maize,2182,10028,Cereal
+874,West Bengal,MURSHIDABAD,2010,Rabi       ,Masoor,15447,14334,Pulses
+875,West Bengal,MURSHIDABAD,2010,Rabi       ,Moong(Green Gram),25,45,Fruits
+876,West Bengal,MURSHIDABAD,2010,Rabi       ,Peas & beans (Pulses),1985,3310,Pulses
+877,West Bengal,MURSHIDABAD,2010,Rabi       ,Potato,12249,367960,Vegetables
+878,West Bengal,MURSHIDABAD,2010,Rabi       ,Rapeseed &Mustard,88694,97736,Oilseeds
+879,West Bengal,MURSHIDABAD,2010,Rabi       ,Urad,5251,5713,Pulses
+880,West Bengal,MURSHIDABAD,2010,Rabi       ,Wheat,96390,286362,Cereal
+881,West Bengal,MURSHIDABAD,2010,Summer     ,Groundnut,123,185,Nuts
+882,West Bengal,MURSHIDABAD,2010,Summer     ,Maize,1303,6604,Cereal
+883,West Bengal,MURSHIDABAD,2010,Summer     ,Moong(Green Gram),347,221,Fruits
+884,West Bengal,MURSHIDABAD,2010,Summer     ,Rice,121612,399084,Cereal
+885,West Bengal,MURSHIDABAD,2010,Summer     ,Sesamum,17508,14286,Oilseeds
+886,West Bengal,MURSHIDABAD,2010,Whole Year ,Sugarcane,5544,399295,Sugarcane
+887,West Bengal,MURSHIDABAD,2010,Winter     ,Rice,170696,439287,Cereal
+888,West Bengal,MURSHIDABAD,2010,Winter     ,Sesamum,137,83,Oilseeds
+889,West Bengal,MURSHIDABAD,2011,Autumn     ,Groundnut,16,27,Nuts
+890,West Bengal,MURSHIDABAD,2011,Autumn     ,Maize,170,363,Cereal
+891,West Bengal,MURSHIDABAD,2011,Autumn     ,Rice,11849,26456,Cereal
+892,West Bengal,MURSHIDABAD,2011,Autumn     ,Sesamum,74,47,Oilseeds
+893,West Bengal,MURSHIDABAD,2011,Kharif     ,Jute,157571,2195519,fibres
+894,West Bengal,MURSHIDABAD,2011,Kharif     ,Moong(Green Gram),85,48,Fruits
+895,West Bengal,MURSHIDABAD,2011,Kharif     ,Sunflower,108,118,Oilseeds
+896,West Bengal,MURSHIDABAD,2011,Kharif     ,Urad,7571,5322,Pulses
+897,West Bengal,MURSHIDABAD,2011,Rabi       ,Arhar/Tur,26,12,Pulses
+898,West Bengal,MURSHIDABAD,2011,Rabi       ,Barley,480,636,Cereal
+899,West Bengal,MURSHIDABAD,2011,Rabi       ,Gram,5178,4733,Beans
+900,West Bengal,MURSHIDABAD,2011,Rabi       ,Groundnut,238,764,Nuts
+901,West Bengal,MURSHIDABAD,2011,Rabi       ,Khesari,8316,7591,Vegetables
+902,West Bengal,MURSHIDABAD,2011,Rabi       ,Linseed,98,41,Oilseeds
+903,West Bengal,MURSHIDABAD,2011,Rabi       ,Maize,2093,10035,Cereal
+904,West Bengal,MURSHIDABAD,2011,Rabi       ,Masoor,14652,12174,Pulses
+905,West Bengal,MURSHIDABAD,2011,Rabi       ,Moong(Green Gram),40,54,Fruits
+906,West Bengal,MURSHIDABAD,2011,Rabi       ,Peas & beans (Pulses),2005,1982,Pulses
+907,West Bengal,MURSHIDABAD,2011,Rabi       ,Potato,11052,291666,Vegetables
+908,West Bengal,MURSHIDABAD,2011,Rabi       ,Rapeseed &Mustard,81411,81182,Oilseeds
+909,West Bengal,MURSHIDABAD,2011,Rabi       ,Safflower,37,37,Oilseeds
+910,West Bengal,MURSHIDABAD,2011,Rabi       ,Urad,2288,2393,Pulses
+911,West Bengal,MURSHIDABAD,2011,Rabi       ,Wheat,97146,275701,Cereal
+912,West Bengal,MURSHIDABAD,2011,Summer     ,Groundnut,1,2,Nuts
+913,West Bengal,MURSHIDABAD,2011,Summer     ,Maize,1462,7043,Cereal
+914,West Bengal,MURSHIDABAD,2011,Summer     ,Moong(Green Gram),227,142,Fruits
+915,West Bengal,MURSHIDABAD,2011,Summer     ,Rice,113523,374864,Cereal
+916,West Bengal,MURSHIDABAD,2011,Summer     ,Sesamum,15565,14546,Oilseeds
+917,West Bengal,MURSHIDABAD,2011,Whole Year ,Sugarcane,3705,214852,Sugarcane
+918,West Bengal,MURSHIDABAD,2011,Winter     ,Rice,225648,555990,Cereal
+919,West Bengal,MURSHIDABAD,2011,Winter     ,Sesamum,87,45,Oilseeds
+920,West Bengal,MURSHIDABAD,2012,Autumn     ,Groundnut,15,24,Nuts
+921,West Bengal,MURSHIDABAD,2012,Autumn     ,Maize,518,1210,Cereal
+922,West Bengal,MURSHIDABAD,2012,Autumn     ,Rice,11682,26953,Cereal
+923,West Bengal,MURSHIDABAD,2012,Autumn     ,Sesamum,90,76,Oilseeds
+924,West Bengal,MURSHIDABAD,2012,Kharif     ,Jute,159497,2176807,fibres
+925,West Bengal,MURSHIDABAD,2012,Kharif     ,Mesta,736,8773,fibres
+926,West Bengal,MURSHIDABAD,2012,Kharif     ,Moong(Green Gram),90,59,Fruits
+927,West Bengal,MURSHIDABAD,2012,Kharif     ,Sunflower,40,45,Oilseeds
+928,West Bengal,MURSHIDABAD,2012,Kharif     ,Urad,9412,6112,Pulses
+929,West Bengal,MURSHIDABAD,2012,Rabi       ,Arhar/Tur,26,33,Pulses
+930,West Bengal,MURSHIDABAD,2012,Rabi       ,Barley,335,618,Cereal
+931,West Bengal,MURSHIDABAD,2012,Rabi       ,Gram,5679,6877,Beans
+932,West Bengal,MURSHIDABAD,2012,Rabi       ,Groundnut,238,764,Nuts
+933,West Bengal,MURSHIDABAD,2012,Rabi       ,Khesari,8950,8402,Vegetables
+934,West Bengal,MURSHIDABAD,2012,Rabi       ,Linseed,121,36,Oilseeds
+935,West Bengal,MURSHIDABAD,2012,Rabi       ,Maize,2914,11029,Cereal
+936,West Bengal,MURSHIDABAD,2012,Rabi       ,Masoor,15475,15115,Pulses
+937,West Bengal,MURSHIDABAD,2012,Rabi       ,Moong(Green Gram),35,52,Fruits
+938,West Bengal,MURSHIDABAD,2012,Rabi       ,Peas & beans (Pulses),2092,3217,Pulses
+939,West Bengal,MURSHIDABAD,2012,Rabi       ,Potato,13073,364716,Vegetables
+940,West Bengal,MURSHIDABAD,2012,Rabi       ,Rapeseed &Mustard,87108,94679,Oilseeds
+941,West Bengal,MURSHIDABAD,2012,Rabi       ,Urad,2774,2943,Pulses
+942,West Bengal,MURSHIDABAD,2012,Rabi       ,Wheat,99243,285342,Cereal
+943,West Bengal,MURSHIDABAD,2012,Summer     ,Groundnut,235,687,Nuts
+944,West Bengal,MURSHIDABAD,2012,Summer     ,Maize,1505,6949,Cereal
+945,West Bengal,MURSHIDABAD,2012,Summer     ,Moong(Green Gram),222,136,Fruits
+946,West Bengal,MURSHIDABAD,2012,Summer     ,Rice,114063,392066,Cereal
+947,West Bengal,MURSHIDABAD,2012,Summer     ,Sesamum,18455,13050,Oilseeds
+948,West Bengal,MURSHIDABAD,2012,Whole Year ,Sugarcane,3708,302375,Sugarcane
+949,West Bengal,MURSHIDABAD,2012,Winter     ,Rice,226641,554681,Cereal
+950,West Bengal,MURSHIDABAD,2012,Winter     ,Sesamum,66,59,Oilseeds
+951,West Bengal,MURSHIDABAD,2013,Autumn     ,Groundnut,25,32,Nuts
+952,West Bengal,MURSHIDABAD,2013,Autumn     ,Maize,588,1519,Cereal
+953,West Bengal,MURSHIDABAD,2013,Autumn     ,Rice,11617,30039,Cereal
+954,West Bengal,MURSHIDABAD,2013,Autumn     ,Sesamum,129,163,Oilseeds
+955,West Bengal,MURSHIDABAD,2013,Kharif     ,Horse-gram,30,29,Beans
+956,West Bengal,MURSHIDABAD,2013,Kharif     ,Jute,154583,2286243,fibres
+957,West Bengal,MURSHIDABAD,2013,Kharif     ,Mesta,717,9450,fibres
+958,West Bengal,MURSHIDABAD,2013,Kharif     ,Moong(Green Gram),105,66,Fruits
+959,West Bengal,MURSHIDABAD,2013,Kharif     ,Sunflower,59,60,Oilseeds
+960,West Bengal,MURSHIDABAD,2013,Kharif     ,Urad,14039,11272,Pulses
+961,West Bengal,MURSHIDABAD,2013,Rabi       ,Arhar/Tur,69,100,Pulses
+962,West Bengal,MURSHIDABAD,2013,Rabi       ,Barley,359,539,Cereal
+963,West Bengal,MURSHIDABAD,2013,Rabi       ,Gram,5852,6705,Beans
+964,West Bengal,MURSHIDABAD,2013,Rabi       ,Groundnut,235,761,Nuts
+965,West Bengal,MURSHIDABAD,2013,Rabi       ,Khesari,9157,10335,Vegetables
+966,West Bengal,MURSHIDABAD,2013,Rabi       ,Linseed,125,44,Oilseeds
+967,West Bengal,MURSHIDABAD,2013,Rabi       ,Maize,4072,18601,Cereal
+968,West Bengal,MURSHIDABAD,2013,Rabi       ,Masoor,15676,16201,Pulses
+969,West Bengal,MURSHIDABAD,2013,Rabi       ,Moong(Green Gram),50,66,Fruits
+970,West Bengal,MURSHIDABAD,2013,Rabi       ,Peas & beans (Pulses),1823,3208,Pulses
+971,West Bengal,MURSHIDABAD,2013,Rabi       ,Potato,13191,298857,Vegetables
+972,West Bengal,MURSHIDABAD,2013,Rabi       ,Rapeseed &Mustard,87179,95886,Oilseeds
+973,West Bengal,MURSHIDABAD,2013,Rabi       ,Urad,5315,5517,Pulses
+974,West Bengal,MURSHIDABAD,2013,Rabi       ,Wheat,104316,288334,Cereal
+975,West Bengal,MURSHIDABAD,2013,Summer     ,Groundnut,223,658,Nuts
+976,West Bengal,MURSHIDABAD,2013,Summer     ,Maize,1423,6923,Cereal
+977,West Bengal,MURSHIDABAD,2013,Summer     ,Moong(Green Gram),238,144,Fruits
+978,West Bengal,MURSHIDABAD,2013,Summer     ,Rice,119769,411888,Cereal
+979,West Bengal,MURSHIDABAD,2013,Summer     ,Sesamum,18542,17159,Oilseeds
+980,West Bengal,MURSHIDABAD,2013,Whole Year ,Sugarcane,3781,271620,Sugarcane
+981,West Bengal,MURSHIDABAD,2013,Winter     ,Rice,219346,674772,Cereal
+982,West Bengal,MURSHIDABAD,2013,Winter     ,Sesamum,43,27,Oilseeds
+983,West Bengal,MURSHIDABAD,2014,Autumn     ,Groundnut,32,47,Nuts
+984,West Bengal,MURSHIDABAD,2014,Autumn     ,Maize,1699,10763,Cereal
+985,West Bengal,MURSHIDABAD,2014,Autumn     ,Rice,18234,46997,Cereal
+986,West Bengal,MURSHIDABAD,2014,Autumn     ,Sesamum,128,170,Oilseeds
+987,West Bengal,MURSHIDABAD,2014,Kharif     ,Jute,154776,2225245,fibres
+988,West Bengal,MURSHIDABAD,2014,Kharif     ,Mesta,870,8708,fibres
+989,West Bengal,MURSHIDABAD,2014,Kharif     ,Moong(Green Gram),115,76,Fruits
+990,West Bengal,MURSHIDABAD,2014,Kharif     ,Sunflower,69,74,Oilseeds
+991,West Bengal,MURSHIDABAD,2014,Kharif     ,Urad,15048,11443,Pulses
+992,West Bengal,MURSHIDABAD,2014,Rabi       ,Arhar/Tur,145,242,Pulses
+993,West Bengal,MURSHIDABAD,2014,Rabi       ,Barley,391,560,Cereal
+994,West Bengal,MURSHIDABAD,2014,Rabi       ,Gram,5462,6787,Beans
+995,West Bengal,MURSHIDABAD,2014,Rabi       ,Groundnut,237,763,Nuts
+996,West Bengal,MURSHIDABAD,2014,Rabi       ,Horse-gram,30,29,Beans
+997,West Bengal,MURSHIDABAD,2014,Rabi       ,Khesari,9239,8225,Vegetables
+998,West Bengal,MURSHIDABAD,2014,Rabi       ,Linseed,233,97,Oilseeds
+999,West Bengal,MURSHIDABAD,2014,Rabi       ,Maize,4291,19786,Cereal
+1000,West Bengal,MURSHIDABAD,2014,Rabi       ,Masoor,16922,19369,Pulses
+1001,West Bengal,MURSHIDABAD,2014,Rabi       ,Moong(Green Gram),42,57,Fruits
+1002,West Bengal,MURSHIDABAD,2014,Rabi       ,Peas & beans (Pulses),2294,4157,Pulses
+1003,West Bengal,MURSHIDABAD,2014,Rabi       ,Potato,11769,392480,Vegetables
+1004,West Bengal,MURSHIDABAD,2014,Rabi       ,Rapeseed &Mustard,88628,104301,Oilseeds
+1005,West Bengal,MURSHIDABAD,2014,Rabi       ,Urad,4045,4231,Pulses
+1006,West Bengal,MURSHIDABAD,2014,Rabi       ,Wheat,104907,300497,Cereal
+1007,West Bengal,MURSHIDABAD,2014,Summer     ,Groundnut,230,531,Nuts
+1008,West Bengal,MURSHIDABAD,2014,Summer     ,Maize,1457,6782,Cereal
+1009,West Bengal,MURSHIDABAD,2014,Summer     ,Moong(Green Gram),366,222,Fruits
+1010,West Bengal,MURSHIDABAD,2014,Summer     ,Rice,126504,457147,Cereal
+1011,West Bengal,MURSHIDABAD,2014,Summer     ,Sesamum,20433,18620,Oilseeds
+1012,West Bengal,MURSHIDABAD,2014,Whole Year ,Sugarcane,4278,312958,Sugarcane
+1013,West Bengal,MURSHIDABAD,2014,Winter     ,Rice,222718,686341,Cereal
+1014,West Bengal,MURSHIDABAD,2014,Winter     ,Sesamum,80,50,Oilseeds
+1015,West Bengal,NADIA,1997,Autumn     ,Rice,55567,98910,Cereal
+1016,West Bengal,NADIA,1997,Kharif     ,Jute,134358,1721760,fibres
+1017,West Bengal,NADIA,1997,Kharif     ,Mesta,512,5110,fibres
+1018,West Bengal,NADIA,1997,Kharif     ,Urad,9866,5540,Pulses
+1019,West Bengal,NADIA,1997,Rabi       ,Gram,8547,4050,Beans
+1020,West Bengal,NADIA,1997,Rabi       ,Khesari,1757,920,Vegetables
+1021,West Bengal,NADIA,1997,Rabi       ,Masoor,18011,10860,Pulses
+1022,West Bengal,NADIA,1997,Rabi       ,Oilseeds total,8580100,7556300,Oilseeds total
+1023,West Bengal,NADIA,1997,Rabi       ,Wheat,52176,117720,Cereal
+1024,West Bengal,NADIA,1997,Summer     ,Moong(Green Gram),970,25,Fruits
+1025,West Bengal,NADIA,1997,Summer     ,Rice,121367,376870,Cereal
+1026,West Bengal,NADIA,1997,Whole Year ,Arecanut,235,194,Nuts
+1027,West Bengal,NADIA,1997,Whole Year ,Arhar/Tur,182,180,Pulses
+1028,West Bengal,NADIA,1997,Whole Year ,Barley,123,120,Cereal
+1029,West Bengal,NADIA,1997,Whole Year ,Coconut ,745,11547,Fruits
+1030,West Bengal,NADIA,1997,Whole Year ,Dry chillies,3691,4753,Species
+1031,West Bengal,NADIA,1997,Whole Year ,Groundnut,3850,6095,Nuts
+1032,West Bengal,NADIA,1997,Whole Year ,Linseed,454,300,Oilseeds
+1033,West Bengal,NADIA,1997,Whole Year ,Maize,250,470,Cereal
+1034,West Bengal,NADIA,1997,Whole Year ,Potato,5337,112885,Vegetables
+1035,West Bengal,NADIA,1997,Whole Year ,Pulses total,4094900,2266000,Pulses total
+1036,West Bengal,NADIA,1997,Whole Year ,Rapeseed &Mustard,67792,55040,Oilseeds
+1037,West Bengal,NADIA,1997,Whole Year ,Sesamum,13705,14128,Oilseeds
+1038,West Bengal,NADIA,1997,Whole Year ,Sugarcane,1779,123800,Sugarcane
+1039,West Bengal,NADIA,1997,Whole Year ,Turmeric,1178,2244,Species
+1040,West Bengal,NADIA,1997,Winter     ,Rice,127051,271480,Cereal
+1041,West Bengal,NADIA,1998,Autumn     ,Rice,60217,106400,Cereal
+1042,West Bengal,NADIA,1998,Kharif     ,Arhar/Tur,88,70,Pulses
+1043,West Bengal,NADIA,1998,Kharif     ,Dry ginger,168,143,Species
+1044,West Bengal,NADIA,1998,Kharif     ,Jute,126682,1682480,fibres
+1045,West Bengal,NADIA,1998,Kharif     ,Maize,45,140,Cereal
+1046,West Bengal,NADIA,1998,Kharif     ,Mesta,189,1530,fibres
+1047,West Bengal,NADIA,1998,Kharif     ,Small millets,5,2,Cereal
+1048,West Bengal,NADIA,1998,Kharif     ,Urad,7665,3630,Pulses
+1049,West Bengal,NADIA,1998,Rabi       ,Barley,24,40,Cereal
+1050,West Bengal,NADIA,1998,Rabi       ,Gram,6538,5750,Beans
+1051,West Bengal,NADIA,1998,Rabi       ,Khesari,1491,880,Vegetables
+1052,West Bengal,NADIA,1998,Rabi       ,Linseed,1273,600,Oilseeds
+1053,West Bengal,NADIA,1998,Rabi       ,Masoor,18252,13460,Pulses
+1054,West Bengal,NADIA,1998,Rabi       ,Peas & beans (Pulses),3670,2780,Pulses
+1055,West Bengal,NADIA,1998,Rabi       ,Rapeseed &Mustard,71682,54370,Oilseeds
+1056,West Bengal,NADIA,1998,Rabi       ,Wheat,52147,112510,Cereal
+1057,West Bengal,NADIA,1998,Summer     ,Moong(Green Gram),500,160,Fruits
+1058,West Bengal,NADIA,1998,Summer     ,Rice,125158,516429,Cereal
+1059,West Bengal,NADIA,1998,Whole Year ,Arecanut,242,206,Nuts
+1060,West Bengal,NADIA,1998,Whole Year ,Coconut ,767,11505,Fruits
+1061,West Bengal,NADIA,1998,Whole Year ,Dry chillies,3553,4586,Species
+1062,West Bengal,NADIA,1998,Whole Year ,Groundnut,5113,7696,Nuts
+1063,West Bengal,NADIA,1998,Whole Year ,Potato,4823,98541,Vegetables
+1064,West Bengal,NADIA,1998,Whole Year ,Sesamum,14139,14587,Oilseeds
+1065,West Bengal,NADIA,1998,Whole Year ,Sugarcane,1238,81460,Sugarcane
+1066,West Bengal,NADIA,1998,Whole Year ,Turmeric,1118,2130,Species
+1067,West Bengal,NADIA,1998,Winter     ,Rice,119747,220890,Cereal
+1068,West Bengal,NADIA,1999,Autumn     ,Dry chillies,1720,2408,Species
+1069,West Bengal,NADIA,1999,Autumn     ,Rice,59940,124450,Cereal
+1070,West Bengal,NADIA,1999,Autumn     ,Sesamum,5,1,Oilseeds
+1071,West Bengal,NADIA,1999,Kharif     ,Arhar/Tur,61,74,Pulses
+1072,West Bengal,NADIA,1999,Kharif     ,Dry ginger,245,219,Species
+1073,West Bengal,NADIA,1999,Kharif     ,Jute,128774,1810740,fibres
+1074,West Bengal,NADIA,1999,Kharif     ,Maize,86,180,Cereal
+1075,West Bengal,NADIA,1999,Kharif     ,Mesta,315,3550,fibres
+1076,West Bengal,NADIA,1999,Kharif     ,Small millets,5,3,Cereal
+1077,West Bengal,NADIA,1999,Kharif     ,Urad,10924,4708,Pulses
+1078,West Bengal,NADIA,1999,Rabi       ,Barley,198,59,Cereal
+1079,West Bengal,NADIA,1999,Rabi       ,Dry chillies,2041,2539,Species
+1080,West Bengal,NADIA,1999,Rabi       ,Gram,8663,5596,Beans
+1081,West Bengal,NADIA,1999,Rabi       ,Groundnut,3245,5844,Nuts
+1082,West Bengal,NADIA,1999,Rabi       ,Khesari,1792,960,Vegetables
+1083,West Bengal,NADIA,1999,Rabi       ,Linseed,756,449,Oilseeds
+1084,West Bengal,NADIA,1999,Rabi       ,Masoor,23904,14127,Pulses
+1085,West Bengal,NADIA,1999,Rabi       ,Moong(Green Gram),167,94,Fruits
+1086,West Bengal,NADIA,1999,Rabi       ,Peas & beans (Pulses),2507,1995,Pulses
+1087,West Bengal,NADIA,1999,Rabi       ,Rapeseed &Mustard,66464,52815,Oilseeds
+1088,West Bengal,NADIA,1999,Rabi       ,Urad,5007,2368,Pulses
+1089,West Bengal,NADIA,1999,Rabi       ,Wheat,52184,120097,Cereal
+1090,West Bengal,NADIA,1999,Summer     ,Groundnut,3225,4838,Nuts
+1091,West Bengal,NADIA,1999,Summer     ,Moong(Green Gram),740,210,Fruits
+1092,West Bengal,NADIA,1999,Summer     ,Rice,133652,454510,Cereal
+1093,West Bengal,NADIA,1999,Summer     ,Sesamum,14557,15220,Oilseeds
+1094,West Bengal,NADIA,1999,Whole Year ,Arecanut,243,208,Nuts
+1095,West Bengal,NADIA,1999,Whole Year ,Coconut ,768,11520,Fruits
+1096,West Bengal,NADIA,1999,Whole Year ,Sugarcane,1163,68946,Sugarcane
+1097,West Bengal,NADIA,1999,Whole Year ,Tobacco,68,39,Commercial
+1098,West Bengal,NADIA,1999,Whole Year ,Turmeric,1078,1602,Species
+1099,West Bengal,NADIA,1999,Winter     ,Potato,3709,65943,Vegetables
+1100,West Bengal,NADIA,1999,Winter     ,Rice,126188,237850,Cereal
+1101,West Bengal,NADIA,1999,Winter     ,Sesamum,63,37,Oilseeds
+1102,West Bengal,NADIA,2000,Autumn     ,Rice,53425,98840,Cereal
+1103,West Bengal,NADIA,2000,Kharif     ,Arhar/Tur,1593,1060,Pulses
+1104,West Bengal,NADIA,2000,Kharif     ,Dry ginger,200,29,Species
+1105,West Bengal,NADIA,2000,Kharif     ,Jowar,25,12,Cereal
+1106,West Bengal,NADIA,2000,Kharif     ,Jute,130313,1702760,fibres
+1107,West Bengal,NADIA,2000,Kharif     ,Maize,262,630,Cereal
+1108,West Bengal,NADIA,2000,Kharif     ,Mesta,1076,7730,fibres
+1109,West Bengal,NADIA,2000,Kharif     ,Moong(Green Gram),20,10,Fruits
+1110,West Bengal,NADIA,2000,Kharif     ,Small millets,65,30,Cereal
+1111,West Bengal,NADIA,2000,Kharif     ,Urad,6355,2450,Pulses
+1112,West Bengal,NADIA,2000,Rabi       ,Barley,218,110,Cereal
+1113,West Bengal,NADIA,2000,Rabi       ,Gram,18171,15770,Beans
+1114,West Bengal,NADIA,2000,Rabi       ,Groundnut,3875,6684,Nuts
+1115,West Bengal,NADIA,2000,Rabi       ,Khesari,4858,3270,Vegetables
+1116,West Bengal,NADIA,2000,Rabi       ,Linseed,4715,1470,Oilseeds
+1117,West Bengal,NADIA,2000,Rabi       ,Masoor,21707,18640,Pulses
+1118,West Bengal,NADIA,2000,Rabi       ,Moong(Green Gram),183,107,Fruits
+1119,West Bengal,NADIA,2000,Rabi       ,Peas & beans (Pulses),2556,2010,Pulses
+1120,West Bengal,NADIA,2000,Rabi       ,Rapeseed &Mustard,81569,72620,Oilseeds
+1121,West Bengal,NADIA,2000,Rabi       ,Urad,751,415,Pulses
+1122,West Bengal,NADIA,2000,Rabi       ,Wheat,60417,148490,Cereal
+1123,West Bengal,NADIA,2000,Summer     ,Groundnut,3435,5211,Nuts
+1124,West Bengal,NADIA,2000,Summer     ,Moong(Green Gram),840,433,Fruits
+1125,West Bengal,NADIA,2000,Summer     ,Rice,147670,506357,Cereal
+1126,West Bengal,NADIA,2000,Whole Year ,Arecanut,264,264,Nuts
+1127,West Bengal,NADIA,2000,Whole Year ,Coconut ,772,11611.7,Fruits
+1128,West Bengal,NADIA,2000,Whole Year ,Dry chillies,4549,5922,Species
+1129,West Bengal,NADIA,2000,Whole Year ,Potato,3450,93148,Vegetables
+1130,West Bengal,NADIA,2000,Whole Year ,Sesamum,15319,14004,Oilseeds
+1131,West Bengal,NADIA,2000,Whole Year ,Sugarcane,1772,108260,Sugarcane
+1132,West Bengal,NADIA,2000,Whole Year ,Tobacco,80,48,Commercial
+1133,West Bengal,NADIA,2000,Whole Year ,Turmeric,1055,1568,Species
+1134,West Bengal,NADIA,2000,Winter     ,Rice,28092,44800,Cereal
+1135,West Bengal,NADIA,2001,Autumn     ,Rice,55580,124264,Cereal
+1136,West Bengal,NADIA,2001,Kharif     ,Arhar/Tur,216,317,Pulses
+1137,West Bengal,NADIA,2001,Kharif     ,Dry ginger,188,160,Species
+1138,West Bengal,NADIA,2001,Kharif     ,Jowar,10,4,Cereal
+1139,West Bengal,NADIA,2001,Kharif     ,Jute,138692,2030589,fibres
+1140,West Bengal,NADIA,2001,Kharif     ,Maize,684,1585,Cereal
+1141,West Bengal,NADIA,2001,Kharif     ,Mesta,426,4493,fibres
+1142,West Bengal,NADIA,2001,Kharif     ,Moong(Green Gram),50,24,Fruits
+1143,West Bengal,NADIA,2001,Kharif     ,Small millets,70,69,Cereal
+1144,West Bengal,NADIA,2001,Kharif     ,Sunflower,150,199,Oilseeds
+1145,West Bengal,NADIA,2001,Kharif     ,Urad,11922,6515,Pulses
+1146,West Bengal,NADIA,2001,Rabi       ,Barley,75,129,Cereal
+1147,West Bengal,NADIA,2001,Rabi       ,Gram,19159,15944,Beans
+1148,West Bengal,NADIA,2001,Rabi       ,Groundnut,3040,4697,Nuts
+1149,West Bengal,NADIA,2001,Rabi       ,Khesari,4412,1959,Vegetables
+1150,West Bengal,NADIA,2001,Rabi       ,Linseed,3918,2306,Oilseeds
+1151,West Bengal,NADIA,2001,Rabi       ,Masoor,22454,8274,Pulses
+1152,West Bengal,NADIA,2001,Rabi       ,Moong(Green Gram),165,98,Fruits
+1153,West Bengal,NADIA,2001,Rabi       ,Peas & beans (Pulses),4112,2654,Pulses
+1154,West Bengal,NADIA,2001,Rabi       ,Rapeseed &Mustard,83099,54206,Oilseeds
+1155,West Bengal,NADIA,2001,Rabi       ,Urad,2940,2023,Pulses
+1156,West Bengal,NADIA,2001,Rabi       ,Wheat,58361,117529,Cereal
+1157,West Bengal,NADIA,2001,Summer     ,Groundnut,3015,4770,Nuts
+1158,West Bengal,NADIA,2001,Summer     ,Moong(Green Gram),1366,535,Fruits
+1159,West Bengal,NADIA,2001,Summer     ,Rice,156157,534539,Cereal
+1160,West Bengal,NADIA,2001,Whole Year ,Arecanut,282,283,Nuts
+1161,West Bengal,NADIA,2001,Whole Year ,Coconut ,798,12005.1,Fruits
+1162,West Bengal,NADIA,2001,Whole Year ,Dry chillies,4420,4102,Species
+1163,West Bengal,NADIA,2001,Whole Year ,Potato,4414,106164,Vegetables
+1164,West Bengal,NADIA,2001,Whole Year ,Sesamum,15067,13922,Oilseeds
+1165,West Bengal,NADIA,2001,Whole Year ,Sugarcane,2965,202850,Sugarcane
+1166,West Bengal,NADIA,2001,Whole Year ,Tobacco,82,50,Commercial
+1167,West Bengal,NADIA,2001,Whole Year ,Turmeric,644,864,Species
+1168,West Bengal,NADIA,2001,Winter     ,Rice,129902,299924,Cereal
+1169,West Bengal,NADIA,2002,Autumn     ,Dry chillies,2121,1595,Species
+1170,West Bengal,NADIA,2002,Autumn     ,Rice,55185,118693,Cereal
+1171,West Bengal,NADIA,2002,Kharif     ,Arhar/Tur,249,264,Pulses
+1172,West Bengal,NADIA,2002,Kharif     ,Dry ginger,163,176,Species
+1173,West Bengal,NADIA,2002,Kharif     ,Jowar,10,8,Cereal
+1174,West Bengal,NADIA,2002,Kharif     ,Jute,139745,1925434,fibres
+1175,West Bengal,NADIA,2002,Kharif     ,Maize,347,697,Cereal
+1176,West Bengal,NADIA,2002,Kharif     ,Mesta,515,4430,fibres
+1177,West Bengal,NADIA,2002,Kharif     ,Moong(Green Gram),68,31,Fruits
+1178,West Bengal,NADIA,2002,Kharif     ,Small millets,145,276,Cereal
+1179,West Bengal,NADIA,2002,Kharif     ,Sunflower,460,775,Oilseeds
+1180,West Bengal,NADIA,2002,Kharif     ,Urad,15764,11895,Pulses
+1181,West Bengal,NADIA,2002,Rabi       ,Barley,88,48,Cereal
+1182,West Bengal,NADIA,2002,Rabi       ,Dry chillies,2387,3024,Species
+1183,West Bengal,NADIA,2002,Rabi       ,Gram,16288,14284,Beans
+1184,West Bengal,NADIA,2002,Rabi       ,Groundnut,3050,4874,Nuts
+1185,West Bengal,NADIA,2002,Rabi       ,Khesari,4562,3598,Vegetables
+1186,West Bengal,NADIA,2002,Rabi       ,Linseed,1877,1131,Oilseeds
+1187,West Bengal,NADIA,2002,Rabi       ,Masoor,20767,15827,Pulses
+1188,West Bengal,NADIA,2002,Rabi       ,Moong(Green Gram),180,102,Fruits
+1189,West Bengal,NADIA,2002,Rabi       ,Peas & beans (Pulses),4991,4428,Pulses
+1190,West Bengal,NADIA,2002,Rabi       ,Rapeseed &Mustard,85437,76789,Oilseeds
+1191,West Bengal,NADIA,2002,Rabi       ,Safflower,5,14,Oilseeds
+1192,West Bengal,NADIA,2002,Rabi       ,Urad,3050,2242,Pulses
+1193,West Bengal,NADIA,2002,Rabi       ,Wheat,58410,126850,Cereal
+1194,West Bengal,NADIA,2002,Summer     ,Groundnut,2175,3480,Nuts
+1195,West Bengal,NADIA,2002,Summer     ,Moong(Green Gram),831,340,Fruits
+1196,West Bengal,NADIA,2002,Summer     ,Rice,158907,552776,Cereal
+1197,West Bengal,NADIA,2002,Summer     ,Sesamum,15906,17267,Oilseeds
+1198,West Bengal,NADIA,2002,Whole Year ,Arecanut,301,304,Nuts
+1199,West Bengal,NADIA,2002,Whole Year ,Coconut ,829,12600.8,Fruits
+1200,West Bengal,NADIA,2002,Whole Year ,Sugarcane,2693,219485,Sugarcane
+1201,West Bengal,NADIA,2002,Whole Year ,Tobacco,85,53,Commercial
+1202,West Bengal,NADIA,2002,Whole Year ,Turmeric,629,1003,Species
+1203,West Bengal,NADIA,2002,Winter     ,Potato,4124,99641,Vegetables
+1204,West Bengal,NADIA,2002,Winter     ,Rice,127639,327586,Cereal
+1205,West Bengal,NADIA,2002,Winter     ,Sesamum,37,23,Oilseeds
+1206,West Bengal,NADIA,2003,Autumn     ,Rice,61458,135358,Cereal
+1207,West Bengal,NADIA,2003,Kharif     ,Arhar/Tur,135,137,Pulses
+1208,West Bengal,NADIA,2003,Kharif     ,Dry ginger,157,184,Species
+1209,West Bengal,NADIA,2003,Kharif     ,Jowar,10,7,Cereal
+1210,West Bengal,NADIA,2003,Kharif     ,Jute,130586,1868158,fibres
+1211,West Bengal,NADIA,2003,Kharif     ,Maize,2669,6637,Cereal
+1212,West Bengal,NADIA,2003,Kharif     ,Mesta,378,3032,fibres
+1213,West Bengal,NADIA,2003,Kharif     ,Moong(Green Gram),64,33,Fruits
+1214,West Bengal,NADIA,2003,Kharif     ,Small millets,65,97,Cereal
+1215,West Bengal,NADIA,2003,Kharif     ,Sunflower,1345,1236,Oilseeds
+1216,West Bengal,NADIA,2003,Kharif     ,Urad,17514,13235,Pulses
+1217,West Bengal,NADIA,2003,Rabi       ,Barley,368,510,Cereal
+1218,West Bengal,NADIA,2003,Rabi       ,Gram,13275,14081,Beans
+1219,West Bengal,NADIA,2003,Rabi       ,Groundnut,3263,5218,Nuts
+1220,West Bengal,NADIA,2003,Rabi       ,Khesari,3122,2566,Vegetables
+1221,West Bengal,NADIA,2003,Rabi       ,Linseed,694,372,Oilseeds
+1222,West Bengal,NADIA,2003,Rabi       ,Masoor,20598,15989,Pulses
+1223,West Bengal,NADIA,2003,Rabi       ,Moong(Green Gram),148,96,Fruits
+1224,West Bengal,NADIA,2003,Rabi       ,Peas & beans (Pulses),3806,4279,Pulses
+1225,West Bengal,NADIA,2003,Rabi       ,Rapeseed &Mustard,83598,79825,Oilseeds
+1226,West Bengal,NADIA,2003,Rabi       ,Safflower,290,47,Oilseeds
+1227,West Bengal,NADIA,2003,Rabi       ,Urad,1848,1482,Pulses
+1228,West Bengal,NADIA,2003,Rabi       ,Wheat,58848,134872,Cereal
+1229,West Bengal,NADIA,2003,Summer     ,Groundnut,2196,3718,Nuts
+1230,West Bengal,NADIA,2003,Summer     ,Moong(Green Gram),11,3,Fruits
+1231,West Bengal,NADIA,2003,Summer     ,Rice,118822,397368,Cereal
+1232,West Bengal,NADIA,2003,Whole Year ,Arecanut,319,321,Nuts
+1233,West Bengal,NADIA,2003,Whole Year ,Coconut ,857,12998,Fruits
+1234,West Bengal,NADIA,2003,Whole Year ,Dry chillies,4770,5177,Species
+1235,West Bengal,NADIA,2003,Whole Year ,Potato,3867,95731,Vegetables
+1236,West Bengal,NADIA,2003,Whole Year ,Sesamum,14330,14911,Oilseeds
+1237,West Bengal,NADIA,2003,Whole Year ,Sugarcane,1908,140569,Sugarcane
+1238,West Bengal,NADIA,2003,Whole Year ,Tobacco,60,39,Commercial
+1239,West Bengal,NADIA,2003,Whole Year ,Turmeric,661,1062,Species
+1240,West Bengal,NADIA,2003,Winter     ,Rice,129396,307364,Cereal
+1241,West Bengal,NADIA,2004,Autumn     ,Rice,56617,123805,Cereal
+1242,West Bengal,NADIA,2004,Kharif     ,Dry ginger,157,184,Species
+1243,West Bengal,NADIA,2004,Kharif     ,Jowar,10,7,Cereal
+1244,West Bengal,NADIA,2004,Kharif     ,Jute,115170,1714874,fibres
+1245,West Bengal,NADIA,2004,Kharif     ,Maize,1743,4830,Cereal
+1246,West Bengal,NADIA,2004,Kharif     ,Mesta,122,1216,fibres
+1247,West Bengal,NADIA,2004,Kharif     ,Moong(Green Gram),60,31,Fruits
+1248,West Bengal,NADIA,2004,Kharif     ,Small millets,117,211,Cereal
+1249,West Bengal,NADIA,2004,Kharif     ,Sunflower,1370,2092,Oilseeds
+1250,West Bengal,NADIA,2004,Kharif     ,Urad,6682,6224,Pulses
+1251,West Bengal,NADIA,2004,Rabi       ,Arhar/Tur,110,97,Pulses
+1252,West Bengal,NADIA,2004,Rabi       ,Barley,116,91,Cereal
+1253,West Bengal,NADIA,2004,Rabi       ,Gram,8712,9756,Beans
+1254,West Bengal,NADIA,2004,Rabi       ,Khesari,1743,1306,Vegetables
+1255,West Bengal,NADIA,2004,Rabi       ,Linseed,390,221,Oilseeds
+1256,West Bengal,NADIA,2004,Rabi       ,Masoor,18860,12395,Pulses
+1257,West Bengal,NADIA,2004,Rabi       ,Moong(Green Gram),169,113,Fruits
+1258,West Bengal,NADIA,2004,Rabi       ,Peas & beans (Pulses),4475,3932,Pulses
+1259,West Bengal,NADIA,2004,Rabi       ,Rapeseed &Mustard,83576,65425,Oilseeds
+1260,West Bengal,NADIA,2004,Rabi       ,Safflower,255,362,Oilseeds
+1261,West Bengal,NADIA,2004,Rabi       ,Urad,1535,1188,Pulses
+1262,West Bengal,NADIA,2004,Rabi       ,Wheat,54881,103278,Cereal
+1263,West Bengal,NADIA,2004,Summer     ,Moong(Green Gram),50,17,Fruits
+1264,West Bengal,NADIA,2004,Summer     ,Rice,109866,366510,Cereal
+1265,West Bengal,NADIA,2004,Whole Year ,Coconut ,860,13046.2,Fruits
+1266,West Bengal,NADIA,2004,Whole Year ,Dry chillies,5387,5709,Species
+1267,West Bengal,NADIA,2004,Whole Year ,Groundnut,5817,9287,Nuts
+1268,West Bengal,NADIA,2004,Whole Year ,Potato,4321,108290,Vegetables
+1269,West Bengal,NADIA,2004,Whole Year ,Sesamum,16312,14252,Oilseeds
+1270,West Bengal,NADIA,2004,Whole Year ,Sugarcane,1678,138957,Sugarcane
+1271,West Bengal,NADIA,2004,Whole Year ,Tobacco,45,29,Commercial
+1272,West Bengal,NADIA,2004,Whole Year ,Turmeric,567,890,Species
+1273,West Bengal,NADIA,2004,Winter     ,Rice,119648,273359,Cereal
+1274,West Bengal,NADIA,2005,Autumn     ,Rice,46201,101837,Cereal
+1275,West Bengal,NADIA,2005,Kharif     ,Dry ginger,130,148,Species
+1276,West Bengal,NADIA,2005,Kharif     ,Jowar,10,6,Cereal
+1277,West Bengal,NADIA,2005,Kharif     ,Jute,120156,1806376,fibres
+1278,West Bengal,NADIA,2005,Kharif     ,Maize,1832,4334,Cereal
+1279,West Bengal,NADIA,2005,Kharif     ,Mesta,50,854,fibres
+1280,West Bengal,NADIA,2005,Kharif     ,Moong(Green Gram),29,22,Fruits
+1281,West Bengal,NADIA,2005,Kharif     ,Sunflower,1275,1999,Oilseeds
+1282,West Bengal,NADIA,2005,Kharif     ,Urad,11514,9497,Pulses
+1283,West Bengal,NADIA,2005,Rabi       ,Arhar/Tur,16,18,Pulses
+1284,West Bengal,NADIA,2005,Rabi       ,Barley,92,83,Cereal
+1285,West Bengal,NADIA,2005,Rabi       ,Gram,9520,9487,Beans
+1286,West Bengal,NADIA,2005,Rabi       ,Khesari,1609,1234,Vegetables
+1287,West Bengal,NADIA,2005,Rabi       ,Linseed,1051,595,Oilseeds
+1288,West Bengal,NADIA,2005,Rabi       ,Masoor,17587,13466,Pulses
+1289,West Bengal,NADIA,2005,Rabi       ,Moong(Green Gram),136,85,Fruits
+1290,West Bengal,NADIA,2005,Rabi       ,Peas & beans (Pulses),4339,3603,Pulses
+1291,West Bengal,NADIA,2005,Rabi       ,Rapeseed &Mustard,79232,71354,Oilseeds
+1292,West Bengal,NADIA,2005,Rabi       ,Urad,1472,1128,Pulses
+1293,West Bengal,NADIA,2005,Rabi       ,Wheat,47053,100435,Cereal
+1294,West Bengal,NADIA,2005,Summer     ,Moong(Green Gram),141,43,Fruits
+1295,West Bengal,NADIA,2005,Summer     ,Rice,107541,349808,Cereal
+1296,West Bengal,NADIA,2005,Whole Year ,Arecanut,356,981,Nuts
+1297,West Bengal,NADIA,2005,Whole Year ,Coconut ,983,12234,Fruits
+1298,West Bengal,NADIA,2005,Whole Year ,Dry chillies,5575,6294,Species
+1299,West Bengal,NADIA,2005,Whole Year ,Groundnut,5597,9726,Nuts
+1300,West Bengal,NADIA,2005,Whole Year ,Potato,5495,147513,Vegetables
+1301,West Bengal,NADIA,2005,Whole Year ,Sesamum,15402,15571,Oilseeds
+1302,West Bengal,NADIA,2005,Whole Year ,Sugarcane,1473,118031,Sugarcane
+1303,West Bengal,NADIA,2005,Whole Year ,Tobacco,45,38,Commercial
+1304,West Bengal,NADIA,2005,Whole Year ,Turmeric,360,846,Species
+1305,West Bengal,NADIA,2005,Winter     ,Rice,111671,280791,Cereal
+1306,West Bengal,NADIA,2006,Autumn     ,Rice,41389,93352,Cereal
+1307,West Bengal,NADIA,2006,Kharif     ,Dry ginger,172,205,Species
+1308,West Bengal,NADIA,2006,Kharif     ,Jowar,10,7,Cereal
+1309,West Bengal,NADIA,2006,Kharif     ,Jute,130577,1886977,fibres
+1310,West Bengal,NADIA,2006,Kharif     ,Maize,4466,10390,Cereal
+1311,West Bengal,NADIA,2006,Kharif     ,Mesta,139,945,fibres
+1312,West Bengal,NADIA,2006,Kharif     ,Moong(Green Gram),24,18,Fruits
+1313,West Bengal,NADIA,2006,Kharif     ,Sunflower,1125,1742,Oilseeds
+1314,West Bengal,NADIA,2006,Kharif     ,Urad,8185,6616,Pulses
+1315,West Bengal,NADIA,2006,Rabi       ,Arhar/Tur,22,11,Pulses
+1316,West Bengal,NADIA,2006,Rabi       ,Barley,602,329,Cereal
+1317,West Bengal,NADIA,2006,Rabi       ,Gram,3949,2551,Beans
+1318,West Bengal,NADIA,2006,Rabi       ,Khesari,1486,1074,Vegetables
+1319,West Bengal,NADIA,2006,Rabi       ,Linseed,161,75,Oilseeds
+1320,West Bengal,NADIA,2006,Rabi       ,Masoor,19871,13519,Pulses
+1321,West Bengal,NADIA,2006,Rabi       ,Moong(Green Gram),140,87,Fruits
+1322,West Bengal,NADIA,2006,Rabi       ,Peas & beans (Pulses),4731,4151,Pulses
+1323,West Bengal,NADIA,2006,Rabi       ,Rapeseed &Mustard,79609,69148,Oilseeds
+1324,West Bengal,NADIA,2006,Rabi       ,Wheat,46907,102643,Cereal
+1325,West Bengal,NADIA,2006,Summer     ,Moong(Green Gram),591,221,Fruits
+1326,West Bengal,NADIA,2006,Summer     ,Rice,101085,352101,Cereal
+1327,West Bengal,NADIA,2006,Whole Year ,Arecanut,365,1010,Nuts
+1328,West Bengal,NADIA,2006,Whole Year ,Coconut ,1002,13378700,Fruits
+1329,West Bengal,NADIA,2006,Whole Year ,Dry chillies,6140,6192,Species
+1330,West Bengal,NADIA,2006,Whole Year ,Groundnut,6695,11096,Nuts
+1331,West Bengal,NADIA,2006,Whole Year ,Potato,5656,120151,Vegetables
+1332,West Bengal,NADIA,2006,Whole Year ,Sesamum,19583,20580,Oilseeds
+1333,West Bengal,NADIA,2006,Whole Year ,Sugarcane,1081,77437,Sugarcane
+1334,West Bengal,NADIA,2006,Whole Year ,Tobacco,45,36,Commercial
+1335,West Bengal,NADIA,2006,Whole Year ,Turmeric,660,1597,Species
+1336,West Bengal,NADIA,2006,Winter     ,Rice,107837,232244,Cereal
+1337,West Bengal,NADIA,2007,Autumn     ,Rice,45870,102345,Cereal
+1338,West Bengal,NADIA,2007,Autumn     ,Sesamum,20,10,Oilseeds
+1339,West Bengal,NADIA,2007,Kharif     ,Dry ginger,198,255,Species
+1340,West Bengal,NADIA,2007,Kharif     ,Garlic,164,1940,Species
+1341,West Bengal,NADIA,2007,Kharif     ,Groundnut,50,72,Nuts
+1342,West Bengal,NADIA,2007,Kharif     ,Jowar,10,7,Cereal
+1343,West Bengal,NADIA,2007,Kharif     ,Jute,127471,1762185,fibres
+1344,West Bengal,NADIA,2007,Kharif     ,Maize,602,1201,Cereal
+1345,West Bengal,NADIA,2007,Kharif     ,Mesta,277,2296,fibres
+1346,West Bengal,NADIA,2007,Kharif     ,Moong(Green Gram),20,15,Fruits
+1347,West Bengal,NADIA,2007,Kharif     ,Sunflower,985,1519,Oilseeds
+1348,West Bengal,NADIA,2007,Kharif     ,Urad,8241,6974,Pulses
+1349,West Bengal,NADIA,2007,Rabi       ,Arhar/Tur,9,10,Pulses
+1350,West Bengal,NADIA,2007,Rabi       ,Barley,216,191,Cereal
+1351,West Bengal,NADIA,2007,Rabi       ,Gram,4162,3588,Beans
+1352,West Bengal,NADIA,2007,Rabi       ,Groundnut,3680,6065,Nuts
+1353,West Bengal,NADIA,2007,Rabi       ,Khesari,887,732,Vegetables
+1354,West Bengal,NADIA,2007,Rabi       ,Linseed,521,343,Oilseeds
+1355,West Bengal,NADIA,2007,Rabi       ,Maize,490,1284,Cereal
+1356,West Bengal,NADIA,2007,Rabi       ,Masoor,18735,13693,Pulses
+1357,West Bengal,NADIA,2007,Rabi       ,Moong(Green Gram),172,103,Fruits
+1358,West Bengal,NADIA,2007,Rabi       ,Peas & beans (Pulses),3837,3455,Pulses
+1359,West Bengal,NADIA,2007,Rabi       ,Rapeseed &Mustard,76982,68108,Oilseeds
+1360,West Bengal,NADIA,2007,Rabi       ,Wheat,47490,110556,Cereal
+1361,West Bengal,NADIA,2007,Summer     ,Groundnut,2745,4664,Nuts
+1362,West Bengal,NADIA,2007,Summer     ,Maize,1797,4697,Cereal
+1363,West Bengal,NADIA,2007,Summer     ,Moong(Green Gram),335,216,Fruits
+1364,West Bengal,NADIA,2007,Summer     ,Rice,104250,357209,Cereal
+1365,West Bengal,NADIA,2007,Summer     ,Sesamum,19700,22064,Oilseeds
+1366,West Bengal,NADIA,2007,Whole Year ,Arecanut,358,982,Nuts
+1367,West Bengal,NADIA,2007,Whole Year ,Coconut ,988,12527800,Fruits
+1368,West Bengal,NADIA,2007,Whole Year ,Dry chillies,6789,11195,Species
+1369,West Bengal,NADIA,2007,Whole Year ,Potato,5572,114188,Vegetables
+1370,West Bengal,NADIA,2007,Whole Year ,Sugarcane,1943,270045,Sugarcane
+1371,West Bengal,NADIA,2007,Whole Year ,Tobacco,35,29,Commercial
+1372,West Bengal,NADIA,2007,Whole Year ,Turmeric,698,1815,Species
+1373,West Bengal,NADIA,2007,Winter     ,Rice,90625,223469,Cereal
+1374,West Bengal,NADIA,2007,Winter     ,Sesamum,15,7,Oilseeds
+1375,West Bengal,NADIA,2008,Autumn     ,Maize,703,1741,Cereal
+1376,West Bengal,NADIA,2008,Autumn     ,Rice,56861,132676,Cereal
+1377,West Bengal,NADIA,2008,Autumn     ,Sesamum,20,10,Oilseeds
+1378,West Bengal,NADIA,2008,Kharif     ,Dry ginger,210,355,Species
+1379,West Bengal,NADIA,2008,Kharif     ,Groundnut,40,56,Nuts
+1380,West Bengal,NADIA,2008,Kharif     ,Jute,120785,1780068,fibres
+1381,West Bengal,NADIA,2008,Kharif     ,Mesta,529,3751,fibres
+1382,West Bengal,NADIA,2008,Kharif     ,Moong(Green Gram),10,6,Fruits
+1383,West Bengal,NADIA,2008,Kharif     ,Sunflower,176,268,Oilseeds
+1384,West Bengal,NADIA,2008,Kharif     ,Urad,7470,6094,Pulses
+1385,West Bengal,NADIA,2008,Rabi       ,Barley,502,596,Cereal
+1386,West Bengal,NADIA,2008,Rabi       ,Gram,4264,3144,Beans
+1387,West Bengal,NADIA,2008,Rabi       ,Groundnut,3550,5332,Nuts
+1388,West Bengal,NADIA,2008,Rabi       ,Khesari,1188,859,Vegetables
+1389,West Bengal,NADIA,2008,Rabi       ,Linseed,316,146,Oilseeds
+1390,West Bengal,NADIA,2008,Rabi       ,Maize,431,1128,Cereal
+1391,West Bengal,NADIA,2008,Rabi       ,Masoor,16903,12825,Pulses
+1392,West Bengal,NADIA,2008,Rabi       ,Moong(Green Gram),149,92,Fruits
+1393,West Bengal,NADIA,2008,Rabi       ,Peas & beans (Pulses),4495,3635,Pulses
+1394,West Bengal,NADIA,2008,Rabi       ,Rapeseed &Mustard,63379,51776,Oilseeds
+1395,West Bengal,NADIA,2008,Rabi       ,Wheat,35916,84321,Cereal
+1396,West Bengal,NADIA,2008,Summer     ,Groundnut,2455,4119,Nuts
+1397,West Bengal,NADIA,2008,Summer     ,Maize,1417,3681,Cereal
+1398,West Bengal,NADIA,2008,Summer     ,Moong(Green Gram),1393,608,Fruits
+1399,West Bengal,NADIA,2008,Summer     ,Rice,104873,365878,Cereal
+1400,West Bengal,NADIA,2008,Summer     ,Sesamum,22583,23785,Oilseeds
+1401,West Bengal,NADIA,2008,Whole Year ,Arecanut,358,982,Nuts
+1402,West Bengal,NADIA,2008,Whole Year ,Coconut ,991,12527,Fruits
+1403,West Bengal,NADIA,2008,Whole Year ,Dry chillies,6689,10964,Species
+1404,West Bengal,NADIA,2008,Whole Year ,Potato,5039,85192,Vegetables
+1405,West Bengal,NADIA,2008,Whole Year ,Sugarcane,1807,219765,Sugarcane
+1406,West Bengal,NADIA,2008,Whole Year ,Tobacco,42,34,Commercial
+1407,West Bengal,NADIA,2008,Whole Year ,Turmeric,709,1815,Species
+1408,West Bengal,NADIA,2008,Winter     ,Rice,115484,300969,Cereal
+1409,West Bengal,NADIA,2008,Winter     ,Sesamum,15,6,Oilseeds
+1410,West Bengal,NADIA,2009,Autumn     ,Groundnut,25,34,Nuts
+1411,West Bengal,NADIA,2009,Autumn     ,Maize,1604,3302,Cereal
+1412,West Bengal,NADIA,2009,Autumn     ,Rice,43801,99443,Cereal
+1413,West Bengal,NADIA,2009,Autumn     ,Sesamum,15,8,Oilseeds
+1414,West Bengal,NADIA,2009,Kharif     ,Jute,127607,2047918,fibres
+1415,West Bengal,NADIA,2009,Kharif     ,Mesta,176,1786,fibres
+1416,West Bengal,NADIA,2009,Kharif     ,Moong(Green Gram),45,31,Fruits
+1417,West Bengal,NADIA,2009,Kharif     ,Sunflower,7,7,Oilseeds
+1418,West Bengal,NADIA,2009,Kharif     ,Urad,7468,5841,Pulses
+1419,West Bengal,NADIA,2009,Rabi       ,Arhar/Tur,42,56,Pulses
+1420,West Bengal,NADIA,2009,Rabi       ,Barley,167,327,Cereal
+1421,West Bengal,NADIA,2009,Rabi       ,Gram,4146,3571,Beans
+1422,West Bengal,NADIA,2009,Rabi       ,Groundnut,107,124,Nuts
+1423,West Bengal,NADIA,2009,Rabi       ,Khesari,1443,1286,Vegetables
+1424,West Bengal,NADIA,2009,Rabi       ,Linseed,710,394,Oilseeds
+1425,West Bengal,NADIA,2009,Rabi       ,Maize,458,1203,Cereal
+1426,West Bengal,NADIA,2009,Rabi       ,Masoor,17280,16425,Pulses
+1427,West Bengal,NADIA,2009,Rabi       ,Moong(Green Gram),154,94,Fruits
+1428,West Bengal,NADIA,2009,Rabi       ,Peas & beans (Pulses),4507,4485,Pulses
+1429,West Bengal,NADIA,2009,Rabi       ,Potato,5008,153624,Vegetables
+1430,West Bengal,NADIA,2009,Rabi       ,Rapeseed &Mustard,63286,69633,Oilseeds
+1431,West Bengal,NADIA,2009,Rabi       ,Wheat,37217,94862,Cereal
+1432,West Bengal,NADIA,2009,Summer     ,Groundnut,2805,4754,Nuts
+1433,West Bengal,NADIA,2009,Summer     ,Maize,1527,3972,Cereal
+1434,West Bengal,NADIA,2009,Summer     ,Moong(Green Gram),1305,591,Fruits
+1435,West Bengal,NADIA,2009,Summer     ,Rice,96531,322925,Cereal
+1436,West Bengal,NADIA,2009,Summer     ,Sesamum,20565,21750,Oilseeds
+1437,West Bengal,NADIA,2009,Whole Year ,Sugarcane,1851,87159,Sugarcane
+1438,West Bengal,NADIA,2009,Whole Year ,Tobacco,20,17,Commercial
+1439,West Bengal,NADIA,2009,Winter     ,Rice,98490,242497,Cereal
+1440,West Bengal,NADIA,2009,Winter     ,Sesamum,15,6,Oilseeds
+1441,West Bengal,NADIA,2010,Autumn     ,Groundnut,60,84,Nuts
+1442,West Bengal,NADIA,2010,Autumn     ,Maize,348,879,Cereal
+1443,West Bengal,NADIA,2010,Autumn     ,Rice,48392,100640,Cereal
+1444,West Bengal,NADIA,2010,Autumn     ,Sesamum,20,11,Oilseeds
+1445,West Bengal,NADIA,2010,Kharif     ,Jute,114596,1565941,fibres
+1446,West Bengal,NADIA,2010,Kharif     ,Mesta,25,243,fibres
+1447,West Bengal,NADIA,2010,Kharif     ,Moong(Green Gram),30,21,Fruits
+1448,West Bengal,NADIA,2010,Kharif     ,Sunflower,17,26,Oilseeds
+1449,West Bengal,NADIA,2010,Kharif     ,Urad,9153,6701,Pulses
+1450,West Bengal,NADIA,2010,Rabi       ,Arhar/Tur,559,909,Pulses
+1451,West Bengal,NADIA,2010,Rabi       ,Barley,167,231,Cereal
+1452,West Bengal,NADIA,2010,Rabi       ,Gram,6147,5241,Beans
+1453,West Bengal,NADIA,2010,Rabi       ,Groundnut,3960,7183,Nuts
+1454,West Bengal,NADIA,2010,Rabi       ,Khesari,1634,1754,Vegetables
+1455,West Bengal,NADIA,2010,Rabi       ,Linseed,536,322,Oilseeds
+1456,West Bengal,NADIA,2010,Rabi       ,Maize,460,1205,Cereal
+1457,West Bengal,NADIA,2010,Rabi       ,Masoor,20700,22493,Pulses
+1458,West Bengal,NADIA,2010,Rabi       ,Moong(Green Gram),83,69,Fruits
+1459,West Bengal,NADIA,2010,Rabi       ,Other  Rabi pulses,85,54,Pulses
+1460,West Bengal,NADIA,2010,Rabi       ,Peas & beans (Pulses),6172,6554,Pulses
+1461,West Bengal,NADIA,2010,Rabi       ,Potato,7073,193100,Vegetables
+1462,West Bengal,NADIA,2010,Rabi       ,Rapeseed &Mustard,72847,74915,Oilseeds
+1463,West Bengal,NADIA,2010,Rabi       ,Urad,25,21,Pulses
+1464,West Bengal,NADIA,2010,Rabi       ,Wheat,38740,98264,Cereal
+1465,West Bengal,NADIA,2010,Summer     ,Groundnut,2296,3926,Nuts
+1466,West Bengal,NADIA,2010,Summer     ,Maize,1780,4701,Cereal
+1467,West Bengal,NADIA,2010,Summer     ,Moong(Green Gram),1196,763,Fruits
+1468,West Bengal,NADIA,2010,Summer     ,Rice,98567,348095,Cereal
+1469,West Bengal,NADIA,2010,Summer     ,Sesamum,20499,21814,Oilseeds
+1470,West Bengal,NADIA,2010,Whole Year ,Sugarcane,710,57645,Sugarcane
+1471,West Bengal,NADIA,2010,Whole Year ,Tobacco,15,13,Commercial
+1472,West Bengal,NADIA,2010,Winter     ,Rice,88778,201733,Cereal
+1473,West Bengal,NADIA,2010,Winter     ,Sesamum,10,4,Oilseeds
+1474,West Bengal,NADIA,2011,Autumn     ,Groundnut,25,31,Nuts
+1475,West Bengal,NADIA,2011,Autumn     ,Maize,266,568,Cereal
+1476,West Bengal,NADIA,2011,Autumn     ,Rice,47487,104923,Cereal
+1477,West Bengal,NADIA,2011,Kharif     ,Jute,126755,1762095,fibres
+1478,West Bengal,NADIA,2011,Kharif     ,Mesta,109,1861,fibres
+1479,West Bengal,NADIA,2011,Kharif     ,Moong(Green Gram),55,38,Fruits
+1480,West Bengal,NADIA,2011,Kharif     ,Sunflower,30,45,Oilseeds
+1481,West Bengal,NADIA,2011,Kharif     ,Urad,11407,6699,Pulses
+1482,West Bengal,NADIA,2011,Rabi       ,Arhar/Tur,447,200,Pulses
+1483,West Bengal,NADIA,2011,Rabi       ,Barley,5,8,Cereal
+1484,West Bengal,NADIA,2011,Rabi       ,Gram,6349,6952,Beans
+1485,West Bengal,NADIA,2011,Rabi       ,Groundnut,3140,5683,Nuts
+1486,West Bengal,NADIA,2011,Rabi       ,Khesari,1351,1122,Vegetables
+1487,West Bengal,NADIA,2011,Rabi       ,Linseed,538,242,Oilseeds
+1488,West Bengal,NADIA,2011,Rabi       ,Maize,510,1275,Cereal
+1489,West Bengal,NADIA,2011,Rabi       ,Masoor,23566,13761,Pulses
+1490,West Bengal,NADIA,2011,Rabi       ,Moong(Green Gram),74,62,Fruits
+1491,West Bengal,NADIA,2011,Rabi       ,Other  Rabi pulses,70,41,Pulses
+1492,West Bengal,NADIA,2011,Rabi       ,Peas & beans (Pulses),7100,6130,Pulses
+1493,West Bengal,NADIA,2011,Rabi       ,Potato,5241,162258,Vegetables
+1494,West Bengal,NADIA,2011,Rabi       ,Rapeseed &Mustard,72224,68514,Oilseeds
+1495,West Bengal,NADIA,2011,Rabi       ,Urad,1190,982,Pulses
+1496,West Bengal,NADIA,2011,Rabi       ,Wheat,40267,123952,Cereal
+1497,West Bengal,NADIA,2011,Summer     ,Groundnut,2505,5526,Nuts
+1498,West Bengal,NADIA,2011,Summer     ,Maize,1800,4887,Cereal
+1499,West Bengal,NADIA,2011,Summer     ,Moong(Green Gram),1133,709,Fruits
+1500,West Bengal,NADIA,2011,Summer     ,Rice,97703,350155,Cereal
+1501,West Bengal,NADIA,2011,Summer     ,Sesamum,23900,24889,Oilseeds
+1502,West Bengal,NADIA,2011,Whole Year ,Sugarcane,1780,244107,Sugarcane
+1503,West Bengal,NADIA,2011,Whole Year ,Tobacco,10,9,Commercial
+1504,West Bengal,NADIA,2011,Winter     ,Rice,106951,289408,Cereal
+1505,West Bengal,NADIA,2011,Winter     ,Sesamum,6,3,Oilseeds
+1506,West Bengal,NADIA,2012,Autumn     ,Groundnut,25,32,Nuts
+1507,West Bengal,NADIA,2012,Autumn     ,Maize,680,1588,Cereal
+1508,West Bengal,NADIA,2012,Autumn     ,Rice,47478,105131,Cereal
+1509,West Bengal,NADIA,2012,Kharif     ,Jute,125099,1775309,fibres
+1510,West Bengal,NADIA,2012,Kharif     ,Mesta,47,560,fibres
+1511,West Bengal,NADIA,2012,Kharif     ,Moong(Green Gram),70,53,Fruits
+1512,West Bengal,NADIA,2012,Kharif     ,Sunflower,12,19,Oilseeds
+1513,West Bengal,NADIA,2012,Kharif     ,Urad,13362,10317,Pulses
+1514,West Bengal,NADIA,2012,Rabi       ,Arhar/Tur,461,647,Pulses
+1515,West Bengal,NADIA,2012,Rabi       ,Barley,113,189,Cereal
+1516,West Bengal,NADIA,2012,Rabi       ,Gram,7127,6505,Beans
+1517,West Bengal,NADIA,2012,Rabi       ,Groundnut,3910,7104,Nuts
+1518,West Bengal,NADIA,2012,Rabi       ,Khesari,1145,1151,Vegetables
+1519,West Bengal,NADIA,2012,Rabi       ,Linseed,564,280,Oilseeds
+1520,West Bengal,NADIA,2012,Rabi       ,Maize,445,1099,Cereal
+1521,West Bengal,NADIA,2012,Rabi       ,Masoor,25392,26460,Pulses
+1522,West Bengal,NADIA,2012,Rabi       ,Moong(Green Gram),119,82,Fruits
+1523,West Bengal,NADIA,2012,Rabi       ,Other  Rabi pulses,78,48,Pulses
+1524,West Bengal,NADIA,2012,Rabi       ,Peas & beans (Pulses),6811,7057,Pulses
+1525,West Bengal,NADIA,2012,Rabi       ,Potato,5566,177584,Vegetables
+1526,West Bengal,NADIA,2012,Rabi       ,Rapeseed &Mustard,86465,103175,Oilseeds
+1527,West Bengal,NADIA,2012,Rabi       ,Urad,405,334,Pulses
+1528,West Bengal,NADIA,2012,Rabi       ,Wheat,41720,138497,Cereal
+1529,West Bengal,NADIA,2012,Summer     ,Groundnut,3502,9856,Nuts
+1530,West Bengal,NADIA,2012,Summer     ,Maize,1780,4694,Cereal
+1531,West Bengal,NADIA,2012,Summer     ,Moong(Green Gram),1287,789,Fruits
+1532,West Bengal,NADIA,2012,Summer     ,Rice,95233,357653,Cereal
+1533,West Bengal,NADIA,2012,Summer     ,Sesamum,29057,31876,Oilseeds
+1534,West Bengal,NADIA,2012,Whole Year ,Sugarcane,1803,182686,Sugarcane
+1535,West Bengal,NADIA,2012,Whole Year ,Tobacco,8,7,Commercial
+1536,West Bengal,NADIA,2012,Winter     ,Rice,90144,205511,Cereal
+1537,West Bengal,NADIA,2013,Autumn     ,Maize,759,1961,Cereal
+1538,West Bengal,NADIA,2013,Autumn     ,Rice,47696,114531,Cereal
+1539,West Bengal,NADIA,2013,Kharif     ,Jute,120155,2087718,fibres
+1540,West Bengal,NADIA,2013,Kharif     ,Mesta,240,3163,fibres
+1541,West Bengal,NADIA,2013,Kharif     ,Moong(Green Gram),75,57,Fruits
+1542,West Bengal,NADIA,2013,Kharif     ,Urad,12384,9591,Pulses
+1543,West Bengal,NADIA,2013,Rabi       ,Arhar/Tur,256,398,Pulses
+1544,West Bengal,NADIA,2013,Rabi       ,Barley,95,143,Cereal
+1545,West Bengal,NADIA,2013,Rabi       ,Gram,6788,7291,Beans
+1546,West Bengal,NADIA,2013,Rabi       ,Groundnut,3800,7030,Nuts
+1547,West Bengal,NADIA,2013,Rabi       ,Khesari,1053,845,Vegetables
+1548,West Bengal,NADIA,2013,Rabi       ,Linseed,430,208,Oilseeds
+1549,West Bengal,NADIA,2013,Rabi       ,Maize,605,1513,Cereal
+1550,West Bengal,NADIA,2013,Rabi       ,Masoor,25602,24634,Pulses
+1551,West Bengal,NADIA,2013,Rabi       ,Moong(Green Gram),105,88,Fruits
+1552,West Bengal,NADIA,2013,Rabi       ,Other  Rabi pulses,80,53,Pulses
+1553,West Bengal,NADIA,2013,Rabi       ,Peas & beans (Pulses),6902,7093,Pulses
+1554,West Bengal,NADIA,2013,Rabi       ,Potato,5034,153990,Vegetables
+1555,West Bengal,NADIA,2013,Rabi       ,Rapeseed &Mustard,77153,90771,Oilseeds
+1556,West Bengal,NADIA,2013,Rabi       ,Urad,330,271,Pulses
+1557,West Bengal,NADIA,2013,Rabi       ,Wheat,44269,149020,Cereal
+1558,West Bengal,NADIA,2013,Summer     ,Groundnut,3699,8872,Nuts
+1559,West Bengal,NADIA,2013,Summer     ,Maize,1786,4760,Cereal
+1560,West Bengal,NADIA,2013,Summer     ,Moong(Green Gram),1474,895,Fruits
+1561,West Bengal,NADIA,2013,Summer     ,Rice,94331,351024,Cereal
+1562,West Bengal,NADIA,2013,Summer     ,Sesamum,29184,34637,Oilseeds
+1563,West Bengal,NADIA,2013,Whole Year ,Sugarcane,1923,192746,Sugarcane
+1564,West Bengal,NADIA,2013,Whole Year ,Tobacco,5,4,Commercial
+1565,West Bengal,NADIA,2013,Winter     ,Rice,97006,268862,Cereal
+1566,West Bengal,NADIA,2014,Autumn     ,Maize,596,3776,Cereal
+1567,West Bengal,NADIA,2014,Autumn     ,Rice,49599,132900,Cereal
+1568,West Bengal,NADIA,2014,Kharif     ,Jute,116914,1817411,fibres
+1569,West Bengal,NADIA,2014,Kharif     ,Mesta,499,5439,fibres
+1570,West Bengal,NADIA,2014,Kharif     ,Moong(Green Gram),80,61,Fruits
+1571,West Bengal,NADIA,2014,Kharif     ,Urad,13856,10759,Pulses
+1572,West Bengal,NADIA,2014,Rabi       ,Arhar/Tur,307,528,Pulses
+1573,West Bengal,NADIA,2014,Rabi       ,Barley,140,210,Cereal
+1574,West Bengal,NADIA,2014,Rabi       ,Gram,9906,10567,Beans
+1575,West Bengal,NADIA,2014,Rabi       ,Groundnut,3802,7034,Nuts
+1576,West Bengal,NADIA,2014,Rabi       ,Khesari,1394,1385,Vegetables
+1577,West Bengal,NADIA,2014,Rabi       ,Linseed,698,335,Oilseeds
+1578,West Bengal,NADIA,2014,Rabi       ,Maize,2750,6919,Cereal
+1579,West Bengal,NADIA,2014,Rabi       ,Masoor,24135,22485,Pulses
+1580,West Bengal,NADIA,2014,Rabi       ,Moong(Green Gram),99,77,Fruits
+1581,West Bengal,NADIA,2014,Rabi       ,Other  Rabi pulses,78,48,Pulses
+1582,West Bengal,NADIA,2014,Rabi       ,Peas & beans (Pulses),7489,7575,Pulses
+1583,West Bengal,NADIA,2014,Rabi       ,Potato,5357,218442,Vegetables
+1584,West Bengal,NADIA,2014,Rabi       ,Rapeseed &Mustard,78893,96032,Oilseeds
+1585,West Bengal,NADIA,2014,Rabi       ,Urad,642,529,Pulses
+1586,West Bengal,NADIA,2014,Rabi       ,Wheat,43551,148327,Cereal
+1587,West Bengal,NADIA,2014,Summer     ,Groundnut,3281,6032,Nuts
+1588,West Bengal,NADIA,2014,Summer     ,Maize,1750,4531,Cereal
+1589,West Bengal,NADIA,2014,Summer     ,Moong(Green Gram),2129,1288,Fruits
+1590,West Bengal,NADIA,2014,Summer     ,Rice,98286,374824,Cereal
+1591,West Bengal,NADIA,2014,Summer     ,Sesamum,24546,29591,Oilseeds
+1592,West Bengal,NADIA,2014,Whole Year ,Sugarcane,1754,248215,Sugarcane
+1593,West Bengal,NADIA,2014,Whole Year ,Tobacco,12,10,Commercial
+1594,West Bengal,NADIA,2014,Winter     ,Rice,94963,273137,Cereal
+1595,West Bengal,PURULIA,1997,Autumn     ,Ragi,197,67,Cereal
+1596,West Bengal,PURULIA,1997,Autumn     ,Rice,4327,6350,Cereal
+1597,West Bengal,PURULIA,1997,Kharif     ,Horse-gram,1626,756,Beans
+1598,West Bengal,PURULIA,1997,Kharif     ,Mesta,387,3440,fibres
+1599,West Bengal,PURULIA,1997,Kharif     ,Moong(Green Gram),258,106,Fruits
+1600,West Bengal,PURULIA,1997,Kharif     ,Other Kharif pulses,150,55,Pulses
+1601,West Bengal,PURULIA,1997,Kharif     ,Soyabean,270,92,Beans
+1602,West Bengal,PURULIA,1997,Kharif     ,Urad,13448,8030,Pulses
+1603,West Bengal,PURULIA,1997,Rabi       ,Gram,267,160,Beans
+1604,West Bengal,PURULIA,1997,Rabi       ,Khesari,586,800,Vegetables
+1605,West Bengal,PURULIA,1997,Rabi       ,Masoor,150,140,Pulses
+1606,West Bengal,PURULIA,1997,Rabi       ,Moong(Green Gram),50,30,Fruits
+1607,West Bengal,PURULIA,1997,Rabi       ,Oilseeds total,823800,287500,Oilseeds total
+1608,West Bengal,PURULIA,1997,Rabi       ,Urad,460,300,Pulses
+1609,West Bengal,PURULIA,1997,Rabi       ,Wheat,1895,2760,Cereal
+1610,West Bengal,PURULIA,1997,Summer     ,Moong(Green Gram),35,1,Fruits
+1611,West Bengal,PURULIA,1997,Summer     ,Rice,2995,7130,Cereal
+1612,West Bengal,PURULIA,1997,Whole Year ,Arhar/Tur,1510,790,Pulses
+1613,West Bengal,PURULIA,1997,Whole Year ,Coconut ,17,340,Fruits
+1614,West Bengal,PURULIA,1997,Whole Year ,Dry chillies,1006,279,Species
+1615,West Bengal,PURULIA,1997,Whole Year ,Groundnut,1188,738,Nuts
+1616,West Bengal,PURULIA,1997,Whole Year ,Jowar,81,32,Cereal
+1617,West Bengal,PURULIA,1997,Whole Year ,Linseed,4522,750,Oilseeds
+1618,West Bengal,PURULIA,1997,Whole Year ,Maize,869,6790,Cereal
+1619,West Bengal,PURULIA,1997,Whole Year ,Niger seed,743,334,Oilseeds
+1620,West Bengal,PURULIA,1997,Whole Year ,Potato,1416,19896,Vegetables
+1621,West Bengal,PURULIA,1997,Whole Year ,Pulses total,18888,11279,Pulses total
+1622,West Bengal,PURULIA,1997,Whole Year ,Rapeseed &Mustard,803,580,Oilseeds
+1623,West Bengal,PURULIA,1997,Whole Year ,Sannhamp,108,314,Fertile Plant
+1624,West Bengal,PURULIA,1997,Whole Year ,Sesamum,1037,473,Oilseeds
+1625,West Bengal,PURULIA,1997,Whole Year ,Small millets,488,144,Cereal
+1626,West Bengal,PURULIA,1997,Whole Year ,Sugarcane,500,42230,Sugarcane
+1627,West Bengal,PURULIA,1997,Whole Year ,Turmeric,216,93,Species
+1628,West Bengal,PURULIA,1997,Winter     ,Rice,315095,595830,Cereal
+1629,West Bengal,PURULIA,1998,Autumn     ,Rice,1561,1250,Cereal
+1630,West Bengal,PURULIA,1998,Kharif     ,Arhar/Tur,756,300,Pulses
+1631,West Bengal,PURULIA,1998,Kharif     ,Dry ginger,90,132,Species
+1632,West Bengal,PURULIA,1998,Kharif     ,Jowar,70,18,Cereal
+1633,West Bengal,PURULIA,1998,Kharif     ,Maize,6034,6950,Cereal
+1634,West Bengal,PURULIA,1998,Kharif     ,Moong(Green Gram),257,93,Fruits
+1635,West Bengal,PURULIA,1998,Kharif     ,Niger seed,1531,689,Oilseeds
+1636,West Bengal,PURULIA,1998,Kharif     ,Other Kharif pulses,417,136,Pulses
+1637,West Bengal,PURULIA,1998,Kharif     ,Ragi,130,23,Cereal
+1638,West Bengal,PURULIA,1998,Kharif     ,Small millets,800,154,Cereal
+1639,West Bengal,PURULIA,1998,Kharif     ,Soyabean,78,24,Beans
+1640,West Bengal,PURULIA,1998,Kharif     ,Urad,14010,2830,Pulses
+1641,West Bengal,PURULIA,1998,Rabi       ,Gram,92,100,Beans
+1642,West Bengal,PURULIA,1998,Rabi       ,Horse-gram,1650,351,Beans
+1643,West Bengal,PURULIA,1998,Rabi       ,Khesari,42,40,Vegetables
+1644,West Bengal,PURULIA,1998,Rabi       ,Linseed,874,120,Oilseeds
+1645,West Bengal,PURULIA,1998,Rabi       ,Masoor,27,20,Pulses
+1646,West Bengal,PURULIA,1998,Rabi       ,Moong(Green Gram),71,21,Fruits
+1647,West Bengal,PURULIA,1998,Rabi       ,Peas & beans (Pulses),2,1,Pulses
+1648,West Bengal,PURULIA,1998,Rabi       ,Rapeseed &Mustard,580,300,Oilseeds
+1649,West Bengal,PURULIA,1998,Rabi       ,Urad,424,135,Pulses
+1650,West Bengal,PURULIA,1998,Rabi       ,Wheat,3736,5530,Cereal
+1651,West Bengal,PURULIA,1998,Summer     ,Rice,3060,4048,Cereal
+1652,West Bengal,PURULIA,1998,Whole Year ,Coconut ,20,310,Fruits
+1653,West Bengal,PURULIA,1998,Whole Year ,Dry chillies,995,177,Species
+1654,West Bengal,PURULIA,1998,Whole Year ,Groundnut,1247,686,Nuts
+1655,West Bengal,PURULIA,1998,Whole Year ,Potato,1533,22829,Vegetables
+1656,West Bengal,PURULIA,1998,Whole Year ,Sannhamp,398,2917,Fertile Plant
+1657,West Bengal,PURULIA,1998,Whole Year ,Sesamum,958,370,Oilseeds
+1658,West Bengal,PURULIA,1998,Whole Year ,Sugarcane,923,82690,Sugarcane
+1659,West Bengal,PURULIA,1998,Whole Year ,Turmeric,240,84,Species
+1660,West Bengal,PURULIA,1998,Winter     ,Rice,227172,336300,Cereal
+1661,West Bengal,PURULIA,1999,Autumn     ,Dry chillies,553,149,Species
+1662,West Bengal,PURULIA,1999,Autumn     ,Rice,2306,3400,Cereal
+1663,West Bengal,PURULIA,1999,Autumn     ,Sesamum,121,38,Oilseeds
+1664,West Bengal,PURULIA,1999,Kharif     ,Arhar/Tur,1317,648,Pulses
+1665,West Bengal,PURULIA,1999,Kharif     ,Dry ginger,93,139,Species
+1666,West Bengal,PURULIA,1999,Kharif     ,Groundnut,1160,754,Nuts
+1667,West Bengal,PURULIA,1999,Kharif     ,Jowar,278,88,Cereal
+1668,West Bengal,PURULIA,1999,Kharif     ,Maize,8893,13970,Cereal
+1669,West Bengal,PURULIA,1999,Kharif     ,Mesta,120,1160,fibres
+1670,West Bengal,PURULIA,1999,Kharif     ,Moong(Green Gram),217,87,Fruits
+1671,West Bengal,PURULIA,1999,Kharif     ,Niger seed,965,310,Oilseeds
+1672,West Bengal,PURULIA,1999,Kharif     ,Other Kharif pulses,72,35,Pulses
+1673,West Bengal,PURULIA,1999,Kharif     ,Ragi,94,21,Cereal
+1674,West Bengal,PURULIA,1999,Kharif     ,Small millets,936,229,Cereal
+1675,West Bengal,PURULIA,1999,Kharif     ,Soyabean,28,7,Beans
+1676,West Bengal,PURULIA,1999,Kharif     ,Urad,10980,5755,Pulses
+1677,West Bengal,PURULIA,1999,Rabi       ,Dry chillies,483,174,Species
+1678,West Bengal,PURULIA,1999,Rabi       ,Gram,484,480,Beans
+1679,West Bengal,PURULIA,1999,Rabi       ,Horse-gram,1767,765,Beans
+1680,West Bengal,PURULIA,1999,Rabi       ,Khesari,68,79,Vegetables
+1681,West Bengal,PURULIA,1999,Rabi       ,Linseed,956,354,Oilseeds
+1682,West Bengal,PURULIA,1999,Rabi       ,Masoor,26,23,Pulses
+1683,West Bengal,PURULIA,1999,Rabi       ,Moong(Green Gram),50,18,Fruits
+1684,West Bengal,PURULIA,1999,Rabi       ,Peas & beans (Pulses),2,2,Pulses
+1685,West Bengal,PURULIA,1999,Rabi       ,Rapeseed &Mustard,683,535,Oilseeds
+1686,West Bengal,PURULIA,1999,Rabi       ,Sannhamp,97,252,Fertile Plant
+1687,West Bengal,PURULIA,1999,Rabi       ,Urad,384,155,Pulses
+1688,West Bengal,PURULIA,1999,Rabi       ,Wheat,2752,6928,Cereal
+1689,West Bengal,PURULIA,1999,Summer     ,Rice,3576,8650,Cereal
+1690,West Bengal,PURULIA,1999,Summer     ,Sesamum,78,50,Oilseeds
+1691,West Bengal,PURULIA,1999,Whole Year ,Coconut ,20,290,Fruits
+1692,West Bengal,PURULIA,1999,Whole Year ,Sugarcane,406,39422,Sugarcane
+1693,West Bengal,PURULIA,1999,Whole Year ,Turmeric,210,70,Species
+1694,West Bengal,PURULIA,1999,Winter     ,Potato,1379,18265,Vegetables
+1695,West Bengal,PURULIA,1999,Winter     ,Rice,294107,535580,Cereal
+1696,West Bengal,PURULIA,1999,Winter     ,Sesamum,500,170,Oilseeds
+1697,West Bengal,PURULIA,2000,Autumn     ,Rice,2632,2620,Cereal
+1698,West Bengal,PURULIA,2000,Kharif     ,Arhar/Tur,2071,640,Pulses
+1699,West Bengal,PURULIA,2000,Kharif     ,Bajra,23,7,Cereal
+1700,West Bengal,PURULIA,2000,Kharif     ,Dry ginger,126,56,Species
+1701,West Bengal,PURULIA,2000,Kharif     ,Groundnut,679,543,Nuts
+1702,West Bengal,PURULIA,2000,Kharif     ,Jowar,67,21,Cereal
+1703,West Bengal,PURULIA,2000,Kharif     ,Maize,14048,26320,Cereal
+1704,West Bengal,PURULIA,2000,Kharif     ,Mesta,86,230,fibres
+1705,West Bengal,PURULIA,2000,Kharif     ,Moong(Green Gram),246,91,Fruits
+1706,West Bengal,PURULIA,2000,Kharif     ,Niger seed,700,234,Oilseeds
+1707,West Bengal,PURULIA,2000,Kharif     ,Other Kharif pulses,275,89,Pulses
+1708,West Bengal,PURULIA,2000,Kharif     ,Ragi,193,51,Cereal
+1709,West Bengal,PURULIA,2000,Kharif     ,Small millets,589,136,Cereal
+1710,West Bengal,PURULIA,2000,Kharif     ,Urad,14315,5430,Pulses
+1711,West Bengal,PURULIA,2000,Rabi       ,Gram,78,70,Beans
+1712,West Bengal,PURULIA,2000,Rabi       ,Horse-gram,1108,490,Beans
+1713,West Bengal,PURULIA,2000,Rabi       ,Khesari,396,360,Vegetables
+1714,West Bengal,PURULIA,2000,Rabi       ,Linseed,455,110,Oilseeds
+1715,West Bengal,PURULIA,2000,Rabi       ,Moong(Green Gram),55,19,Fruits
+1716,West Bengal,PURULIA,2000,Rabi       ,Rapeseed &Mustard,456,440,Oilseeds
+1717,West Bengal,PURULIA,2000,Rabi       ,Urad,114,49,Pulses
+1718,West Bengal,PURULIA,2000,Rabi       ,Wheat,2979,7430,Cereal
+1719,West Bengal,PURULIA,2000,Summer     ,Rice,1023,2454,Cereal
+1720,West Bengal,PURULIA,2000,Whole Year ,Coconut ,27,364.5,Fruits
+1721,West Bengal,PURULIA,2000,Whole Year ,Dry chillies,1067,287,Species
+1722,West Bengal,PURULIA,2000,Whole Year ,Potato,866,12758,Vegetables
+1723,West Bengal,PURULIA,2000,Whole Year ,Sannhamp,105,252,Fertile Plant
+1724,West Bengal,PURULIA,2000,Whole Year ,Sesamum,498,193,Oilseeds
+1725,West Bengal,PURULIA,2000,Whole Year ,Sugarcane,588,42310,Sugarcane
+1726,West Bengal,PURULIA,2000,Whole Year ,Turmeric,171,64,Species
+1727,West Bengal,PURULIA,2000,Winter     ,Rice,258531,469910,Cereal
+1728,West Bengal,PURULIA,2001,Autumn     ,Rice,3132,7255,Cereal
+1729,West Bengal,PURULIA,2001,Kharif     ,Arhar/Tur,867,507,Pulses
+1730,West Bengal,PURULIA,2001,Kharif     ,Bajra,105,46,Cereal
+1731,West Bengal,PURULIA,2001,Kharif     ,Dry ginger,129,50,Species
+1732,West Bengal,PURULIA,2001,Kharif     ,Groundnut,241,213,Nuts
+1733,West Bengal,PURULIA,2001,Kharif     ,Jowar,54,20,Cereal
+1734,West Bengal,PURULIA,2001,Kharif     ,Maize,12141,21274,Cereal
+1735,West Bengal,PURULIA,2001,Kharif     ,Mesta,49,139,fibres
+1736,West Bengal,PURULIA,2001,Kharif     ,Moong(Green Gram),304,157,Fruits
+1737,West Bengal,PURULIA,2001,Kharif     ,Niger seed,642,209,Oilseeds
+1738,West Bengal,PURULIA,2001,Kharif     ,Other Kharif pulses,90,38,Pulses
+1739,West Bengal,PURULIA,2001,Kharif     ,Ragi,166,58,Cereal
+1740,West Bengal,PURULIA,2001,Kharif     ,Small millets,757,189,Cereal
+1741,West Bengal,PURULIA,2001,Kharif     ,Urad,10367,4623,Pulses
+1742,West Bengal,PURULIA,2001,Rabi       ,Gram,137,141,Beans
+1743,West Bengal,PURULIA,2001,Rabi       ,Groundnut,20,29,Nuts
+1744,West Bengal,PURULIA,2001,Rabi       ,Horse-gram,1044,449,Beans
+1745,West Bengal,PURULIA,2001,Rabi       ,Khesari,131,97,Vegetables
+1746,West Bengal,PURULIA,2001,Rabi       ,Linseed,310,130,Oilseeds
+1747,West Bengal,PURULIA,2001,Rabi       ,Masoor,71,48,Pulses
+1748,West Bengal,PURULIA,2001,Rabi       ,Moong(Green Gram),43,18,Fruits
+1749,West Bengal,PURULIA,2001,Rabi       ,Peas & beans (Pulses),2,1,Pulses
+1750,West Bengal,PURULIA,2001,Rabi       ,Urad,304,129,Pulses
+1751,West Bengal,PURULIA,2001,Rabi       ,Wheat,4599,9944,Cereal
+1752,West Bengal,PURULIA,2001,Summer     ,Groundnut,218,244,Nuts
+1753,West Bengal,PURULIA,2001,Summer     ,Moong(Green Gram),30,25,Fruits
+1754,West Bengal,PURULIA,2001,Summer     ,Rice,1213,2184,Cereal
+1755,West Bengal,PURULIA,2001,Whole Year ,Coconut ,25,300,Fruits
+1756,West Bengal,PURULIA,2001,Whole Year ,Dry chillies,1172,357,Species
+1757,West Bengal,PURULIA,2001,Whole Year ,Potato,937,12658,Vegetables
+1758,West Bengal,PURULIA,2001,Whole Year ,Sannhamp,44,130,Fertile Plant
+1759,West Bengal,PURULIA,2001,Whole Year ,Sesamum,930,498,Oilseeds
+1760,West Bengal,PURULIA,2001,Whole Year ,Sugarcane,1180,116420,Sugarcane
+1761,West Bengal,PURULIA,2001,Whole Year ,Turmeric,214,102,Species
+1762,West Bengal,PURULIA,2001,Winter     ,Rice,290378,735730,Cereal
+1763,West Bengal,PURULIA,2002,Autumn     ,Dry chillies,535,160,Species
+1764,West Bengal,PURULIA,2002,Autumn     ,Rice,1290,2691,Cereal
+1765,West Bengal,PURULIA,2002,Autumn     ,Sesamum,252,98,Oilseeds
+1766,West Bengal,PURULIA,2002,Kharif     ,Arhar/Tur,598,374,Pulses
+1767,West Bengal,PURULIA,2002,Kharif     ,Bajra,85,32,Cereal
+1768,West Bengal,PURULIA,2002,Kharif     ,Dry ginger,131,70,Species
+1769,West Bengal,PURULIA,2002,Kharif     ,Groundnut,561,422,Nuts
+1770,West Bengal,PURULIA,2002,Kharif     ,Jowar,54,160,Cereal
+1771,West Bengal,PURULIA,2002,Kharif     ,Maize,8043,12300,Cereal
+1772,West Bengal,PURULIA,2002,Kharif     ,Mesta,59,735,fibres
+1773,West Bengal,PURULIA,2002,Kharif     ,Moong(Green Gram),256,106,Fruits
+1774,West Bengal,PURULIA,2002,Kharif     ,Niger seed,808,279,Oilseeds
+1775,West Bengal,PURULIA,2002,Kharif     ,Other Kharif pulses,187,61,Pulses
+1776,West Bengal,PURULIA,2002,Kharif     ,Ragi,110,32,Cereal
+1777,West Bengal,PURULIA,2002,Kharif     ,Small millets,661,171,Cereal
+1778,West Bengal,PURULIA,2002,Kharif     ,Urad,8840,2491,Pulses
+1779,West Bengal,PURULIA,2002,Rabi       ,Dry chillies,449,172,Species
+1780,West Bengal,PURULIA,2002,Rabi       ,Gram,207,127,Beans
+1781,West Bengal,PURULIA,2002,Rabi       ,Horse-gram,2140,847,Beans
+1782,West Bengal,PURULIA,2002,Rabi       ,Khesari,68,30,Vegetables
+1783,West Bengal,PURULIA,2002,Rabi       ,Linseed,288,62,Oilseeds
+1784,West Bengal,PURULIA,2002,Rabi       ,Masoor,96,40,Pulses
+1785,West Bengal,PURULIA,2002,Rabi       ,Moong(Green Gram),46,15,Fruits
+1786,West Bengal,PURULIA,2002,Rabi       ,Peas & beans (Pulses),4,3,Pulses
+1787,West Bengal,PURULIA,2002,Rabi       ,Urad,296,88,Pulses
+1788,West Bengal,PURULIA,2002,Rabi       ,Wheat,3293,5877,Cereal
+1789,West Bengal,PURULIA,2002,Summer     ,Groundnut,90,144,Nuts
+1790,West Bengal,PURULIA,2002,Summer     ,Moong(Green Gram),4,3,Fruits
+1791,West Bengal,PURULIA,2002,Summer     ,Rice,757,1583,Cereal
+1792,West Bengal,PURULIA,2002,Summer     ,Sesamum,108,84,Oilseeds
+1793,West Bengal,PURULIA,2002,Whole Year ,Coconut ,18,123.3,Fruits
+1794,West Bengal,PURULIA,2002,Whole Year ,Sannhamp,74,385,Fertile Plant
+1795,West Bengal,PURULIA,2002,Whole Year ,Sugarcane,896,52542,Sugarcane
+1796,West Bengal,PURULIA,2002,Whole Year ,Turmeric,245,100,Species
+1797,West Bengal,PURULIA,2002,Winter     ,Potato,1485,25782,Vegetables
+1798,West Bengal,PURULIA,2002,Winter     ,Rice,228204,482579,Cereal
+1799,West Bengal,PURULIA,2002,Winter     ,Sesamum,1155,758,Oilseeds
+1800,West Bengal,PURULIA,2003,Autumn     ,Rice,1981,2707,Cereal
+1801,West Bengal,PURULIA,2003,Kharif     ,Arhar/Tur,6,6,Pulses
+1802,West Bengal,PURULIA,2003,Kharif     ,Bajra,83,27,Cereal
+1803,West Bengal,PURULIA,2003,Kharif     ,Dry ginger,147,103,Species
+1804,West Bengal,PURULIA,2003,Kharif     ,Groundnut,370,382,Nuts
+1805,West Bengal,PURULIA,2003,Kharif     ,Jowar,91,31,Cereal
+1806,West Bengal,PURULIA,2003,Kharif     ,Maize,11550,20686,Cereal
+1807,West Bengal,PURULIA,2003,Kharif     ,Mesta,142,2080,fibres
+1808,West Bengal,PURULIA,2003,Kharif     ,Moong(Green Gram),436,195,Fruits
+1809,West Bengal,PURULIA,2003,Kharif     ,Niger seed,508,167,Oilseeds
+1810,West Bengal,PURULIA,2003,Kharif     ,Other Kharif pulses,135,52,Pulses
+1811,West Bengal,PURULIA,2003,Kharif     ,Ragi,121,35,Cereal
+1812,West Bengal,PURULIA,2003,Kharif     ,Small millets,324,75,Cereal
+1813,West Bengal,PURULIA,2003,Kharif     ,Sunflower,29,14,Oilseeds
+1814,West Bengal,PURULIA,2003,Kharif     ,Urad,11488,3947,Pulses
+1815,West Bengal,PURULIA,2003,Rabi       ,Gram,239,273,Beans
+1816,West Bengal,PURULIA,2003,Rabi       ,Groundnut,25,43,Nuts
+1817,West Bengal,PURULIA,2003,Rabi       ,Horse-gram,1675,683,Beans
+1818,West Bengal,PURULIA,2003,Rabi       ,Khesari,213,121,Vegetables
+1819,West Bengal,PURULIA,2003,Rabi       ,Linseed,170,32,Oilseeds
+1820,West Bengal,PURULIA,2003,Rabi       ,Masoor,7,5,Pulses
+1821,West Bengal,PURULIA,2003,Rabi       ,Moong(Green Gram),68,26,Fruits
+1822,West Bengal,PURULIA,2003,Rabi       ,Peas & beans (Pulses),2,2,Pulses
+1823,West Bengal,PURULIA,2003,Rabi       ,Rapeseed &Mustard,1316,860,Oilseeds
+1824,West Bengal,PURULIA,2003,Rabi       ,Urad,233,112,Pulses
+1825,West Bengal,PURULIA,2003,Rabi       ,Wheat,3609,8206,Cereal
+1826,West Bengal,PURULIA,2003,Summer     ,Groundnut,105,104,Nuts
+1827,West Bengal,PURULIA,2003,Summer     ,Rice,1800,4104,Cereal
+1828,West Bengal,PURULIA,2003,Whole Year ,Arecanut,2,2,Nuts
+1829,West Bengal,PURULIA,2003,Whole Year ,Coconut ,55,186.6,Fruits
+1830,West Bengal,PURULIA,2003,Whole Year ,Dry chillies,1248,531,Species
+1831,West Bengal,PURULIA,2003,Whole Year ,Potato,2025,30317,Vegetables
+1832,West Bengal,PURULIA,2003,Whole Year ,Sannhamp,113,493,Fertile Plant
+1833,West Bengal,PURULIA,2003,Whole Year ,Sesamum,743,319,Oilseeds
+1834,West Bengal,PURULIA,2003,Whole Year ,Sugarcane,121,7496,Sugarcane
+1835,West Bengal,PURULIA,2003,Whole Year ,Turmeric,287,146,Species
+1836,West Bengal,PURULIA,2003,Winter     ,Rice,290796,632908,Cereal
+1837,West Bengal,PURULIA,2004,Autumn     ,Rice,780,1604,Cereal
+1838,West Bengal,PURULIA,2004,Kharif     ,Bajra,111,35,Cereal
+1839,West Bengal,PURULIA,2004,Kharif     ,Dry ginger,116,95,Species
+1840,West Bengal,PURULIA,2004,Kharif     ,Jowar,86,33,Cereal
+1841,West Bengal,PURULIA,2004,Kharif     ,Maize,11097,20529,Cereal
+1842,West Bengal,PURULIA,2004,Kharif     ,Mesta,45,69,fibres
+1843,West Bengal,PURULIA,2004,Kharif     ,Moong(Green Gram),327,147,Fruits
+1844,West Bengal,PURULIA,2004,Kharif     ,Niger seed,374,125,Oilseeds
+1845,West Bengal,PURULIA,2004,Kharif     ,Other Kharif pulses,186,67,Pulses
+1846,West Bengal,PURULIA,2004,Kharif     ,Ragi,94,28,Cereal
+1847,West Bengal,PURULIA,2004,Kharif     ,Small millets,518,131,Cereal
+1848,West Bengal,PURULIA,2004,Kharif     ,Urad,14330,7277,Pulses
+1849,West Bengal,PURULIA,2004,Rabi       ,Arhar/Tur,398,292,Pulses
+1850,West Bengal,PURULIA,2004,Rabi       ,Gram,44,28,Beans
+1851,West Bengal,PURULIA,2004,Rabi       ,Horse-gram,959,395,Beans
+1852,West Bengal,PURULIA,2004,Rabi       ,Khesari,165,84,Vegetables
+1853,West Bengal,PURULIA,2004,Rabi       ,Linseed,232,35,Oilseeds
+1854,West Bengal,PURULIA,2004,Rabi       ,Masoor,19,12,Pulses
+1855,West Bengal,PURULIA,2004,Rabi       ,Moong(Green Gram),12,5,Fruits
+1856,West Bengal,PURULIA,2004,Rabi       ,Rapeseed &Mustard,1286,873,Oilseeds
+1857,West Bengal,PURULIA,2004,Rabi       ,Safflower,94,62,Oilseeds
+1858,West Bengal,PURULIA,2004,Rabi       ,Urad,190,106,Pulses
+1859,West Bengal,PURULIA,2004,Rabi       ,Wheat,1694,3357,Cereal
+1860,West Bengal,PURULIA,2004,Summer     ,Rice,1354,2836,Cereal
+1861,West Bengal,PURULIA,2004,Whole Year ,Coconut ,66,296.1,Fruits
+1862,West Bengal,PURULIA,2004,Whole Year ,Dry chillies,1146,722,Species
+1863,West Bengal,PURULIA,2004,Whole Year ,Groundnut,908,824,Nuts
+1864,West Bengal,PURULIA,2004,Whole Year ,Potato,1629,24307,Vegetables
+1865,West Bengal,PURULIA,2004,Whole Year ,Sannhamp,211,874,Fertile Plant
+1866,West Bengal,PURULIA,2004,Whole Year ,Sesamum,771,298,Oilseeds
+1867,West Bengal,PURULIA,2004,Whole Year ,Sugarcane,722,33391,Sugarcane
+1868,West Bengal,PURULIA,2004,Whole Year ,Tobacco,8,1,Commercial
+1869,West Bengal,PURULIA,2004,Whole Year ,Turmeric,270,166,Species
+1870,West Bengal,PURULIA,2004,Winter     ,Rice,287528,669276,Cereal
+1871,West Bengal,PURULIA,2005,Autumn     ,Rice,1606,1497,Cereal
+1872,West Bengal,PURULIA,2005,Kharif     ,Bajra,52,17,Cereal
+1873,West Bengal,PURULIA,2005,Kharif     ,Cotton(lint),2,7,fibres
+1874,West Bengal,PURULIA,2005,Kharif     ,Dry ginger,116,95,Species
+1875,West Bengal,PURULIA,2005,Kharif     ,Jowar,74,24,Cereal
+1876,West Bengal,PURULIA,2005,Kharif     ,Maize,11203,17898,Cereal
+1877,West Bengal,PURULIA,2005,Kharif     ,Mesta,19,193,fibres
+1878,West Bengal,PURULIA,2005,Kharif     ,Moong(Green Gram),327,147,Fruits
+1879,West Bengal,PURULIA,2005,Kharif     ,Niger seed,278,98,Oilseeds
+1880,West Bengal,PURULIA,2005,Kharif     ,Other Kharif pulses,186,67,Pulses
+1881,West Bengal,PURULIA,2005,Kharif     ,Ragi,118,34,Cereal
+1882,West Bengal,PURULIA,2005,Kharif     ,Small millets,490,137,Cereal
+1883,West Bengal,PURULIA,2005,Kharif     ,Sunflower,45,33,Oilseeds
+1884,West Bengal,PURULIA,2005,Kharif     ,Urad,9942,2608,Pulses
+1885,West Bengal,PURULIA,2005,Rabi       ,Arhar/Tur,1253,1020,Pulses
+1886,West Bengal,PURULIA,2005,Rabi       ,Gram,61,11,Beans
+1887,West Bengal,PURULIA,2005,Rabi       ,Horse-gram,875,378,Beans
+1888,West Bengal,PURULIA,2005,Rabi       ,Khesari,167,63,Vegetables
+1889,West Bengal,PURULIA,2005,Rabi       ,Linseed,1345,276,Oilseeds
+1890,West Bengal,PURULIA,2005,Rabi       ,Masoor,14,3,Pulses
+1891,West Bengal,PURULIA,2005,Rabi       ,Moong(Green Gram),119,57,Fruits
+1892,West Bengal,PURULIA,2005,Rabi       ,Peas & beans (Pulses),3,4,Pulses
+1893,West Bengal,PURULIA,2005,Rabi       ,Rapeseed &Mustard,2202,1621,Oilseeds
+1894,West Bengal,PURULIA,2005,Rabi       ,Urad,232,112,Pulses
+1895,West Bengal,PURULIA,2005,Rabi       ,Wheat,3247,7101,Cereal
+1896,West Bengal,PURULIA,2005,Summer     ,Moong(Green Gram),17,7,Fruits
+1897,West Bengal,PURULIA,2005,Summer     ,Rice,1221,2818,Cereal
+1898,West Bengal,PURULIA,2005,Whole Year ,Coconut ,74,311,Fruits
+1899,West Bengal,PURULIA,2005,Whole Year ,Dry chillies,1132,633,Species
+1900,West Bengal,PURULIA,2005,Whole Year ,Groundnut,1048,992,Nuts
+1901,West Bengal,PURULIA,2005,Whole Year ,Potato,1278,16456,Vegetables
+1902,West Bengal,PURULIA,2005,Whole Year ,Sannhamp,211,874,Fertile Plant
+1903,West Bengal,PURULIA,2005,Whole Year ,Sesamum,684,268,Oilseeds
+1904,West Bengal,PURULIA,2005,Whole Year ,Sugarcane,258,13676,Sugarcane
+1905,West Bengal,PURULIA,2005,Whole Year ,Tobacco,17,5,Commercial
+1906,West Bengal,PURULIA,2005,Whole Year ,Turmeric,284,229,Species
+1907,West Bengal,PURULIA,2005,Winter     ,Rice,264150,524587,Cereal
+1908,West Bengal,PURULIA,2006,Autumn     ,Rice,1993,2992,Cereal
+1909,West Bengal,PURULIA,2006,Kharif     ,Cotton(lint),2,7,fibres
+1910,West Bengal,PURULIA,2006,Kharif     ,Dry ginger,134,128,Species
+1911,West Bengal,PURULIA,2006,Kharif     ,Jowar,40,11,Cereal
+1912,West Bengal,PURULIA,2006,Kharif     ,Maize,11413,19254,Cereal
+1913,West Bengal,PURULIA,2006,Kharif     ,Mesta,59,596,fibres
+1914,West Bengal,PURULIA,2006,Kharif     ,Moong(Green Gram),369,169,Fruits
+1915,West Bengal,PURULIA,2006,Kharif     ,Niger seed,300,96,Oilseeds
+1916,West Bengal,PURULIA,2006,Kharif     ,Other Kharif pulses,281,80,Pulses
+1917,West Bengal,PURULIA,2006,Kharif     ,Ragi,132,33,Cereal
+1918,West Bengal,PURULIA,2006,Kharif     ,Small millets,215,36,Cereal
+1919,West Bengal,PURULIA,2006,Kharif     ,Sunflower,45,33,Oilseeds
+1920,West Bengal,PURULIA,2006,Kharif     ,Urad,11278,4463,Pulses
+1921,West Bengal,PURULIA,2006,Rabi       ,Arhar/Tur,1234,1024,Pulses
+1922,West Bengal,PURULIA,2006,Rabi       ,Gram,60,45,Beans
+1923,West Bengal,PURULIA,2006,Rabi       ,Horse-gram,740,323,Beans
+1924,West Bengal,PURULIA,2006,Rabi       ,Khesari,63,21,Vegetables
+1925,West Bengal,PURULIA,2006,Rabi       ,Linseed,1623,349,Oilseeds
+1926,West Bengal,PURULIA,2006,Rabi       ,Masoor,23,14,Pulses
+1927,West Bengal,PURULIA,2006,Rabi       ,Moong(Green Gram),43,15,Fruits
+1928,West Bengal,PURULIA,2006,Rabi       ,Peas & beans (Pulses),1,1,Pulses
+1929,West Bengal,PURULIA,2006,Rabi       ,Rapeseed &Mustard,4743,2525,Oilseeds
+1930,West Bengal,PURULIA,2006,Rabi       ,Urad,129,74,Pulses
+1931,West Bengal,PURULIA,2006,Rabi       ,Wheat,1785,3654,Cereal
+1932,West Bengal,PURULIA,2006,Summer     ,Moong(Green Gram),54,15,Fruits
+1933,West Bengal,PURULIA,2006,Summer     ,Rice,1336,3319,Cereal
+1934,West Bengal,PURULIA,2006,Whole Year ,Coconut ,73,365000,Fruits
+1935,West Bengal,PURULIA,2006,Whole Year ,Dry chillies,1000,577,Species
+1936,West Bengal,PURULIA,2006,Whole Year ,Groundnut,1095,1082,Nuts
+1937,West Bengal,PURULIA,2006,Whole Year ,Potato,1502,15775,Vegetables
+1938,West Bengal,PURULIA,2006,Whole Year ,Sannhamp,160,912,Fertile Plant
+1939,West Bengal,PURULIA,2006,Whole Year ,Sesamum,1253,616,Oilseeds
+1940,West Bengal,PURULIA,2006,Whole Year ,Sugarcane,189,12778,Sugarcane
+1941,West Bengal,PURULIA,2006,Whole Year ,Tobacco,17,5,Commercial
+1942,West Bengal,PURULIA,2006,Whole Year ,Turmeric,294,261,Species
+1943,West Bengal,PURULIA,2006,Winter     ,Rice,277234,725085,Cereal
+1944,West Bengal,PURULIA,2007,Autumn     ,Rice,2210,3795,Cereal
+1945,West Bengal,PURULIA,2007,Autumn     ,Sesamum,274,149,Oilseeds
+1946,West Bengal,PURULIA,2007,Kharif     ,Bajra,64,23,Cereal
+1947,West Bengal,PURULIA,2007,Kharif     ,Cotton(lint),600,2160,fibres
+1948,West Bengal,PURULIA,2007,Kharif     ,Dry ginger,212,194,Species
+1949,West Bengal,PURULIA,2007,Kharif     ,Garlic,93,840,Species
+1950,West Bengal,PURULIA,2007,Kharif     ,Groundnut,1120,1075,Nuts
+1951,West Bengal,PURULIA,2007,Kharif     ,Jowar,19,5,Cereal
+1952,West Bengal,PURULIA,2007,Kharif     ,Maize,7062,6681,Cereal
+1953,West Bengal,PURULIA,2007,Kharif     ,Mesta,44,27,fibres
+1954,West Bengal,PURULIA,2007,Kharif     ,Moong(Green Gram),289,134,Fruits
+1955,West Bengal,PURULIA,2007,Kharif     ,Niger seed,307,103,Oilseeds
+1956,West Bengal,PURULIA,2007,Kharif     ,Ragi,62,24,Cereal
+1957,West Bengal,PURULIA,2007,Kharif     ,Sannhamp,145,624,Fertile Plant
+1958,West Bengal,PURULIA,2007,Kharif     ,Small millets,230,59,Cereal
+1959,West Bengal,PURULIA,2007,Kharif     ,Sunflower,45,33,Oilseeds
+1960,West Bengal,PURULIA,2007,Kharif     ,Urad,10571,3777,Pulses
+1961,West Bengal,PURULIA,2007,Rabi       ,Arhar/Tur,415,308,Pulses
+1962,West Bengal,PURULIA,2007,Rabi       ,Gram,156,131,Beans
+1963,West Bengal,PURULIA,2007,Rabi       ,Groundnut,25,24,Nuts
+1964,West Bengal,PURULIA,2007,Rabi       ,Horse-gram,613,321,Beans
+1965,West Bengal,PURULIA,2007,Rabi       ,Khesari,139,58,Vegetables
+1966,West Bengal,PURULIA,2007,Rabi       ,Linseed,1076,207,Oilseeds
+1967,West Bengal,PURULIA,2007,Rabi       ,Masoor,16,14,Pulses
+1968,West Bengal,PURULIA,2007,Rabi       ,Moong(Green Gram),61,28,Fruits
+1969,West Bengal,PURULIA,2007,Rabi       ,Peas & beans (Pulses),5,4,Pulses
+1970,West Bengal,PURULIA,2007,Rabi       ,Rapeseed &Mustard,1519,711,Oilseeds
+1971,West Bengal,PURULIA,2007,Rabi       ,Safflower,59,57,Oilseeds
+1972,West Bengal,PURULIA,2007,Rabi       ,Urad,157,97,Pulses
+1973,West Bengal,PURULIA,2007,Rabi       ,Wheat,1614,3785,Cereal
+1974,West Bengal,PURULIA,2007,Summer     ,Groundnut,3,6,Nuts
+1975,West Bengal,PURULIA,2007,Summer     ,Maize,152,288,Cereal
+1976,West Bengal,PURULIA,2007,Summer     ,Moong(Green Gram),3,3,Fruits
+1977,West Bengal,PURULIA,2007,Summer     ,Rice,2825,4437,Cereal
+1978,West Bengal,PURULIA,2007,Summer     ,Sesamum,103,28,Oilseeds
+1979,West Bengal,PURULIA,2007,Whole Year ,Coconut ,58,898000,Fruits
+1980,West Bengal,PURULIA,2007,Whole Year ,Dry chillies,1215,2079,Species
+1981,West Bengal,PURULIA,2007,Whole Year ,Potato,1123,9322,Vegetables
+1982,West Bengal,PURULIA,2007,Whole Year ,Sugarcane,635,42490,Sugarcane
+1983,West Bengal,PURULIA,2007,Whole Year ,Tobacco,13,3,Commercial
+1984,West Bengal,PURULIA,2007,Whole Year ,Turmeric,289,178,Species
+1985,West Bengal,PURULIA,2007,Winter     ,Rice,308632,759940,Cereal
+1986,West Bengal,PURULIA,2007,Winter     ,Sesamum,233,93,Oilseeds
+1987,West Bengal,PURULIA,2008,Autumn     ,Maize,7889,12315,Cereal
+1988,West Bengal,PURULIA,2008,Autumn     ,Ragi,87,28,Cereal
+1989,West Bengal,PURULIA,2008,Autumn     ,Rice,2119,4169,Cereal
+1990,West Bengal,PURULIA,2008,Autumn     ,Sesamum,291,158,Oilseeds
+1991,West Bengal,PURULIA,2008,Kharif     ,Bajra,75,26,Cereal
+1992,West Bengal,PURULIA,2008,Kharif     ,Cotton(lint),600,2160,fibres
+1993,West Bengal,PURULIA,2008,Kharif     ,Dry ginger,212,194,Species
+1994,West Bengal,PURULIA,2008,Kharif     ,Groundnut,1082,1197,Nuts
+1995,West Bengal,PURULIA,2008,Kharif     ,Jowar,26,10,Cereal
+1996,West Bengal,PURULIA,2008,Kharif     ,Mesta,24,16,fibres
+1997,West Bengal,PURULIA,2008,Kharif     ,Moong(Green Gram),287,134,Fruits
+1998,West Bengal,PURULIA,2008,Kharif     ,Niger seed,268,85,Oilseeds
+1999,West Bengal,PURULIA,2008,Kharif     ,Sannhamp,110,594,Fertile Plant
+2000,West Bengal,PURULIA,2008,Kharif     ,Small millets,221,49,Cereal
+2001,West Bengal,PURULIA,2008,Kharif     ,Sunflower,148,86,Oilseeds
+2002,West Bengal,PURULIA,2008,Kharif     ,Urad,14862,6443,Pulses
+2003,West Bengal,PURULIA,2008,Rabi       ,Arhar/Tur,144,63,Pulses
+2004,West Bengal,PURULIA,2008,Rabi       ,Gram,13,16,Beans
+2005,West Bengal,PURULIA,2008,Rabi       ,Groundnut,6,8,Nuts
+2006,West Bengal,PURULIA,2008,Rabi       ,Horse-gram,660,337,Beans
+2007,West Bengal,PURULIA,2008,Rabi       ,Linseed,219,33,Oilseeds
+2008,West Bengal,PURULIA,2008,Rabi       ,Masoor,15,8,Pulses
+2009,West Bengal,PURULIA,2008,Rabi       ,Moong(Green Gram),20,12,Fruits
+2010,West Bengal,PURULIA,2008,Rabi       ,Rapeseed &Mustard,1235,623,Oilseeds
+2011,West Bengal,PURULIA,2008,Rabi       ,Safflower,59,57,Oilseeds
+2012,West Bengal,PURULIA,2008,Rabi       ,Urad,107,60,Pulses
+2013,West Bengal,PURULIA,2008,Rabi       ,Wheat,850,1725,Cereal
+2014,West Bengal,PURULIA,2008,Summer     ,Groundnut,3,6,Nuts
+2015,West Bengal,PURULIA,2008,Summer     ,Maize,152,288,Cereal
+2016,West Bengal,PURULIA,2008,Summer     ,Moong(Green Gram),5,4,Fruits
+2017,West Bengal,PURULIA,2008,Summer     ,Rice,1014,1869,Cereal
+2018,West Bengal,PURULIA,2008,Summer     ,Sesamum,165,95,Oilseeds
+2019,West Bengal,PURULIA,2008,Whole Year ,Arecanut,10,8,Nuts
+2020,West Bengal,PURULIA,2008,Whole Year ,Coconut ,58,598,Fruits
+2021,West Bengal,PURULIA,2008,Whole Year ,Dry chillies,1215,2079,Species
+2022,West Bengal,PURULIA,2008,Whole Year ,Potato,767,16512,Vegetables
+2023,West Bengal,PURULIA,2008,Whole Year ,Sugarcane,541,25991,Sugarcane
+2024,West Bengal,PURULIA,2008,Whole Year ,Tobacco,7,2,Commercial
+2025,West Bengal,PURULIA,2008,Whole Year ,Turmeric,289,378,Species
+2026,West Bengal,PURULIA,2008,Winter     ,Rice,297872,738143,Cereal
+2027,West Bengal,PURULIA,2008,Winter     ,Sesamum,261,105,Oilseeds
+2028,West Bengal,PURULIA,2009,Autumn     ,Groundnut,745,784,Nuts
+2029,West Bengal,PURULIA,2009,Autumn     ,Maize,7270,9535,Cereal
+2030,West Bengal,PURULIA,2009,Autumn     ,Ragi,79,23,Cereal
+2031,West Bengal,PURULIA,2009,Autumn     ,Rice,162,134,Cereal
+2032,West Bengal,PURULIA,2009,Autumn     ,Sesamum,228,114,Oilseeds
+2033,West Bengal,PURULIA,2009,Kharif     ,Bajra,47,16,Cereal
+2034,West Bengal,PURULIA,2009,Kharif     ,Cotton(lint),600,2160,fibres
+2035,West Bengal,PURULIA,2009,Kharif     ,Jowar,29,14,Cereal
+2036,West Bengal,PURULIA,2009,Kharif     ,Mesta,38,104,fibres
+2037,West Bengal,PURULIA,2009,Kharif     ,Moong(Green Gram),304,141,Fruits
+2038,West Bengal,PURULIA,2009,Kharif     ,Niger seed,247,83,Oilseeds
+2039,West Bengal,PURULIA,2009,Kharif     ,Sannhamp,68,291,Fertile Plant
+2040,West Bengal,PURULIA,2009,Kharif     ,Small millets,113,32,Cereal
+2041,West Bengal,PURULIA,2009,Kharif     ,Sunflower,470,727,Oilseeds
+2042,West Bengal,PURULIA,2009,Kharif     ,Urad,11411,3598,Pulses
+2043,West Bengal,PURULIA,2009,Rabi       ,Arhar/Tur,107,73,Pulses
+2044,West Bengal,PURULIA,2009,Rabi       ,Gram,74,37,Beans
+2045,West Bengal,PURULIA,2009,Rabi       ,Groundnut,6511,11394,Nuts
+2046,West Bengal,PURULIA,2009,Rabi       ,Horse-gram,514,260,Beans
+2047,West Bengal,PURULIA,2009,Rabi       ,Khesari,21,8,Vegetables
+2048,West Bengal,PURULIA,2009,Rabi       ,Linseed,420,82,Oilseeds
+2049,West Bengal,PURULIA,2009,Rabi       ,Masoor,3,2,Pulses
+2050,West Bengal,PURULIA,2009,Rabi       ,Moong(Green Gram),32,22,Fruits
+2051,West Bengal,PURULIA,2009,Rabi       ,Potato,1187,24924,Vegetables
+2052,West Bengal,PURULIA,2009,Rabi       ,Rapeseed &Mustard,904,664,Oilseeds
+2053,West Bengal,PURULIA,2009,Rabi       ,Safflower,29,24,Oilseeds
+2054,West Bengal,PURULIA,2009,Rabi       ,Urad,65,38,Pulses
+2055,West Bengal,PURULIA,2009,Rabi       ,Wheat,1652,2666,Cereal
+2056,West Bengal,PURULIA,2009,Summer     ,Groundnut,3,6,Nuts
+2057,West Bengal,PURULIA,2009,Summer     ,Maize,152,288,Cereal
+2058,West Bengal,PURULIA,2009,Summer     ,Rice,374,795,Cereal
+2059,West Bengal,PURULIA,2009,Summer     ,Sesamum,15,11,Oilseeds
+2060,West Bengal,PURULIA,2009,Whole Year ,Sugarcane,304,25261,Sugarcane
+2061,West Bengal,PURULIA,2009,Whole Year ,Tobacco,10,3,Commercial
+2062,West Bengal,PURULIA,2009,Winter     ,Rice,265107,597845,Cereal
+2063,West Bengal,PURULIA,2009,Winter     ,Sesamum,238,87,Oilseeds
+2064,West Bengal,PURULIA,2010,Autumn     ,Groundnut,982,1019,Nuts
+2065,West Bengal,PURULIA,2010,Autumn     ,Jowar,25,10,Cereal
+2066,West Bengal,PURULIA,2010,Autumn     ,Maize,5159,9162,Cereal
+2067,West Bengal,PURULIA,2010,Autumn     ,Ragi,76,25,Cereal
+2068,West Bengal,PURULIA,2010,Autumn     ,Rice,122,35,Cereal
+2069,West Bengal,PURULIA,2010,Autumn     ,Sesamum,264,140,Oilseeds
+2070,West Bengal,PURULIA,2010,Kharif     ,Bajra,62,22,Cereal
+2071,West Bengal,PURULIA,2010,Kharif     ,Horse-gram,784,407,Beans
+2072,West Bengal,PURULIA,2010,Kharif     ,Mesta,31,62,fibres
+2073,West Bengal,PURULIA,2010,Kharif     ,Moong(Green Gram),293,136,Fruits
+2074,West Bengal,PURULIA,2010,Kharif     ,Niger seed,205,74,Oilseeds
+2075,West Bengal,PURULIA,2010,Kharif     ,Sannhamp,10,40,Fertile Plant
+2076,West Bengal,PURULIA,2010,Kharif     ,Small millets,188,47,Cereal
+2077,West Bengal,PURULIA,2010,Kharif     ,Sunflower,37,40,Oilseeds
+2078,West Bengal,PURULIA,2010,Kharif     ,Urad,7952,1559,Pulses
+2079,West Bengal,PURULIA,2010,Rabi       ,Arhar/Tur,105,95,Pulses
+2080,West Bengal,PURULIA,2010,Rabi       ,Gram,56,68,Beans
+2081,West Bengal,PURULIA,2010,Rabi       ,Groundnut,4,6,Nuts
+2082,West Bengal,PURULIA,2010,Rabi       ,Khesari,25,33,Vegetables
+2083,West Bengal,PURULIA,2010,Rabi       ,Linseed,347,119,Oilseeds
+2084,West Bengal,PURULIA,2010,Rabi       ,Masoor,3,2,Pulses
+2085,West Bengal,PURULIA,2010,Rabi       ,Moong(Green Gram),52,42,Fruits
+2086,West Bengal,PURULIA,2010,Rabi       ,Potato,977,15920,Vegetables
+2087,West Bengal,PURULIA,2010,Rabi       ,Rapeseed &Mustard,886,542,Oilseeds
+2088,West Bengal,PURULIA,2010,Rabi       ,Safflower,61,40,Oilseeds
+2089,West Bengal,PURULIA,2010,Rabi       ,Urad,531,267,Pulses
+2090,West Bengal,PURULIA,2010,Rabi       ,Wheat,2013,5152,Cereal
+2091,West Bengal,PURULIA,2010,Summer     ,Groundnut,4,14,Nuts
+2092,West Bengal,PURULIA,2010,Summer     ,Maize,258,391,Cereal
+2093,West Bengal,PURULIA,2010,Summer     ,Rice,105,281,Cereal
+2094,West Bengal,PURULIA,2010,Whole Year ,Sugarcane,303,11541,Sugarcane
+2095,West Bengal,PURULIA,2010,Winter     ,Rice,152676,261435,Cereal
+2096,West Bengal,PURULIA,2010,Winter     ,Sesamum,244,95,Oilseeds
+2097,West Bengal,PURULIA,2011,Autumn     ,Groundnut,662,670,Nuts
+2098,West Bengal,PURULIA,2011,Autumn     ,Maize,5380,9013,Cereal
+2099,West Bengal,PURULIA,2011,Autumn     ,Ragi,129,55,Cereal
+2100,West Bengal,PURULIA,2011,Autumn     ,Rice,200,245,Cereal
+2101,West Bengal,PURULIA,2011,Autumn     ,Sesamum,155,79,Oilseeds
+2102,West Bengal,PURULIA,2011,Kharif     ,Bajra,59,22,Cereal
+2103,West Bengal,PURULIA,2011,Kharif     ,Horse-gram,642,317,Beans
+2104,West Bengal,PURULIA,2011,Kharif     ,Jowar,23,6,Cereal
+2105,West Bengal,PURULIA,2011,Kharif     ,Mesta,3,3,fibres
+2106,West Bengal,PURULIA,2011,Kharif     ,Moong(Green Gram),230,112,Fruits
+2107,West Bengal,PURULIA,2011,Kharif     ,Niger seed,193,72,Oilseeds
+2108,West Bengal,PURULIA,2011,Kharif     ,Sannhamp,91,364,Fertile Plant
+2109,West Bengal,PURULIA,2011,Kharif     ,Small millets,138,35,Cereal
+2110,West Bengal,PURULIA,2011,Kharif     ,Sunflower,42,40,Oilseeds
+2111,West Bengal,PURULIA,2011,Kharif     ,Urad,9114,2991,Pulses
+2112,West Bengal,PURULIA,2011,Rabi       ,Arhar/Tur,66,45,Pulses
+2113,West Bengal,PURULIA,2011,Rabi       ,Gram,53,53,Beans
+2114,West Bengal,PURULIA,2011,Rabi       ,Groundnut,46,36,Nuts
+2115,West Bengal,PURULIA,2011,Rabi       ,Linseed,417,80,Oilseeds
+2116,West Bengal,PURULIA,2011,Rabi       ,Moong(Green Gram),78,44,Fruits
+2117,West Bengal,PURULIA,2011,Rabi       ,Potato,1077,17412,Vegetables
+2118,West Bengal,PURULIA,2011,Rabi       ,Rapeseed &Mustard,946,652,Oilseeds
+2119,West Bengal,PURULIA,2011,Rabi       ,Safflower,38,29,Oilseeds
+2120,West Bengal,PURULIA,2011,Rabi       ,Urad,182,93,Pulses
+2121,West Bengal,PURULIA,2011,Rabi       ,Wheat,1880,4206,Cereal
+2122,West Bengal,PURULIA,2011,Summer     ,Maize,459,749,Cereal
+2123,West Bengal,PURULIA,2011,Summer     ,Rice,122,301,Cereal
+2124,West Bengal,PURULIA,2011,Summer     ,Sesamum,64,29,Oilseeds
+2125,West Bengal,PURULIA,2011,Whole Year ,Sugarcane,303,20264,Sugarcane
+2126,West Bengal,PURULIA,2011,Winter     ,Rice,270270,731799,Cereal
+2127,West Bengal,PURULIA,2011,Winter     ,Sesamum,191,82,Oilseeds
+2128,West Bengal,PURULIA,2012,Autumn     ,Groundnut,796,824,Nuts
+2129,West Bengal,PURULIA,2012,Autumn     ,Jowar,26,10,Cereal
+2130,West Bengal,PURULIA,2012,Autumn     ,Maize,5677,11595,Cereal
+2131,West Bengal,PURULIA,2012,Autumn     ,Ragi,95,34,Cereal
+2132,West Bengal,PURULIA,2012,Autumn     ,Rice,123,308,Cereal
+2133,West Bengal,PURULIA,2012,Autumn     ,Sesamum,216,111,Oilseeds
+2134,West Bengal,PURULIA,2012,Autumn     ,Small millets,163,41,Cereal
+2135,West Bengal,PURULIA,2012,Kharif     ,Bajra,56,20,Cereal
+2136,West Bengal,PURULIA,2012,Kharif     ,Horse-gram,647,328,Beans
+2137,West Bengal,PURULIA,2012,Kharif     ,Moong(Green Gram),276,130,Fruits
+2138,West Bengal,PURULIA,2012,Kharif     ,Niger seed,215,76,Oilseeds
+2139,West Bengal,PURULIA,2012,Kharif     ,Sannhamp,56,238,Fertile Plant
+2140,West Bengal,PURULIA,2012,Kharif     ,Sunflower,53,44,Oilseeds
+2141,West Bengal,PURULIA,2012,Kharif     ,Urad,9258,2910,Pulses
+2142,West Bengal,PURULIA,2012,Rabi       ,Arhar/Tur,107,240,Pulses
+2143,West Bengal,PURULIA,2012,Rabi       ,Gram,181,224,Beans
+2144,West Bengal,PURULIA,2012,Rabi       ,Groundnut,22,19,Nuts
+2145,West Bengal,PURULIA,2012,Rabi       ,Khesari,54,62,Vegetables
+2146,West Bengal,PURULIA,2012,Rabi       ,Linseed,393,73,Oilseeds
+2147,West Bengal,PURULIA,2012,Rabi       ,Masoor,31,28,Pulses
+2148,West Bengal,PURULIA,2012,Rabi       ,Moong(Green Gram),54,36,Fruits
+2149,West Bengal,PURULIA,2012,Rabi       ,Potato,913,17203,Vegetables
+2150,West Bengal,PURULIA,2012,Rabi       ,Rapeseed &Mustard,820,571,Oilseeds
+2151,West Bengal,PURULIA,2012,Rabi       ,Safflower,43,31,Oilseeds
+2152,West Bengal,PURULIA,2012,Rabi       ,Urad,259,133,Pulses
+2153,West Bengal,PURULIA,2012,Rabi       ,Wheat,1648,3310,Cereal
+2154,West Bengal,PURULIA,2012,Summer     ,Maize,290,476,Cereal
+2155,West Bengal,PURULIA,2012,Summer     ,Rice,280,872,Cereal
+2156,West Bengal,PURULIA,2012,Summer     ,Sesamum,51,28,Oilseeds
+2157,West Bengal,PURULIA,2012,Whole Year ,Sugarcane,314,11199,Sugarcane
+2158,West Bengal,PURULIA,2012,Winter     ,Rice,288735,729553,Cereal
+2159,West Bengal,PURULIA,2012,Winter     ,Sesamum,224,88,Oilseeds
+2160,West Bengal,PURULIA,2013,Autumn     ,Groundnut,676,691,Nuts
+2161,West Bengal,PURULIA,2013,Autumn     ,Maize,6189,10665,Cereal
+2162,West Bengal,PURULIA,2013,Autumn     ,Rice,92,128,Cereal
+2163,West Bengal,PURULIA,2013,Autumn     ,Sesamum,140,76,Oilseeds
+2164,West Bengal,PURULIA,2013,Autumn     ,Small millets,163,41,Cereal
+2165,West Bengal,PURULIA,2013,Kharif     ,Bajra,34,14,Cereal
+2166,West Bengal,PURULIA,2013,Kharif     ,Horse-gram,691,350,Beans
+2167,West Bengal,PURULIA,2013,Kharif     ,Jowar,25,7,Cereal
+2168,West Bengal,PURULIA,2013,Kharif     ,Jute,11,215,fibres
+2169,West Bengal,PURULIA,2013,Kharif     ,Moong(Green Gram),132,69,Fruits
+2170,West Bengal,PURULIA,2013,Kharif     ,Other Kharif pulses,79,37,Pulses
+2171,West Bengal,PURULIA,2013,Kharif     ,Sannhamp,117,706,Fertile Plant
+2172,West Bengal,PURULIA,2013,Kharif     ,Soyabean,15,6,Beans
+2173,West Bengal,PURULIA,2013,Kharif     ,Sunflower,44,41,Oilseeds
+2174,West Bengal,PURULIA,2013,Kharif     ,Urad,12986,2877,Pulses
+2175,West Bengal,PURULIA,2013,Rabi       ,Arhar/Tur,332,406,Pulses
+2176,West Bengal,PURULIA,2013,Rabi       ,Gram,199,250,Beans
+2177,West Bengal,PURULIA,2013,Rabi       ,Groundnut,22,19,Nuts
+2178,West Bengal,PURULIA,2013,Rabi       ,Khesari,146,125,Vegetables
+2179,West Bengal,PURULIA,2013,Rabi       ,Linseed,215,42,Oilseeds
+2180,West Bengal,PURULIA,2013,Rabi       ,Masoor,7,2,Pulses
+2181,West Bengal,PURULIA,2013,Rabi       ,Moong(Green Gram),61,41,Fruits
+2182,West Bengal,PURULIA,2013,Rabi       ,Moth,15,13,Beans
+2183,West Bengal,PURULIA,2013,Rabi       ,Peas & beans (Pulses),12,17,Pulses
+2184,West Bengal,PURULIA,2013,Rabi       ,Potato,1726,43703,Vegetables
+2185,West Bengal,PURULIA,2013,Rabi       ,Ragi,84,29,Cereal
+2186,West Bengal,PURULIA,2013,Rabi       ,Rapeseed &Mustard,3187,3153,Oilseeds
+2187,West Bengal,PURULIA,2013,Rabi       ,Safflower,47,33,Oilseeds
+2188,West Bengal,PURULIA,2013,Rabi       ,Wheat,1187,2675,Cereal
+2189,West Bengal,PURULIA,2013,Summer     ,Maize,325,522,Cereal
+2190,West Bengal,PURULIA,2013,Summer     ,Rice,516,1274,Cereal
+2191,West Bengal,PURULIA,2013,Summer     ,Sesamum,697,356,Oilseeds
+2192,West Bengal,PURULIA,2013,Whole Year ,Sugarcane,161,7948,Sugarcane
+2193,West Bengal,PURULIA,2013,Winter     ,Rice,302274,730136,Cereal
+2194,West Bengal,PURULIA,2013,Winter     ,Sesamum,208,101,Oilseeds
+2195,West Bengal,PURULIA,2014,Autumn     ,Groundnut,711,694,Nuts
+2196,West Bengal,PURULIA,2014,Autumn     ,Jowar,25,8,Cereal
+2197,West Bengal,PURULIA,2014,Autumn     ,Maize,6317,13337,Cereal
+2198,West Bengal,PURULIA,2014,Autumn     ,Ragi,112,44,Cereal
+2199,West Bengal,PURULIA,2014,Autumn     ,Rice,264,721,Cereal
+2200,West Bengal,PURULIA,2014,Autumn     ,Sesamum,170,87,Oilseeds
+2201,West Bengal,PURULIA,2014,Autumn     ,Small millets,154,41,Cereal
+2202,West Bengal,PURULIA,2014,Kharif     ,Bajra,49,19,Cereal
+2203,West Bengal,PURULIA,2014,Kharif     ,Mesta,159,2065,fibres
+2204,West Bengal,PURULIA,2014,Kharif     ,Moong(Green Gram),181,100,Fruits
+2205,West Bengal,PURULIA,2014,Kharif     ,Moth,16,14,Beans
+2206,West Bengal,PURULIA,2014,Kharif     ,Niger seed,204,74,Oilseeds
+2207,West Bengal,PURULIA,2014,Kharif     ,Other Kharif pulses,79,39,Pulses
+2208,West Bengal,PURULIA,2014,Kharif     ,Sannhamp,171,727,Fertile Plant
+2209,West Bengal,PURULIA,2014,Kharif     ,Soyabean,18,7,Beans
+2210,West Bengal,PURULIA,2014,Kharif     ,Sunflower,46,42,Oilseeds
+2211,West Bengal,PURULIA,2014,Kharif     ,Urad,11493,3287,Pulses
+2212,West Bengal,PURULIA,2014,Rabi       ,Arhar/Tur,671,723,Pulses
+2213,West Bengal,PURULIA,2014,Rabi       ,Gram,198,203,Beans
+2214,West Bengal,PURULIA,2014,Rabi       ,Groundnut,30,25,Nuts
+2215,West Bengal,PURULIA,2014,Rabi       ,Horse-gram,660,332,Beans
+2216,West Bengal,PURULIA,2014,Rabi       ,Khesari,146,126,Vegetables
+2217,West Bengal,PURULIA,2014,Rabi       ,Linseed,160,51,Oilseeds
+2218,West Bengal,PURULIA,2014,Rabi       ,Masoor,31,19,Pulses
+2219,West Bengal,PURULIA,2014,Rabi       ,Moong(Green Gram),64,40,Fruits
+2220,West Bengal,PURULIA,2014,Rabi       ,Peas & beans (Pulses),12,12,Pulses
+2221,West Bengal,PURULIA,2014,Rabi       ,Potato,477,9995,Vegetables
+2222,West Bengal,PURULIA,2014,Rabi       ,Rapeseed &Mustard,1885,1508,Oilseeds
+2223,West Bengal,PURULIA,2014,Rabi       ,Safflower,54,37,Oilseeds
+2224,West Bengal,PURULIA,2014,Rabi       ,Urad,220,113,Pulses
+2225,West Bengal,PURULIA,2014,Rabi       ,Wheat,1622,3663,Cereal
+2226,West Bengal,PURULIA,2014,Summer     ,Maize,325,2039,Cereal
+2227,West Bengal,PURULIA,2014,Summer     ,Rice,306,801,Cereal
+2228,West Bengal,PURULIA,2014,Summer     ,Sesamum,627,463,Oilseeds
+2229,West Bengal,PURULIA,2014,Whole Year ,Sugarcane,324,16250,Sugarcane
+2230,West Bengal,PURULIA,2014,Winter     ,Rice,279151,597899,Cereal
+2231,West Bengal,PURULIA,2014,Winter     ,Sesamum,175,88,Oilseeds
